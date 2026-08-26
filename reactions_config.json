@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "reactions": [
+    { "id": "love", "emoji": "\u2764\ufe0f", "label": "Love this" },
+    { "id": "fire", "emoji": "\ud83d\udd25", "label": "Amazing" },
+    { "id": "funny", "emoji": "\ud83d\ude02", "label": "Hilarious" },
+    { "id": "weird", "emoji": "\ud83e\udd2f", "label": "So weird" },
+    { "id": "interesting", "emoji": "\ud83e\udd14", "label": "Interesting" },
+    { "id": "yikes", "emoji": "\ud83d\ude2c", "label": "Yikes" },
+    { "id": "not_okay", "emoji": "\ud83d\ude21", "label": "Not okay" },
+    { "id": "good_read", "emoji": "\ud83d\udc4d", "label": "Good read" },
+    { "id": "meh", "emoji": "\ud83d\udc4e", "label": "Meh" }
+  ],
+  "handles": [
+    "Skeptic", "Night Owl", "Curious Reader", "News Junkie", "Early Bird",
+    "Realist", "Optimist", "Wanderer", "Bookworm", "Insider",
+    "Analyst", "Bystander", "Commuter", "Homebody", "Explorer",
+    "Historian", "Dreamer", "Contrarian", "Regular Reader", "Lurker"
+  ]
+}
