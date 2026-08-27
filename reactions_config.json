@@ -1,15 +1,51 @@
 {
-  "version": 1,
+  "version": 2,
   "reactions": [
     { "id": "love", "emoji": "\u2764\ufe0f", "label": "Love this" },
     { "id": "fire", "emoji": "\ud83d\udd25", "label": "Amazing" },
+    { "id": "great_idea", "emoji": "\ud83d\udca1", "label": "Great idea" },
     { "id": "funny", "emoji": "\ud83d\ude02", "label": "Hilarious" },
+    { "id": "lol", "emoji": "\ud83e\udd23", "label": "LOL" },
+    { "id": "omg", "emoji": "\ud83d\ude2e", "label": "OMG" },
     { "id": "weird", "emoji": "\ud83e\udd2f", "label": "So weird" },
-    { "id": "interesting", "emoji": "\ud83e\udd14", "label": "Interesting" },
+    { "id": "interesting", "emoji": "\ud83e\udd14", "label": "Interesting\u2026" },
     { "id": "yikes", "emoji": "\ud83d\ude2c", "label": "Yikes" },
     { "id": "not_okay", "emoji": "\ud83d\ude21", "label": "Not okay" },
+    { "id": "not_a_chance", "emoji": "\ud83d\ude45", "label": "Not a chance" },
     { "id": "good_read", "emoji": "\ud83d\udc4d", "label": "Good read" },
     { "id": "meh", "emoji": "\ud83d\udc4e", "label": "Meh" }
+  ],
+  "replies": [
+    { "id": "reply_said_better", "group": "agreeing", "label": "I couldn't have said it better." },
+    { "id": "reply_good_point", "group": "agreeing", "label": "You do have a good point there." },
+    { "id": "reply_with_you", "group": "agreeing", "label": "I'm with you on this." },
+    { "id": "reply_exactly", "group": "agreeing", "label": "Exactly what I was thinking." },
+    { "id": "reply_spot_on", "group": "agreeing", "label": "This is spot on." },
+    { "id": "reply_support_100", "group": "agreeing", "label": "I'd support this idea 100%." },
+    { "id": "reply_glad_said", "group": "agreeing", "label": "Glad someone finally said this." },
+
+    { "id": "reply_not_how", "group": "pushback", "label": "That's not how it works, lol." },
+    { "id": "reply_see_disagree", "group": "pushback", "label": "I see your point, but I disagree." },
+    { "id": "reply_full_story", "group": "pushback", "label": "I don't think that's the full story." },
+    { "id": "reply_not_convinced", "group": "pushback", "label": "Respectfully, I'm not convinced." },
+    { "id": "reply_cant_get_behind", "group": "pushback", "label": "I'm not sure I can get behind this." },
+    { "id": "reply_not_same_page", "group": "pushback", "label": "We're definitely not on the same page here." },
+
+    { "id": "reply_feel_for", "group": "empathy", "label": "I feel for everyone involved here." },
+    { "id": "reply_tough", "group": "empathy", "label": "This is really tough for everyone." },
+    { "id": "reply_no_sympathy", "group": "empathy", "label": "No sympathy here, honestly." },
+    { "id": "reply_consequences", "group": "empathy", "label": "Actions have consequences \u2014 this is one of them." },
+
+    { "id": "reply_more_details", "group": "clarifying", "label": "I'd like to see more details before deciding." },
+    { "id": "reply_more_to_this", "group": "clarifying", "label": "There's more to this than the headline." },
+    { "id": "reply_good_questions", "group": "clarifying", "label": "This raises some good questions." },
+    { "id": "reply_still_processing", "group": "clarifying", "label": "I'm still trying to process this." },
+    { "id": "reply_curious_outcome", "group": "clarifying", "label": "I'm curious how this plays out long-term." },
+
+    { "id": "reply_cant_believe", "group": "light", "label": "I can't believe this is real." },
+    { "id": "reply_made_laugh", "group": "light", "label": "You know what, this actually made me laugh." },
+    { "id": "reply_wild", "group": "light", "label": "This is wild, but I'm here for it." },
+    { "id": "reply_didnt_expect", "group": "light", "label": "I didn't expect to agree, but here we are." }
   ],
   "handles": [
     "Skeptic", "Night Owl", "Curious Reader", "News Junkie", "Early Bird",
