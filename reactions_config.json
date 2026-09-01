@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "reactions": [
     { "id": "love", "emoji": "\u2764\ufe0f", "label": "Love this" },
     { "id": "fire", "emoji": "\ud83d\udd25", "label": "Amazing" },
@@ -15,38 +15,318 @@
     { "id": "good_read", "emoji": "\ud83d\udc4d", "label": "Good read" },
     { "id": "meh", "emoji": "\ud83d\udc4e", "label": "Meh" }
   ],
-  "replies": [
-    { "id": "reply_said_better", "group": "agreeing", "label": "I couldn't have said it better." },
-    { "id": "reply_good_point", "group": "agreeing", "label": "You do have a good point there." },
-    { "id": "reply_with_you", "group": "agreeing", "label": "I'm with you on this." },
-    { "id": "reply_exactly", "group": "agreeing", "label": "Exactly what I was thinking." },
-    { "id": "reply_spot_on", "group": "agreeing", "label": "This is spot on." },
-    { "id": "reply_support_100", "group": "agreeing", "label": "I'd support this idea 100%." },
-    { "id": "reply_glad_said", "group": "agreeing", "label": "Glad someone finally said this." },
-
-    { "id": "reply_not_how", "group": "pushback", "label": "That's not how it works, lol." },
-    { "id": "reply_see_disagree", "group": "pushback", "label": "I see your point, but I disagree." },
-    { "id": "reply_full_story", "group": "pushback", "label": "I don't think that's the full story." },
-    { "id": "reply_not_convinced", "group": "pushback", "label": "Respectfully, I'm not convinced." },
-    { "id": "reply_cant_get_behind", "group": "pushback", "label": "I'm not sure I can get behind this." },
-    { "id": "reply_not_same_page", "group": "pushback", "label": "We're definitely not on the same page here." },
-
-    { "id": "reply_feel_for", "group": "empathy", "label": "I feel for everyone involved here." },
-    { "id": "reply_tough", "group": "empathy", "label": "This is really tough for everyone." },
-    { "id": "reply_no_sympathy", "group": "empathy", "label": "No sympathy here, honestly." },
-    { "id": "reply_consequences", "group": "empathy", "label": "Actions have consequences \u2014 this is one of them." },
-
-    { "id": "reply_more_details", "group": "clarifying", "label": "I'd like to see more details before deciding." },
-    { "id": "reply_more_to_this", "group": "clarifying", "label": "There's more to this than the headline." },
-    { "id": "reply_good_questions", "group": "clarifying", "label": "This raises some good questions." },
-    { "id": "reply_still_processing", "group": "clarifying", "label": "I'm still trying to process this." },
-    { "id": "reply_curious_outcome", "group": "clarifying", "label": "I'm curious how this plays out long-term." },
-
-    { "id": "reply_cant_believe", "group": "light", "label": "I can't believe this is real." },
-    { "id": "reply_made_laugh", "group": "light", "label": "You know what, this actually made me laugh." },
-    { "id": "reply_wild", "group": "light", "label": "This is wild, but I'm here for it." },
-    { "id": "reply_didnt_expect", "group": "light", "label": "I didn't expect to agree, but here we are." }
+  "universal_replies": [
+    {
+      "id": "branch_agree",
+      "label": "Agree & Support",
+      "icon": "\ud83d\udc4d",
+      "children": [
+        {
+          "id": "agree_based",
+          "label": "100% based take.",
+          "children": [
+            { "id": "reply_said_better", "label": "Couldn't have said it better myself." },
+            { "id": "reply_spot_on", "label": "This is spot on." },
+            { "id": "agree_receipts", "label": "The receipts don't lie on this one." }
+          ]
+        },
+        {
+          "id": "agree_with_you",
+          "label": "I'm with you on this.",
+          "children": [
+            { "id": "reply_good_point", "label": "You do have a great point there." },
+            { "id": "reply_support_100", "label": "I support this idea 100%." },
+            { "id": "reply_glad_said", "label": "Glad someone finally said this out loud." }
+          ]
+        },
+        {
+          "id": "agree_w_take",
+          "label": "Absolute W take.",
+          "children": [
+            { "id": "agree_underrated", "label": "Massively underrated perspective." },
+            { "id": "agree_shout_it", "label": "Louder for the people in the back!" },
+            { "id": "reply_exactly", "label": "Exactly what I was thinking." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "branch_disagree",
+      "label": "Disagree & Banter",
+      "icon": "\ud83d\ude45",
+      "children": [
+        {
+          "id": "disagree_cap",
+          "label": "Nah, that's pure cap.",
+          "children": [
+            { "id": "disagree_source_trust_me", "label": "Source: trust me bro \ud83d\udc80" },
+            { "id": "disagree_touch_grass", "label": "Time to log off and touch some grass." },
+            { "id": "reply_not_how", "label": "That's not how any of this works, lol." }
+          ]
+        },
+        {
+          "id": "disagree_respectful",
+          "label": "Respectfully disagree.",
+          "children": [
+            { "id": "reply_see_disagree", "label": "I see your point, but I disagree." },
+            { "id": "reply_not_convinced", "label": "Respectfully, I'm not convinced at all." },
+            { "id": "reply_cant_get_behind", "label": "I'm not sure I can get behind this." }
+          ]
+        },
+        {
+          "id": "disagree_l_take",
+          "label": "Unbelievable L take.",
+          "children": [
+            { "id": "disagree_who_asked", "label": "Who let them cook this up? \ud83e\udd74" },
+            { "id": "disagree_aint_it", "label": "Chief, this ain't it." },
+            { "id": "reply_not_same_page", "label": "We're definitely not on the same page here." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "branch_concern",
+      "label": "Sad & Concern",
+      "icon": "\ud83d\udc94",
+      "children": [
+        {
+          "id": "concern_empathy",
+          "label": "This is heartbreaking.",
+          "children": [
+            { "id": "reply_feel_for", "label": "I feel so bad for everyone involved." },
+            { "id": "reply_tough", "label": "This is really tough for everyone." },
+            { "id": "concern_prayers", "label": "Sending thoughts and prayers to all affected." }
+          ]
+        },
+        {
+          "id": "concern_prevent",
+          "label": "How can we stop this from happening again?",
+          "children": [
+            { "id": "concern_investigate", "label": "Need an immediate investigation into root causes." },
+            { "id": "concern_accountability", "label": "Need to find out who is responsible here." },
+            { "id": "concern_leadership", "label": "Time to get competent leaders in charge." }
+          ]
+        },
+        {
+          "id": "concern_consequences",
+          "label": "Actions have real consequences.",
+          "children": [
+            { "id": "reply_consequences", "label": "Actions have consequences \u2014 this is one of them." },
+            { "id": "reply_no_sympathy", "label": "No sympathy here, honestly." },
+            { "id": "concern_warning", "label": "We were warned about this for years." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "branch_shock",
+      "label": "Surprised & Shocked",
+      "icon": "\ud83e\udd2f",
+      "children": [
+        {
+          "id": "shock_jaw_drop",
+          "label": "My jaw literally dropped.",
+          "children": [
+            { "id": "reply_cant_believe", "label": "I cannot believe this is actually real." },
+            { "id": "shock_bingo_card", "label": "Definitely wasn't on my 2026 bingo card." },
+            { "id": "shock_satire", "label": "Tell me this is satire please." }
+          ]
+        },
+        {
+          "id": "shock_wild",
+          "label": "This is completely wild.",
+          "children": [
+            { "id": "reply_wild", "label": "This is wild, but I'm here for it." },
+            { "id": "shock_escalated", "label": "Well that escalated quickly!" },
+            { "id": "reply_didnt_expect", "label": "I didn't expect this, but here we are." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "branch_skeptical",
+      "label": "Thoughtful & Skeptical",
+      "icon": "\ud83e\udd14",
+      "children": [
+        {
+          "id": "skeptical_follow_money",
+          "label": "Follow the money trail.",
+          "children": [
+            { "id": "skeptical_cui_bono", "label": "Ask yourself: who benefits the most from this?" },
+            { "id": "skeptical_convenient", "label": "The timing is a little too convenient." },
+            { "id": "reply_full_story", "label": "I don't think that's the full story." }
+          ]
+        },
+        {
+          "id": "skeptical_details",
+          "label": "Let's see the full data first.",
+          "children": [
+            { "id": "reply_more_details", "label": "I'd like to see more details before deciding." },
+            { "id": "reply_more_to_this", "label": "There's way more to this than just the headline." },
+            { "id": "reply_good_questions", "label": "This raises some very serious questions." }
+          ]
+        },
+        {
+          "id": "skeptical_processing",
+          "label": "Still trying to process this.",
+          "children": [
+            { "id": "reply_still_processing", "label": "I'm still trying to process all of this." },
+            { "id": "reply_curious_outcome", "label": "I'm curious how this plays out long-term." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "branch_meme",
+      "label": "Memes & Sarcasm",
+      "icon": "\ud83d\ude02",
+      "children": [
+        {
+          "id": "meme_comments",
+          "label": "I'm just here for the comments \ud83c\udf7f",
+          "children": [
+            { "id": "reply_made_laugh", "label": "You know what, this actually made me laugh." },
+            { "id": "meme_popcorn", "label": "Grabbing the popcorn for this thread." },
+            { "id": "meme_rent_free", "label": "This is going to live rent-free in my head." }
+          ]
+        },
+        {
+          "id": "meme_big_if_true",
+          "label": "Big if true.",
+          "children": [
+            { "id": "meme_huge", "label": "Huge implications if accurate." },
+            { "id": "meme_cannot_make_up", "label": "You literally cannot make this stuff up." }
+          ]
+        }
+      ]
+    }
   ],
+  "category_replies": {
+    "tech": [
+      {
+        "id": "tech_ai_hype",
+        "label": "AI & Tech Hype",
+        "icon": "\ud83e\udd16",
+        "children": [
+          {
+            "id": "tech_benchmarks",
+            "label": "Wait for real independent benchmarks.",
+            "children": [
+              { "id": "tech_vaporware", "label": "Another vaporware demo until proven otherwise." },
+              { "id": "tech_enshittification", "label": "Classic enshittification cycle in progress." },
+              { "id": "tech_works_on_machine", "label": "Works on my machine \u00af\\_(\u30c4)_/\u00af" }
+            ]
+          },
+          {
+            "id": "tech_future",
+            "label": "The future is arriving fast.",
+            "children": [
+              { "id": "tech_shut_up_money", "label": "Shut up and take my money!" },
+              { "id": "tech_open_source", "label": "Open source is going to win this in the end." },
+              { "id": "tech_privacy", "label": "RIP to whatever privacy we had left." }
+            ]
+          }
+        ]
+      }
+    ],
+    "entertainment": [
+      {
+        "id": "ent_culture",
+        "label": "Entertainment & Culture",
+        "icon": "\ud83c\udfac",
+        "children": [
+          {
+            "id": "ent_cinema",
+            "label": "Cinema & Shows",
+            "children": [
+              { "id": "ent_peak_tv", "label": "This is absolute peak entertainment." },
+              { "id": "ent_book_better", "label": "The original was 100x better, no debate." },
+              { "id": "ent_out_of_ideas", "label": "Hollywood has officially run out of original ideas." }
+            ]
+          },
+          {
+            "id": "ent_drama",
+            "label": "Drama & Celebs",
+            "children": [
+              { "id": "ent_pr_stunt", "label": "PR stunt of the century right here." },
+              { "id": "ent_stan_culture", "label": "Stan culture has officially gone too far." },
+              { "id": "ent_banger", "label": "Absolute masterpiece on repeat." }
+            ]
+          }
+        ]
+      }
+    ],
+    "news": [
+      {
+        "id": "news_politics",
+        "label": "Current Affairs & Policy",
+        "icon": "\ud83d\udcf0",
+        "children": [
+          {
+            "id": "news_theater",
+            "label": "Classic political theater.",
+            "children": [
+              { "id": "news_spin", "label": "The media spin on this is unbelievable." },
+              { "id": "news_distraction", "label": "Look over here so you don't notice the real issue." },
+              { "id": "news_accountability", "label": "Zero accountability as usual." }
+            ]
+          },
+          {
+            "id": "news_society",
+            "label": "Real people pay the price.",
+            "children": [
+              { "id": "news_working_class", "label": "The working class gets left behind again." },
+              { "id": "news_hope_improves", "label": "Hoping things turn around soon." }
+            ]
+          }
+        ]
+      }
+    ],
+    "health": [
+      {
+        "id": "health_wellness",
+        "label": "Health & Wellness",
+        "icon": "\ud83e\udec0",
+        "children": [
+          {
+            "id": "health_study",
+            "label": "Show me the peer-reviewed study.",
+            "children": [
+              { "id": "health_placebo", "label": "Placebo effect in action." },
+              { "id": "health_fad", "label": "Another wellness fad that will fade in 6 months." },
+              { "id": "health_pharma", "label": "Follow the pharmaceutical money." }
+            ]
+          },
+          {
+            "id": "health_lifestyle",
+            "label": "Simple basics win every time.",
+            "children": [
+              { "id": "health_sleep_water", "label": "Sleep, water, and whole food beat all the hype." },
+              { "id": "health_consistency", "label": "Consistency over quick fixes." }
+            ]
+          }
+        ]
+      }
+    ],
+    "lifestyle": [
+      {
+        "id": "lifestyle_trends",
+        "label": "Living & Trends",
+        "icon": "\u2728",
+        "children": [
+          {
+            "id": "lifestyle_inflation",
+            "label": "Lifestyle inflation is real.",
+            "children": [
+              { "id": "lifestyle_bucket_list", "label": "Adding this to the bucket list immediately!" },
+              { "id": "lifestyle_overrated", "label": "Overpriced and overrated tourist trap." },
+              { "id": "lifestyle_simple_things", "label": "Normalize enjoying the simple things." }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "handles": [
     "Skeptic", "Night Owl", "Curious Reader", "News Junkie", "Early Bird",
     "Realist", "Optimist", "Wanderer", "Bookworm", "Insider",
