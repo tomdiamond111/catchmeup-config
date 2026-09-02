@@ -1,11 +1,14 @@
 {
-  "version": 4,
+  "version": 5,
   "reactions": [
-    { "id": "heart", "emoji": "❤️", "label": "Love" },
+    { "id": "love_this", "emoji": "❤️", "label": "I love this!" },
     { "id": "clap", "emoji": "👏", "label": "Well said" },
     { "id": "lightbulb", "emoji": "💡", "label": "Insightful" },
+    { "id": "lol", "emoji": "🤣", "label": "LOL" },
     { "id": "laugh", "emoji": "😄", "label": "Amusing" },
-    { "id": "surprised", "emoji": "😮", "label": "Surprising" },
+    { "id": "omg", "emoji": "😲", "label": "OMG" },
+    { "id": "yikes", "emoji": "😬", "label": "Yikes!" },
+    { "id": "suspicious", "emoji": "🤨", "label": "Suspicious" },
     { "id": "thinking", "emoji": "🤔", "label": "Interesting…" },
     { "id": "sad", "emoji": "😢", "label": "Heartbreaking" },
     { "id": "thumbs_up", "emoji": "👍", "label": "Good read" },
