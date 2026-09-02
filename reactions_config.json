@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "reactions": [
     { "id": "love_this", "emoji": "❤️", "label": "I love this!" },
     { "id": "clap", "emoji": "👏", "label": "Well said" },
@@ -24,7 +24,8 @@
           "id": "agree_well_said",
           "label": "Couldn't have said it better.",
           "children": [
-            { "id": "reply_said_better", "label": "Spot on perspective." },
+            { "id": "reply_said_better", "label": "Well said." },
+            { "id": "reply_resonates", "label": "This is one of the things that resonates most with me." },
             { "id": "reply_glad_said", "label": "Glad someone put this into words." },
             { "id": "reply_exactly", "label": "Exactly what I was thinking." }
           ]
@@ -33,9 +34,20 @@
           "id": "agree_supportive",
           "label": "I'm fully on board with this.",
           "children": [
-            { "id": "reply_good_point", "label": "You make a really fair point." },
-            { "id": "reply_support_100", "label": "100% support this direction." },
+            { "id": "reply_good_step", "label": "A good step in the right direction." },
+            { "id": "reply_good_news", "label": "Finally some good news!" },
+            { "id": "reply_success_story", "label": "Definitely a major success story." },
             { "id": "reply_refreshing", "label": "Refreshing to see this perspective." }
+          ]
+        },
+        {
+          "id": "agree_informative",
+          "label": "Informative & helpful read.",
+          "children": [
+            { "id": "reply_so_informative", "label": "Oh wow, this was so informative." },
+            { "id": "reply_good_read_day", "label": "Good read to start my day." },
+            { "id": "reply_thanks_info", "label": "Thanks for the info!" },
+            { "id": "reply_thanks_update", "label": "Thanks for the update." }
           ]
         }
       ]
@@ -51,16 +63,19 @@
           "children": [
             { "id": "reply_see_disagree", "label": "I understand the idea, but I see it differently." },
             { "id": "reply_not_convinced", "label": "I'm not fully convinced this is the right approach." },
+            { "id": "reply_no_need_support", "label": "No need to support this." },
             { "id": "reply_other_side", "label": "There's another side to this story." }
           ]
         },
         {
           "id": "disagree_skeptical",
-          "label": "I have some doubts about this.",
+          "label": "Practical doubts & realities.",
           "children": [
-            { "id": "reply_not_how", "label": "It usually doesn't work out that way in practice." },
-            { "id": "reply_out_of_touch", "label": "This feels a bit disconnected from reality." },
-            { "id": "reply_unintended", "label": "We need to consider the unintended consequences." }
+            { "id": "reply_doesnt_work", "label": "It just doesn't work in practice." },
+            { "id": "reply_talk_is_cheap", "label": "Talk is cheap." },
+            { "id": "reply_not_fixed", "label": "Good, but still not fixed." },
+            { "id": "reply_too_expensive", "label": "This is way too expensive and not worth it." },
+            { "id": "reply_out_of_touch", "label": "This feels a bit disconnected from reality." }
           ]
         }
       ]
@@ -75,8 +90,19 @@
           "label": "This is heartbreaking.",
           "children": [
             { "id": "reply_feel_for", "label": "My heart goes out to everyone affected." },
-            { "id": "reply_tough", "label": "A difficult situation all around." },
-            { "id": "concern_prayers", "label": "Wishing strength to everyone involved." }
+            { "id": "reply_real_shame", "label": "This is a real shame." },
+            { "id": "reply_depressing_pattern", "label": "So depressing to see this pattern play out again." },
+            { "id": "reply_hopefully_good_outcome", "label": "Hopefully a good outcome from so much tragedy." }
+          ]
+        },
+        {
+          "id": "concern_tribute",
+          "label": "Remembering & tributes.",
+          "children": [
+            { "id": "reply_rest_in_peace", "label": "Rest in peace. Thank you for the memories." },
+            { "id": "reply_class_act", "label": "A class act til the end." },
+            { "id": "reply_genuinely_good", "label": "Genuinely good person." },
+            { "id": "reply_glad_at_peace", "label": "I'm glad they are at peace now." }
           ]
         },
         {
@@ -97,19 +123,22 @@
       "children": [
         {
           "id": "curious_details",
-          "label": "Looking forward to learning more.",
+          "label": "Questions & skepticism.",
           "children": [
-            { "id": "reply_more_details", "label": "I'd like to see all the facts as they develop." },
-            { "id": "reply_good_questions", "label": "This raises a lot of important questions." },
-            { "id": "reply_wait_and_see", "label": "Let's wait and see how this plays out long term." }
+            { "id": "reply_is_this_surprising", "label": "Is this really surprising to anyone?" },
+            { "id": "reply_who_could_guess", "label": "Who could have guessed?" },
+            { "id": "reply_actually_found", "label": "Wait, so they actually found something this time?" },
+            { "id": "reply_at_what_cost", "label": "But at what cost?" },
+            { "id": "reply_want_to_know_more", "label": "Do I even want to know more?" }
           ]
         },
         {
           "id": "curious_context",
-          "label": "Context is important here.",
+          "label": "Context & perspective.",
           "children": [
             { "id": "reply_full_story", "label": "There is usually more nuance to these stories." },
             { "id": "reply_consider_source", "label": "Important to consider the source and context." },
+            { "id": "reply_quite_surprised", "label": "I'm quite surprised by this actually." },
             { "id": "reply_perspective", "label": "It depends on which angle you look at it from." }
           ]
         }
@@ -125,17 +154,21 @@
           "label": "Needed a good smile today.",
           "children": [
             { "id": "humor_made_my_day", "label": "This made my whole day." },
-            { "id": "humor_uplifting", "label": "We definitely need more uplifting stories like this." },
-            { "id": "humor_signed_up", "label": "This is the kind of content I love seeing." }
+            { "id": "humor_wonderful", "label": "That's wonderful!" },
+            { "id": "humor_amazing_person", "label": "What an amazing person." },
+            { "id": "humor_uplifting", "label": "We definitely need more uplifting stories like this." }
           ]
         },
         {
-          "id": "humor_banter",
-          "label": "Just here enjoying the discussion.",
+          "id": "humor_sarcasm",
+          "label": "Deadpan banter & sarcasm.",
           "children": [
-            { "id": "humor_popcorn", "label": "Grabbing a cup of coffee for this discussion ☕" },
-            { "id": "humor_one_way", "label": "Well, that is certainly one way to handle it!" },
-            { "id": "humor_slow_news", "label": "A bit of a slow news day, but entertaining nonetheless." }
+            { "id": "humor_bold_strategy", "label": "It's a bold strategy, let's see if it pays off." },
+            { "id": "humor_what_could_go_wrong", "label": "What could possibly go wrong?" },
+            { "id": "humor_all_under_control", "label": "Don't worry guys, all under control /s" },
+            { "id": "humor_pot_kettle", "label": "Something about a pot and a kettle." },
+            { "id": "humor_unironically", "label": "This, but unironically." },
+            { "id": "humor_popcorn", "label": "Grabbing a cup of coffee for this discussion ☕" }
           ]
         }
       ]
@@ -178,15 +211,18 @@
             "id": "news_local_impact",
             "label": "Impact on everyday life.",
             "children": [
+              { "id": "news_front_page", "label": "Why isn't this front page news everywhere?" },
               { "id": "news_working_families", "label": "How will this affect local families and neighborhoods?" },
-              { "id": "news_constructive", "label": "Hoping for constructive dialogue on both sides." },
-              { "id": "news_accountability", "label": "Clear communication from leadership is vital." }
+              { "id": "news_win_planet", "label": "A win for planet earth!" },
+              { "id": "news_constructive", "label": "Hoping for constructive dialogue on both sides." }
             ]
           },
           {
-            "id": "news_process",
-            "label": "Due process & legal facts.",
+            "id": "news_media",
+            "label": "Media & political commentary.",
             "children": [
+              { "id": "news_propaganda", "label": "The media spin on this is unbelievable." },
+              { "id": "news_posturing", "label": "Keep posturing and do nothing, that will show them." },
               { "id": "news_legal_process", "label": "Best to let the legal process run its course." },
               { "id": "news_verify_facts", "label": "Waiting to see the verifiable evidence first." }
             ]
