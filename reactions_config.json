@@ -1,16 +1,21 @@
 {
-  "version": 6,
+  "version": 7,
   "reactions": [
     { "id": "love_this", "emoji": "❤️", "label": "I love this!" },
+    { "id": "yay", "emoji": "🎉", "label": "Yay!" },
     { "id": "clap", "emoji": "👏", "label": "Well said" },
     { "id": "lightbulb", "emoji": "💡", "label": "Insightful" },
     { "id": "lol", "emoji": "🤣", "label": "LOL" },
     { "id": "laugh", "emoji": "😄", "label": "Amusing" },
     { "id": "omg", "emoji": "😲", "label": "OMG" },
     { "id": "yikes", "emoji": "😬", "label": "Yikes!" },
+    { "id": "yuck", "emoji": "🤢", "label": "Yuck!" },
+    { "id": "frustrated", "emoji": "😤", "label": "Grrrr!" },
     { "id": "suspicious", "emoji": "🤨", "label": "Suspicious" },
     { "id": "thinking", "emoji": "🤔", "label": "Interesting…" },
-    { "id": "sad", "emoji": "😢", "label": "Heartbreaking" },
+    { "id": "why", "emoji": "🤷", "label": "Why?" },
+    { "id": "snore", "emoji": "🥱", "label": "Snore…" },
+    { "id": "sad", "emoji": "😢", "label": "So sad" },
     { "id": "thumbs_up", "emoji": "👍", "label": "Good read" },
     { "id": "thumbs_down", "emoji": "👎", "label": "Not for me" }
   ],
@@ -34,9 +39,12 @@
           "id": "agree_supportive",
           "label": "I'm fully on board with this.",
           "children": [
+            { "id": "reply_fully_support", "label": "I fully support this." },
             { "id": "reply_good_step", "label": "A good step in the right direction." },
             { "id": "reply_good_news", "label": "Finally some good news!" },
             { "id": "reply_success_story", "label": "Definitely a major success story." },
+            { "id": "reply_about_time", "label": "It's about time!" },
+            { "id": "reply_god_bless", "label": "God bless." },
             { "id": "reply_refreshing", "label": "Refreshing to see this perspective." }
           ]
         },
@@ -64,6 +72,8 @@
             { "id": "reply_see_disagree", "label": "I understand the idea, but I see it differently." },
             { "id": "reply_not_convinced", "label": "I'm not fully convinced this is the right approach." },
             { "id": "reply_no_need_support", "label": "No need to support this." },
+            { "id": "reply_who_supports", "label": "Who actually supports this?" },
+            { "id": "reply_overreacting", "label": "I think they are overreacting." },
             { "id": "reply_other_side", "label": "There's another side to this story." }
           ]
         },
@@ -73,6 +83,8 @@
           "children": [
             { "id": "reply_doesnt_work", "label": "It just doesn't work in practice." },
             { "id": "reply_talk_is_cheap", "label": "Talk is cheap." },
+            { "id": "reply_we_all_pay", "label": "We all have to pay for this." },
+            { "id": "reply_how_much_cost", "label": "How much does this all cost?" },
             { "id": "reply_not_fixed", "label": "Good, but still not fixed." },
             { "id": "reply_too_expensive", "label": "This is way too expensive and not worth it." },
             { "id": "reply_out_of_touch", "label": "This feels a bit disconnected from reality." }
@@ -89,7 +101,9 @@
           "id": "concern_empathy",
           "label": "This is heartbreaking.",
           "children": [
-            { "id": "reply_feel_for", "label": "My heart goes out to everyone affected." },
+            { "id": "reply_feel_for", "label": "I really feel for those people." },
+            { "id": "reply_someone_help", "label": "Someone has to help these people." },
+            { "id": "reply_have_a_heart", "label": "Have a heart, people." },
             { "id": "reply_real_shame", "label": "This is a real shame." },
             { "id": "reply_depressing_pattern", "label": "So depressing to see this pattern play out again." },
             { "id": "reply_hopefully_good_outcome", "label": "Hopefully a good outcome from so much tragedy." }
@@ -100,6 +114,10 @@
           "label": "Remembering & tributes.",
           "children": [
             { "id": "reply_rest_in_peace", "label": "Rest in peace. Thank you for the memories." },
+            { "id": "reply_condolences", "label": "Condolences to the family." },
+            { "id": "reply_what_a_life", "label": "Wow, what a life." },
+            { "id": "reply_role_model", "label": "A true role model for so many." },
+            { "id": "reply_was_controversial", "label": "Certainly controversial, but made an impact." },
             { "id": "reply_class_act", "label": "A class act til the end." },
             { "id": "reply_genuinely_good", "label": "Genuinely good person." },
             { "id": "reply_glad_at_peace", "label": "I'm glad they are at peace now." }
@@ -125,6 +143,9 @@
           "id": "curious_details",
           "label": "Questions & skepticism.",
           "children": [
+            { "id": "reply_who_benefits", "label": "Who is benefiting from all of this?" },
+            { "id": "reply_why_do_this", "label": "I don't understand why people do this — what is the purpose?" },
+            { "id": "reply_how_even_happen", "label": "How does that even happen?" },
             { "id": "reply_is_this_surprising", "label": "Is this really surprising to anyone?" },
             { "id": "reply_who_could_guess", "label": "Who could have guessed?" },
             { "id": "reply_actually_found", "label": "Wait, so they actually found something this time?" },
@@ -136,6 +157,7 @@
           "id": "curious_context",
           "label": "Context & perspective.",
           "children": [
+            { "id": "reply_worse_to_come", "label": "This is an indicator of worse things to come." },
             { "id": "reply_full_story", "label": "There is usually more nuance to these stories." },
             { "id": "reply_consider_source", "label": "Important to consider the source and context." },
             { "id": "reply_quite_surprised", "label": "I'm quite surprised by this actually." },
@@ -155,8 +177,9 @@
           "children": [
             { "id": "humor_made_my_day", "label": "This made my whole day." },
             { "id": "humor_wonderful", "label": "That's wonderful!" },
+            { "id": "humor_uplifting", "label": "This is so uplifting to see." },
             { "id": "humor_amazing_person", "label": "What an amazing person." },
-            { "id": "humor_uplifting", "label": "We definitely need more uplifting stories like this." }
+            { "id": "humor_love_stories", "label": "I love these types of stories." }
           ]
         },
         {
@@ -165,6 +188,8 @@
           "children": [
             { "id": "humor_bold_strategy", "label": "It's a bold strategy, let's see if it pays off." },
             { "id": "humor_what_could_go_wrong", "label": "What could possibly go wrong?" },
+            { "id": "humor_who_cares", "label": "Who cares?" },
+            { "id": "humor_snore", "label": "Snore… slowest news day ever 🥱" },
             { "id": "humor_all_under_control", "label": "Don't worry guys, all under control /s" },
             { "id": "humor_pot_kettle", "label": "Something about a pot and a kettle." },
             { "id": "humor_unironically", "label": "This, but unironically." },
@@ -208,23 +233,49 @@
         "icon": "📰",
         "children": [
           {
-            "id": "news_local_impact",
-            "label": "Impact on everyday life.",
+            "id": "news_leadership",
+            "label": "Leadership & Decisions.",
             "children": [
-              { "id": "news_front_page", "label": "Why isn't this front page news everywhere?" },
-              { "id": "news_working_families", "label": "How will this affect local families and neighborhoods?" },
-              { "id": "news_win_planet", "label": "A win for planet earth!" },
-              { "id": "news_constructive", "label": "Hoping for constructive dialogue on both sides." }
+              { "id": "news_new_leadership", "label": "This will never change without new leadership." },
+              { "id": "news_get_rid_of_him", "label": "Time for leadership changes here." },
+              { "id": "news_tough_job", "label": "They have an extremely tough job in this environment." },
+              { "id": "news_blamed_others", "label": "Getting blamed for decisions made way above them." },
+              { "id": "news_still_support", "label": "I still support the overall mission." },
+              { "id": "news_why_again", "label": "Why are we doing this again?" },
+              { "id": "news_really_in_charge", "label": "You know who is really pulling the strings here." }
+            ]
+          },
+          {
+            "id": "news_public_safety",
+            "label": "Public Safety & Hazards.",
+            "children": [
+              { "id": "news_seriously_disgusting", "label": "That is seriously disgusting." },
+              { "id": "news_imagine_smell", "label": "Can you imagine living near that smell?" },
+              { "id": "news_same_story_different_day", "label": "Same story, different day. When is this going to stop?" },
+              { "id": "news_need_gun_control", "label": "We need stronger safety laws and gun control." },
+              { "id": "news_guns_not_problem", "label": "Guns aren't the root issue — enforcement is." },
+              { "id": "news_where_parents", "label": "Where is the parental accountability?" },
+              { "id": "news_where_police", "label": "Where is the law enforcement presence?" }
+            ]
+          },
+          {
+            "id": "news_social_programs",
+            "label": "Programs & Economy.",
+            "children": [
+              { "id": "news_saved_lives", "label": "These safety net programs have saved so many lives." },
+              { "id": "news_fraud_waste", "label": "There is so much fraud and waste in this system." },
+              { "id": "news_good_needs_fixing", "label": "This is a good program, but badly needs fixing." },
+              { "id": "news_voted_for_this", "label": "This is what happens based on how people voted." }
             ]
           },
           {
             "id": "news_media",
-            "label": "Media & political commentary.",
+            "label": "Media & commentary.",
             "children": [
+              { "id": "news_front_page", "label": "Why isn't this front page news everywhere?" },
               { "id": "news_propaganda", "label": "The media spin on this is unbelievable." },
               { "id": "news_posturing", "label": "Keep posturing and do nothing, that will show them." },
-              { "id": "news_legal_process", "label": "Best to let the legal process run its course." },
-              { "id": "news_verify_facts", "label": "Waiting to see the verifiable evidence first." }
+              { "id": "news_win_planet", "label": "A win for planet earth!" }
             ]
           }
         ]
@@ -240,6 +291,8 @@
             "id": "ent_positive",
             "label": "Appreciating the craft & news.",
             "children": [
+              { "id": "ent_great_actor", "label": "Great actor and a beautiful family!" },
+              { "id": "ent_look_like_him", "label": "They look just like them!" },
               { "id": "ent_happy_for_them", "label": "So happy for them and their family!" },
               { "id": "ent_great_talent", "label": "Incredible talent, well-deserved recognition." },
               { "id": "ent_great_watch", "label": "Highly recommended, thoroughly enjoyed this." }
@@ -249,6 +302,8 @@
             "id": "ent_perspective",
             "label": "General impressions & taste.",
             "children": [
+              { "id": "ent_who", "label": "Who is this person again?" },
+              { "id": "ent_never_liked", "label": "Never really liked them, honestly." },
               { "id": "ent_not_interested", "label": "Not really into celebrity news, but good for them." },
               { "id": "ent_overexposed", "label": "Feels like this has been covered a bit too much lately." },
               { "id": "ent_original_better", "label": "The original work was much better in my opinion." }
@@ -263,6 +318,17 @@
         "label": "Health & Well-being",
         "icon": "🌿",
         "children": [
+          {
+            "id": "health_accountability",
+            "label": "Safety & Corporate Responsibility.",
+            "children": [
+              { "id": "health_unacceptable", "label": "That is completely unacceptable." },
+              { "id": "health_who_sells", "label": "Who manufactures and sells this stuff?" },
+              { "id": "health_who_responsible", "label": "Who is being held responsible for this?" },
+              { "id": "health_dont_care_consequences", "label": "Some companies just don't care about consequences." },
+              { "id": "health_unbelievable", "label": "Unbelievable that this is still happening." }
+            ]
+          },
           {
             "id": "health_evidence",
             "label": "Balanced health approaches.",
