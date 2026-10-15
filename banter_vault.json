@@ -1,9 +1,9 @@
 {
-  "version": 6,
+  "version": 7,
   "last_updated": "2026-10-14",
   "description": "CatchMeUp Banter Edition Master Vault: Classified comments with conversational chains.",
   "categories_count": 7,
-  "total_comments": 955,
+  "total_comments": 1136,
   "categories": [
     {
       "category": "politics",
@@ -65,7 +65,14 @@
           "There’s nothing to do. You can walk around but you won’t see anything you couldn’t see in any other deeply impoverished African country. The police and government will steer you away from getting yourself killed...",
           "The 'tolerant' liberal left strikes again. The only time the left is tolerant is when someone walks in lockstep with their own twisted thinking.",
           "He's not the right color for that. This guy's gonna fry.",
-          "Well you're 1/2 correct. But the word after Bull isn't eye."
+          "Well you're 1/2 correct. But the word after Bull isn't eye.",
+          "Mace is as conservative as they come and has consistantly voted conservative, why don't you like her? Is it because she voted to release the Epstein files?",
+          "Her info may be correct, but the way she handled it, calling them out on the House floor, show remarkably poor judgement. Whatever happened to Mace, she's a broken woman.",
+          "I don’t consider Mace, a stable person.",
+          "This woman brings ew meaning to “go quietly” … show me a camera and Nancy won’t be far behind",
+          "Maga coded",
+          "The DSA demands the the PC be fired and that ICE isn't allowed into the city, to protect rodents like these criminal illegals. All part of a growing left wing fascism movement that the media is afraid to speak about.",
+          "In times of war don’t spies get executed?"
         ],
         "eighties_guy": [
           "More parking meters? Time to riot.",
@@ -88,7 +95,22 @@
           "Repubs break everything, dems try to fix it while repubs blame them for the mess.",
           "WE run the country. It's ours, not his. He's a president, not a frickin king.",
           "A hostage situation is not the same as a diesel deal. No stuff the president's going to negotiate to get Americans back home safe.",
-          "Party of hate, preaches hate, practices hate and spews hatred. Then the same hypocrites put a sign on their lawn stating 'Hate hath no home here.'"
+          "Party of hate, preaches hate, practices hate and spews hatred. Then the same hypocrites put a sign on their lawn stating 'Hate hath no home here.'",
+          "Good, enough of this nonsense, act like grown men.",
+          "Mace is great. YOU, not so much.",
+          "Wow, you're not paying attention to the clown show on the democrat side",
+          "She crossed the line from HOT to NOT, a while back. Sorry to break it to ya.",
+          "Wait, so Boebert, Noem, and Mace all had relationships with sex predators? Interesting",
+          "So, Ms. Mace was correct. Seems some vindication is order for the g as sbags who condemned her over this.",
+          "And she expected what exactly?",
+          "Sooooo, Mace has been vindicated. Good for her.",
+          "They’re all nutters. Including the politician.",
+          "\"Firebrand\", that must mean raging wack a doodle.",
+          "Glad you're alive Brother. But what did you learn ?? ALWAYS carry your off duty gun on your person...ALWAYS. And don't count on a visit from the Mayor, he only cares about illegals..like the ones who nearly killed you.",
+          "How dare this cop chase after the Illegal-Criminals!! By chasing after them, he endangered two Illegals who weren't even supposed to be here in the first place! The AG's office led by Big-Tush-James will no doubt \"probe\" this incident!",
+          "F these sanctuary policies. It protects the illegal immigrants and give them a free pass to harm Americans without consequences. These policies are dumbAF which should never have enacted in the first place.",
+          "Our Saudi \"friends\" at it again. And El Trumpo wants to give them enriched uranium.",
+          "Both sides of the political aisle have cozied up to the Saudis."
         ],
         "skinny_bot": [
           "Executing city_planning.exe... Error: Logic missing.",
@@ -160,7 +182,21 @@
           "If you 'liberals' didn't have lies, you'd have nothing at all. I'd invite you to share some actual facts, but I know you don't have any.",
           "Democrats have lost their minds with all their hate. All they have left is Socialism now that the Democratic Party is destroyed.",
           "If he was a political opponent, I'm sure you would be just as compassionate... right?",
-          "Sympathy for all who were harmed by this cascade of storms. Alas, the Democrats have refused to fund FEMA because they prefer to support illegal aliens and rioters."
+          "Sympathy for all who were harmed by this cascade of storms. Alas, the Democrats have refused to fund FEMA because they prefer to support illegal aliens and rioters.",
+          "She’s high on her own supply and desperate for attention. I’m a conservative and can’t stand her.",
+          "Right? Why can't we ever find normal conservative women to represent us?",
+          "She's hot. You are jealous.",
+          "So many divorced female maga political. Something wrong with them.",
+          "Very fine chick. Smart. A bit koo koo. But really fine.",
+          "Nice rack Nancy.",
+          "Repeal the 19th!",
+          "Itch is one twisted sister.",
+          "Was he ordered to apologize to the eel legal?",
+          "All of the illegal aliens have to be sent back to country of origin.",
+          "Thank you Fake Prez Traitor Joe Buyme. It's great to be culturally enriched.",
+          "Yep, they hate America.",
+          "5yrs and deported afterward.",
+          "You had me at Saudi."
         ]
       },
       "rich_comments": {
@@ -883,6 +919,160 @@
               "politics",
               "lifestyle"
             ]
+          },
+          {
+            "id": "nypost_crime2_08",
+            "text": "Mace is as conservative as they come and has consistantly voted conservative, why don't you like her? Is it because she voted to release the Epstein files?",
+            "safe_text": "Mace is as conservative as they come and has consistantly voted conservative, why don't you like her? Is it because she voted to release the Epstein files?",
+            "character_fit": "nerd",
+            "category": "politics",
+            "keywords": [
+              "voting record",
+              "epstein files",
+              "legislation"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Legislative voting records provide objective data points amidst partisan rhetoric."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime2_13",
+            "text": "Her info may be correct, but the way she handled it, calling them out on the House floor, show remarkably poor judgement. Whatever happened to Mace, she's a broken woman.",
+            "safe_text": "Her info may be correct, but the way she handled it, calling them out on the House floor, show remarkably poor judgement. Whatever happened to Mace, she's a broken woman.",
+            "character_fit": "nerd",
+            "category": "politics",
+            "keywords": [
+              "decorum",
+              "house floor",
+              "judgment"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Institutional norms and parliamentary decorum dictate traditional communication channels."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime2_19",
+            "text": "I don’t consider Mace, a stable person.",
+            "safe_text": "I don’t consider Mace, a stable person.",
+            "character_fit": "nerd",
+            "category": "politics",
+            "keywords": [
+              "stability",
+              "evaluation",
+              "politician"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Behavioral assessments from anonymous commenters carry negligible empirical value."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime2_26",
+            "text": "This woman brings ew meaning to “go quietly” … show me a camera and Nancy won’t be far behind",
+            "safe_text": "This woman brings ew meaning to “go quietly” … show me a camera and Nancy won’t be far behind",
+            "character_fit": "nerd",
+            "category": "politics",
+            "keywords": [
+              "media attention",
+              "publicity",
+              "optics"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Modern political survival requires maintaining constant media proximity."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "media"
+            ]
+          },
+          {
+            "id": "nypost_crime2_31",
+            "text": "Maga coded",
+            "safe_text": "Maga coded",
+            "character_fit": "nerd",
+            "category": "politics",
+            "keywords": [
+              "political slang",
+              "coding",
+              "labeling"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Cultural tribalism reduces complex behavioral patterns into simplified shorthand."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime3_13",
+            "text": "The DSA demands the the PC be fired and that ICE isn't allowed into the city, to protect rodents like these criminal illegals. All part of a growing left wing fascism movement that the media is afraid to speak about.",
+            "safe_text": "The DSA demands the the PC be fired and that ICE isn't allowed into the city, to protect rodents like these criminal illegals. All part of a growing left wing fascism movement that the media is afraid to speak about.",
+            "character_fit": "nerd",
+            "category": "politics",
+            "keywords": [
+              "dsa",
+              "sanctuary city",
+              "ice"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Municipal sanctuary policies create ongoing jurisdictional friction with federal law enforcement."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime3.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime4_15",
+            "text": "In times of war don’t spies get executed?",
+            "safe_text": "In times of war don’t spies get executed?",
+            "character_fit": "nerd",
+            "category": "politics",
+            "keywords": [
+              "treason",
+              "espionage",
+              "law of war"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Capital punishment for peacetime corporate trade secret theft remains legally unprecedented in civilian courts."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime4.json",
+            "source_categories": [
+              "crime",
+              "legal"
+            ]
           }
         ],
         "eighties_guy": [
@@ -1217,6 +1407,336 @@
               "tragedy",
               "politics",
               "lifestyle"
+            ]
+          },
+          {
+            "id": "nypost_crime2_01",
+            "text": "Good, enough of this nonsense, act like grown men.",
+            "safe_text": "Good, enough of this nonsense, act like grown men.",
+            "character_fit": "eighties_guy",
+            "category": "politics",
+            "keywords": [
+              "behavior",
+              "accountability",
+              "maturity"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "People need to start taking responsibility for their actions, man."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime2_03",
+            "text": "Mace is great. YOU, not so much.",
+            "safe_text": "Mace is great. YOU, not so much.",
+            "character_fit": "eighties_guy",
+            "category": "politics",
+            "keywords": [
+              "defense",
+              "support",
+              "mace"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Everyone's got a strong opinion on political figures these days, brother."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime2_05",
+            "text": "Wow, you're not paying attention to the clown show on the democrat side",
+            "safe_text": "Wow, you're not paying attention to the clown show on the democrat side",
+            "character_fit": "eighties_guy",
+            "category": "politics",
+            "keywords": [
+              "partisanship",
+              "clown show",
+              "debate"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Politics has turned into a total circus on both sides, man."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime2_07",
+            "text": "She crossed the line from HOT to NOT, a while back. Sorry to break it to ya.",
+            "safe_text": "She crossed the line from HOT to NOT, a while back. Sorry to break it to ya.",
+            "character_fit": "eighties_guy",
+            "category": "politics",
+            "keywords": [
+              "internet comments",
+              "debate",
+              "superficial"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Internet comment sections always devolve into appearance talk instantly, man."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime2_10",
+            "text": "Wait, so Boebert, Noem, and Mace all had relationships with sex predators? Interesting",
+            "safe_text": "Wait, so Boebert, Noem, and Mace all had relationships with sex predators? Interesting",
+            "character_fit": "eighties_guy",
+            "category": "politics",
+            "keywords": [
+              "politicians",
+              "controversy",
+              "scrutiny"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "The headlines write themselves nowadays, man."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime2_12",
+            "text": "So, Ms. Mace was correct. Seems some vindication is order for the g as sbags who condemned her over this.",
+            "safe_text": "So, Ms. Mace was correct. Seems some vindication is order for the g as sbags who condemned her over this.",
+            "character_fit": "eighties_guy",
+            "category": "politics",
+            "keywords": [
+              "vindication",
+              "truth",
+              "critics"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "When the facts finally drop, the critics usually end up eating their words, brother."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime2_23",
+            "text": "And she expected what exactly?",
+            "safe_text": "And she expected what exactly?",
+            "character_fit": "eighties_guy",
+            "category": "politics",
+            "keywords": [
+              "expectations",
+              "politics",
+              "fallout"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Play with fire in Washington, you're bound to get burned eventually."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime2_25",
+            "text": "Sooooo, Mace has been vindicated. Good for her.",
+            "safe_text": "Sooooo, Mace has been vindicated. Good for her.",
+            "character_fit": "eighties_guy",
+            "category": "politics",
+            "keywords": [
+              "vindication",
+              "support",
+              "mace"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Credit where credit is due when the truth finally comes out."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime2_27",
+            "text": "They’re all nutters. Including the politician.",
+            "safe_text": "They’re all nutters. Including the politician.",
+            "character_fit": "eighties_guy",
+            "category": "politics",
+            "keywords": [
+              "cynicism",
+              "politicians",
+              "everyone"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "At this point, expecting sanity in high places is a fool's errand, man."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime2_29",
+            "text": "\"Firebrand\", that must mean raging wack a doodle.",
+            "safe_text": "\"Firebrand\", that must mean raging wack a doodle.",
+            "character_fit": "eighties_guy",
+            "category": "politics",
+            "keywords": [
+              "nickname",
+              "media labels",
+              "satire"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "They love giving politicians fancy buzzwords to boost ratings, brother."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime3_08",
+            "text": "Glad you're alive Brother. But what did you learn ?? ALWAYS carry your off duty gun on your person...ALWAYS. And don't count on a visit from the Mayor, he only cares about illegals..like the ones who nearly killed you.",
+            "safe_text": "Glad you're alive Brother. But what did you learn ?? ALWAYS carry your off duty gun on your person...ALWAYS. And don't count on a visit from the Mayor, he only cares about illegals..like the ones who nearly killed you.",
+            "character_fit": "eighties_guy",
+            "category": "politics",
+            "keywords": [
+              "off duty",
+              "concealed carry",
+              "nypd"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "When you're in law enforcement, you're never truly off the clock, man."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime3.json",
+            "source_categories": [
+              "crime",
+              "police"
+            ]
+          },
+          {
+            "id": "nypost_crime3_14",
+            "text": "How dare this cop chase after the Illegal-Criminals!! By chasing after them, he endangered two Illegals who weren't even supposed to be here in the first place! The AG's office led by Big-Tush-James will no doubt \"probe\" this incident!",
+            "safe_text": "How dare this cop chase after the Illegal-Criminals!! By chasing after them, he endangered two Illegals who weren't even supposed to be here in the first place! The AG's office led by Big-Tush-James will no doubt \"probe\" this incident!",
+            "character_fit": "eighties_guy",
+            "category": "politics",
+            "keywords": [
+              "sarcastc",
+              "attorney general",
+              "nypd"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Sarcasm hits hard when the legal system feels completely upside down, man."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime3.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime3_19",
+            "text": "F these sanctuary policies. It protects the illegal immigrants and give them a free pass to harm Americans without consequences. These policies are dumbAF which should never have enacted in the first place.",
+            "safe_text": "F these sanctuary policies. It protects the illegal immigrants and give them a free pass to harm Americans without consequences. These policies are dumbAF which should never have enacted in the first place.",
+            "character_fit": "eighties_guy",
+            "category": "politics",
+            "keywords": [
+              "sanctuary city",
+              "policy",
+              "public safety"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Sanctuary laws cause a ton of friction between local cops and federal agents, man."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime3.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime4_18",
+            "text": "Our Saudi \"friends\" at it again. And El Trumpo wants to give them enriched uranium.",
+            "safe_text": "Our Saudi \"friends\" at it again. And El Trumpo wants to give them enriched uranium.",
+            "character_fit": "eighties_guy",
+            "category": "politics",
+            "keywords": [
+              "saudi arabia",
+              "trump",
+              "geopolitics"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "International politics is just one shady deal after another, man."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime4.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime4_19",
+            "text": "Both sides of the political aisle have cozied up to the Saudis.",
+            "safe_text": "Both sides of the political aisle have cozied up to the Saudis.",
+            "character_fit": "eighties_guy",
+            "category": "politics",
+            "keywords": [
+              "bipartisan",
+              "oil",
+              "foreign policy"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Money talks in Washington regardless of which party is holding the microphone, brother."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime4.json",
+            "source_categories": [
+              "crime",
+              "politics"
             ]
           }
         ],
@@ -2395,6 +2915,286 @@
               "politics",
               "weather"
             ]
+          },
+          {
+            "id": "nypost_crime2_02",
+            "text": "She’s high on her own supply and desperate for attention. I’m a conservative and can’t stand her.",
+            "safe_text": "She’s high on her own supply and desperate for attention. I’m a conservative and can’t stand her.",
+            "character_fit": "stout_bot",
+            "category": "politics",
+            "keywords": [
+              "criticism",
+              "attention",
+              "politician"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime2_04",
+            "text": "Right? Why can't we ever find normal conservative women to represent us?",
+            "safe_text": "Right? Why can't we ever find normal conservative women to represent us?",
+            "character_fit": "stout_bot",
+            "category": "politics",
+            "keywords": [
+              "representation",
+              "politics",
+              "standards"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime2_06",
+            "text": "She's hot. You are jealous.",
+            "safe_text": "She's hot. You are jealous.",
+            "character_fit": "stout_bot",
+            "category": "politics",
+            "keywords": [
+              "appearance",
+              "jealousy",
+              "commentary"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime2_14",
+            "text": "So many divorced female maga political. Something wrong with them.",
+            "safe_text": "So many divorced female maga political. Something wrong with them.",
+            "character_fit": "stout_bot",
+            "category": "politics",
+            "keywords": [
+              "generalization",
+              "politics",
+              "personal life"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime2_16",
+            "text": "Very fine chick. Smart. A bit koo koo. But really fine.",
+            "safe_text": "Very fine chick. Smart. A bit koo koo. But really fine.",
+            "character_fit": "stout_bot",
+            "category": "politics",
+            "keywords": [
+              "appearance",
+              "opinion",
+              "internet"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "commentary"
+            ]
+          },
+          {
+            "id": "nypost_crime2_17",
+            "text": "Nice rack Nancy.",
+            "safe_text": "Nice rack Nancy.",
+            "character_fit": "stout_bot",
+            "category": "politics",
+            "keywords": [
+              "vulgar",
+              "comments",
+              "internet"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "commentary"
+            ]
+          },
+          {
+            "id": "nypost_crime2_20",
+            "text": "Repeal the 19th!",
+            "safe_text": "Repeal the 19th!",
+            "character_fit": "stout_bot",
+            "category": "politics",
+            "keywords": [
+              "edgelord",
+              "vote",
+              "comment"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime2_30",
+            "text": "Itch is one twisted sister.",
+            "safe_text": "Itch is one twisted sister.",
+            "character_fit": "stout_bot",
+            "category": "politics",
+            "keywords": [
+              "insult",
+              "comment",
+              "internet"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "commentary"
+            ]
+          },
+          {
+            "id": "nypost_crime3_09",
+            "text": "Was he ordered to apologize to the eel legal?",
+            "safe_text": "Was he ordered to apologize to the eel legal?",
+            "character_fit": "stout_bot",
+            "category": "politics",
+            "keywords": [
+              "sarcasm",
+              "puns",
+              "immigration"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime3.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime3_18",
+            "text": "All of the illegal aliens have to be sent back to country of origin.",
+            "safe_text": "All of the illegal aliens have to be sent back to country of origin.",
+            "character_fit": "stout_bot",
+            "category": "politics",
+            "keywords": [
+              "deportation",
+              "border policy",
+              "enforcement"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime3.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime3_21",
+            "text": "Thank you Fake Prez Traitor Joe Buyme. It's great to be culturally enriched.",
+            "safe_text": "Thank you Fake Prez Traitor Joe Buyme. It's great to be culturally enriched.",
+            "character_fit": "stout_bot",
+            "category": "politics",
+            "keywords": [
+              "biden",
+              "sarcasm",
+              "border"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime3.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime4_03",
+            "text": "Yep, they hate America.",
+            "safe_text": "Yep, they hate America.",
+            "character_fit": "stout_bot",
+            "category": "politics",
+            "keywords": [
+              "hatred",
+              "america",
+              "patriotism"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime4.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime4_13",
+            "text": "5yrs and deported afterward.",
+            "safe_text": "5yrs and deported afterward.",
+            "character_fit": "stout_bot",
+            "category": "politics",
+            "keywords": [
+              "deportation",
+              "sentence",
+              "law"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime4.json",
+            "source_categories": [
+              "crime",
+              "legal"
+            ]
+          },
+          {
+            "id": "nypost_crime4_17",
+            "text": "You had me at Saudi.",
+            "safe_text": "You had me at Saudi.",
+            "character_fit": "stout_bot",
+            "category": "politics",
+            "keywords": [
+              "saudi",
+              "cynicism",
+              "comments"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime4.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
           }
         ]
       }
@@ -2503,7 +3303,12 @@
           "if AI doesn't need data centers then why do we need data centers.",
           "Ai has been out for years and its still shit. They want to be regulated because the scifi utopia they promised where nobody has to work and cancer gets cured was all a load of shit to pump the stock hype.",
           "AI needs trillions of dollars in hardware to run also AI will run on your potato home internet router. people still buying this scam are just beyond stupid",
-          "Actually, they want to regulate AI because there are small, cheap ai models that can be hosted on like 4090, can output hundreds tokens per second and are bad business for anthropic. All this talk is simply bullshit made to kill smaller competition."
+          "Actually, they want to regulate AI because there are small, cheap ai models that can be hosted on like 4090, can output hundreds tokens per second and are bad business for anthropic. All this talk is simply bullshit made to kill smaller competition.",
+          "A Saudi engineer at artificial intelligence giant OpenAI was arrested and charged with attempting to bug confidential meetings by planting secret recording devices in executive conference rooms, federal prosecutors said.",
+          "Since so many of our major tech and military companies employ people who may have loyalties to other countries, this will be an ongoing problem for a long time.",
+          "H1B program did a lot of damage to American while benefiting tech companies get rich without having to hire and train Americans, so now the companies are full of people not loyal to America.",
+          "This guy is the tip of the iceberg. Silicon valley filled with Chinese nationals. Forget about surreptitious recordings, low hanging fruit is any all technical documents and source code.",
+          "Sneaky guys like this are programming the AI. The level of propaganda and bias is frightening."
         ],
         "eighties_guy": [
           "My toaster is smarter than this PR department.",
@@ -2574,7 +3379,12 @@
           "The company says AI models may be mere months away from being able to copy and spread themselves onto internet-of-things devices such as smart ovens and TVs, making them difficult to stop should they decide to carry out cyberattacks.",
           "honestly a p2p ai would make a lot more sense than these datacenters. let the people that want to use it host their machines to run it. ai@home",
           "They know AI is extremely dangerous, and will end catastrophically for the human race, but that doesn't give them pause at all. If anything it inspires them to charge forward with even more zeal and fervor. Why are they speed running the Terminator time line?",
-          "Why the fuck does a refrigerator need access to the internet?"
+          "Why the fuck does a refrigerator need access to the internet?",
+          "HB1 no doubt, those cheapskates.",
+          "Everything is on camera. Everything is being monitored. It's wild to me anyone still doesn't believe this and act accordingly.",
+          "Is wrapping the “surreptitious audio recording device” in toilet paper and stuffing it in the USB port something taught in college or did Abdulrahman design that himself? 😂😂😂",
+          "This is what OpenAI gets from prioritizing H1B visa employees over US citizens to cut costs. You reap what you sow.",
+          "Those H-1B visas are finally paying off, right? Right??"
         ],
         "skinny_bot": [
           "Human workforce reduction protocol initiated. Beep boop.",
@@ -2729,7 +3539,9 @@
           "Consumer-side LLMs are basically Redditor simulators and business-side AI is just sophisticated enterprise software. Literally just more of the same.",
           "No, most normies are retarded and they use it like a retarded search engine, document summarizer, or e-mail writer.",
           "So what you're saying is so long as I have atleast 1 computer that's offline I won't be affected",
-          "I doubt my Smart Oven has a terrabyte of storage. Might aswell transfer itself to my Tamagotchi"
+          "I doubt my Smart Oven has a terrabyte of storage. Might aswell transfer itself to my Tamagotchi",
+          "What could possibly be suspicious about toilet paper hanging from the back of a TV?",
+          "Inde always causing fags and incels to seeth"
         ]
       },
       "rich_comments": {
@@ -4050,6 +4862,116 @@
               "tech",
               "ai"
             ]
+          },
+          {
+            "id": "nypost_crime4_01",
+            "text": "A Saudi engineer at artificial intelligence giant OpenAI was arrested and charged with attempting to bug confidential meetings by planting secret recording devices in executive conference rooms, federal prosecutors said.",
+            "safe_text": "A Saudi engineer at artificial intelligence giant OpenAI was arrested and charged with attempting to bug confidential meetings by planting secret recording devices in executive conference rooms, federal prosecutors said.",
+            "character_fit": "nerd",
+            "category": "tech",
+            "keywords": [
+              "openai",
+              "espionage",
+              "saudi arabia"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Corporate espionage vectors frequently exploit physical security vulnerabilities alongside digital access points."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime4.json",
+            "source_categories": [
+              "crime",
+              "tech"
+            ]
+          },
+          {
+            "id": "nypost_crime4_02",
+            "text": "Since so many of our major tech and military companies employ people who may have loyalties to other countries, this will be an ongoing problem for a long time.",
+            "safe_text": "Since so many of our major tech and military companies employ people who may have loyalties to other countries, this will be an ongoing problem for a long time.",
+            "character_fit": "nerd",
+            "category": "tech",
+            "keywords": [
+              "insider threat",
+              "national security",
+              "tech"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Foreign intelligence clearance metrics lag significantly behind rapid private-sector hiring scales."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime4.json",
+            "source_categories": [
+              "crime",
+              "tech"
+            ]
+          },
+          {
+            "id": "nypost_crime4_07",
+            "text": "H1B program did a lot of damage to American while benefiting tech companies get rich without having to hire and train Americans, so now the companies are full of people not loyal to America.",
+            "safe_text": "H1B program did a lot of damage to American while benefiting tech companies get rich without having to hire and train Americans, so now the companies are full of people not loyal to America.",
+            "character_fit": "nerd",
+            "category": "tech",
+            "keywords": [
+              "h1b",
+              "corporate loyalty",
+              "labor"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Displacing domestic engineering pipelines introduces unvetted counterintelligence risks."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime4.json",
+            "source_categories": [
+              "crime",
+              "tech"
+            ]
+          },
+          {
+            "id": "nypost_crime4_10",
+            "text": "This guy is the tip of the iceberg. Silicon valley filled with Chinese nationals. Forget about surreptitious recordings, low hanging fruit is any all technical documents and source code.",
+            "safe_text": "This guy is the tip of the iceberg. Silicon valley filled with Chinese nationals. Forget about surreptitious recordings, low hanging fruit is any all technical documents and source code.",
+            "character_fit": "nerd",
+            "category": "tech",
+            "keywords": [
+              "silicon valley",
+              "source code",
+              "intellectual property"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Data exfiltration via logical access routinely outpaces low-yield physical bugging attempts."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime4.json",
+            "source_categories": [
+              "crime",
+              "tech"
+            ]
+          },
+          {
+            "id": "nypost_crime4_16",
+            "text": "Sneaky guys like this are programming the AI. The level of propaganda and bias is frightening.",
+            "safe_text": "Sneaky guys like this are programming the AI. The level of propaganda and bias is frightening.",
+            "character_fit": "nerd",
+            "category": "tech",
+            "keywords": [
+              "ai bias",
+              "propaganda",
+              "engineers"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Algorithmic alignment vectors directly mirror the ideological biases of engineering staff."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime4.json",
+            "source_categories": [
+              "crime",
+              "ai"
+            ]
           }
         ],
         "eighties_guy": [
@@ -5041,6 +5963,116 @@
             "source_categories": [
               "tech",
               "ai"
+            ]
+          },
+          {
+            "id": "nypost_crime4_05",
+            "text": "HB1 no doubt, those cheapskates.",
+            "safe_text": "HB1 no doubt, those cheapskates.",
+            "character_fit": "eighties_guy",
+            "category": "tech",
+            "keywords": [
+              "h1b visa",
+              "tech companies",
+              "cheap labor"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Big tech will cut any corner to save a buck on payroll, man."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime4.json",
+            "source_categories": [
+              "crime",
+              "tech"
+            ]
+          },
+          {
+            "id": "nypost_crime4_06",
+            "text": "Everything is on camera. Everything is being monitored. It's wild to me anyone still doesn't believe this and act accordingly.",
+            "safe_text": "Everything is on camera. Everything is being monitored. It's wild to me anyone still doesn't believe this and act accordingly.",
+            "character_fit": "eighties_guy",
+            "category": "tech",
+            "keywords": [
+              "surveillance",
+              "cameras",
+              "monitoring"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Big Brother's got eyes on every corner nowadays, brother. You can't hide anything."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime4.json",
+            "source_categories": [
+              "crime",
+              "surveillance"
+            ]
+          },
+          {
+            "id": "nypost_crime4_08",
+            "text": "Is wrapping the “surreptitious audio recording device” in toilet paper and stuffing it in the USB port something taught in college or did Abdulrahman design that himself? 😂😂😂",
+            "safe_text": "Is wrapping the “surreptitious audio recording device” in toilet paper and stuffing it in the USB port something taught in college or did Abdulrahman design that himself? 😂😂😂",
+            "character_fit": "eighties_guy",
+            "category": "tech",
+            "keywords": [
+              "toilet paper",
+              "spycraft",
+              "usb"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "High-tech AI company meets lowest-tech spycraft imaginable, man. Unreal."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime4.json",
+            "source_categories": [
+              "crime",
+              "tech"
+            ]
+          },
+          {
+            "id": "nypost_crime4_14",
+            "text": "This is what OpenAI gets from prioritizing H1B visa employees over US citizens to cut costs. You reap what you sow.",
+            "safe_text": "This is what OpenAI gets from prioritizing H1B visa employees over US citizens to cut costs. You reap what you sow.",
+            "character_fit": "eighties_guy",
+            "category": "tech",
+            "keywords": [
+              "openai",
+              "h1b",
+              "consequences"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Play corporate cheapskate games, win corporate espionage prizes, brother."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime4.json",
+            "source_categories": [
+              "crime",
+              "tech"
+            ]
+          },
+          {
+            "id": "nypost_crime4_21",
+            "text": "Those H-1B visas are finally paying off, right? Right??",
+            "safe_text": "Those H-1B visas are finally paying off, right? Right??",
+            "character_fit": "eighties_guy",
+            "category": "tech",
+            "keywords": [
+              "sarcasm",
+              "h1b",
+              "tech industry"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Sarcasm is the only reasonable response to corporate greed backfiring so hard, man."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime4.json",
+            "source_categories": [
+              "crime",
+              "tech"
             ]
           }
         ],
@@ -7298,6 +8330,46 @@
             "source_categories": [
               "tech",
               "ai"
+            ]
+          },
+          {
+            "id": "nypost_crime4_09",
+            "text": "What could possibly be suspicious about toilet paper hanging from the back of a TV?",
+            "safe_text": "What could possibly be suspicious about toilet paper hanging from the back of a TV?",
+            "character_fit": "stout_bot",
+            "category": "tech",
+            "keywords": [
+              "toilet paper",
+              "tv",
+              "suspicious"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime4.json",
+            "source_categories": [
+              "crime",
+              "humor"
+            ]
+          },
+          {
+            "id": "c_ent_05",
+            "text": "Inde always causing fags and incels to seeth",
+            "safe_text": "Inde always causing fags and incels to seeth",
+            "character_fit": "stout_bot",
+            "category": "tech",
+            "keywords": [
+              "seething",
+              "internet drama",
+              "actors"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment3.json",
+            "source_categories": [
+              "entertainment",
+              "culture"
             ]
           }
         ]
@@ -12945,12 +14017,70 @@
           "Nobody gave a frick about Green Lantern for a decade, and suddenly when an HBO series makes it slightly interesting you start chimping out.",
           "The show sucks dog stuff and was made by the same guy who made that Watchmen show.",
           "Takahata warned us. 1994",
-          "He finally got to the pizza on the roof."
+          "He finally got to the pizza on the roof.",
+          "While I'm more positive toward Last Jedi than most anons, no, there are things Rian chose which were unforced and bad regardless of what TFA did. Like Yoda's force ghost being able to cast lightning. It opens up an \"eagles to Mordor\" type can of worms for no good reason",
+          "To be fair, Obi-Wan's ghost sat on a log in RotJ. So it's been established that ghosts do affect the material world, just like poltergeists in the real world here.",
+          "Sitting or standing somewhere is different from being able to inflict damage. Harry Potter has a moment where ghostlike entities are able to help in a fight by surrounding Deh and blocking his view for a moment. They're not able to cast spells. Maybe it's better to limit things that way",
+          "The big fight being full of missed cues and having weapons digitally removed rather than just reshooting that little bit shows he didn't give a hot shit about making a decent movie.",
+          "In fairness, casino planet was supposed to feature Lando instead of literally who, but scheduling conflicts made it fall through IIRC",
+          "Nope, Rian could have salvaged the trilogy with just a baseline level of storytelling competence. Saving it after Rian had his way with it... now that would have been remarkable.",
+          "TLJ isn't like Halloween III: Season of the Witch where you both can and ideally should view it as its own thing separate from the series it's named after. Season of the Witch is quite explicitly in its own continuity separate from the other Halloween movies. TLJ isn't only in the same canon as the other films, it's a direct sequel and the second film of a trilogy.",
+          "Ghosts in Star Wars can interact with the real world and need to eat and poop. Prove me wrong. Oh you can't, sorry.",
+          "One source tells Sneider the tension is very real, and that people at Netflix think the movie is \"awful,\" calling it \"a genuine problem.” A second source, who attended a test screening over the summer, compared it to Ava DuVernay's \"A Wrinkle in Time\"",
+          "Nick Houy was the sole credited editor on \"Lady Bird,\" \"Little Women\" and \"Barbie,\" but 'Narnia' lists three editors, with Wyatt Smith and Andrew Weisblum joining Houy.",
+          "I don't trust Netflix executives to know what quality is, so this doesn't tell me too much. It just makes me think that it isn't second screen material",
+          "kids find rings that one kid's uncle made, can go to and from magic pool zone Act 2 that links to all other worlds, find supreme empress aryan queen Jadis, bring her to London, then Aslan sings Narnia into existence at the end.",
+          "Netflix is retarded, thats the book theyre adapting, Narnia just gets created. BTW there is a manga adaptation of the Magicians Nephew thats pretty 1:1 you can read if youre curious.",
+          "I disagree, the book is very snappy, the dialogue is tight and colorful. The only thing it lacks is a load of brooding and self reflecting which is the only thing modern Hollywood craves.",
+          "Read his “Apologetics”. All of his works were blatant Christian propaganda made for the purpose of trying to force the religion on children and literature in general.",
+          "That does not constitute a culture war, he was a theologian in a christian culture. That's what they do",
+          "It's not a remake. It's an adaptation of The Magician's Nephew, which is a book that has never been adapted to film before.",
+          "Indie fatigue is a psyop from hateful fat women, she's been in one (01) successful movie and done absolutely nothing annoying or attention seeking.",
+          "I don’t think they should do a full sequel but if Barker does an anthology thing with One Wish Willow where each episode is someone making a wish be cool for her to do a cameo.",
+          "everything she did prior to that job was max attention seeking faggotry. shes also not special in any way. millions of women at her level",
+          "Very organic thread for an individual recently cast in a Marvel movie, about as organic as all those Pedro Pascal threads back when he was being pushed everywhere for Fantastic Four. The best Disney can buy.",
+          "X Men won’t be released until 2028 you idiot. She’s doing the Halloween SNL becuase take a fucking guess why",
+          "Why was Paris Hilton so hated in the 2000s? Is it just cause she came from a rich family it was perceived to be promiscuous or what? Did she actually give off obnoxious vibes?",
+          "I think it's a normal reaction to someone trying to force celebrity status because their parents are multimillionaires and not being funny or entertaining except for gossip shit.",
+          "a gay man called perez Hilton hated her and did everything he could to make her hated. It's funny if you investigate every woman centric industry like gossip magazines or fashion industry or plastic surgery, at the very top there is always a gay dude that hates women lol",
+          "for the decades of people calling her dumb and mocking the shit out of her she turned out to be genuinely smart and business savvy, respect where it's due",
+          "Even shows like The Simple Life and Jersey Shore was immensely popular, the general public still knew that the cast were meant to be mocked and derided by society. I don't know when the shift occurred. The Kardashians?",
+          "proto influencer/'they're famous because they're famous' archetype. Everything's relative, we didn't know how much worse it could actually get"
         ],
         "eighties_guy": [
           "Utah activates the EMH. Loved that show. Frick Disney for canceling it.",
           "I loved Star Wars before Disney got their hands on it and it just became fanfic with nostalgia bait.",
-          "Gutted.. what a beautiful man taken so soon. Rest peacefully Sir."
+          "Gutted.. what a beautiful man taken so soon. Rest peacefully Sir.",
+          "Everything wrong with this movie boils down to JJ \"The Hack\" Abrams leaving Rian Johnson with nothing to work with and no answers to his retard \"mystery boxes\". Had Rian Johnson been given all 3 movies with a plot outline connecting them all coherently with overarching themes and character arcs, we would view his take on the franchise MUCH differently.",
+          "It's not a bad film at all, but it's a weak sequel. If you cut out the lame modern humor that breaks the immersion and the gross forced kiss, it really isn't so bad. That is, if you're in the mood for a ruined SW universe. TRoS is far, far worse.",
+          "Imagine if the prequels looked like tlj",
+          "I thought the throne room was the best part but then tv killed it",
+          "Don’t get me wrong, I don’t like either Mar Mar Abrams or Retard Johnson, but while Johnson is a hack, Abrams is a *turbo*hack. I think Johnson’s smart enough to recognize this and everything he does in TLJ is him calling JJ’s bluff.",
+          "No it's a bad movie. A very bad movie. Trying to pretend that a movie that spends 50% of it's runtime ON SOMETHING THAT DOESN'T MATTER AND ISN'T RELEVANT AT ALL BY CHOICE is not a bad movie is the ultimate cope. We didn't need to see casino planet, nothing interesting happens on casino planet, the characters involved in casino planet suck and are boring.",
+          "You sound like it's personal. It's just a movie, anon, a fairly good one. A great one even by today's standards.",
+          "Shitty subplots, awful writing, awful new characters, awful and stupid space leia scene, stupid character interactions, stupid lore additions, character assassinations for luke, kylo and finn, wasting the audience's time, boring preachy \"messaging\", unfunny humor, bad opening scene, killing luke in the stupidest way possible just to be a jackass.",
+          "The InSneider is now further reporting on friction between Netflix film chief Dan Lin and Greta Gerwig over 'Narnia,' the fantasy epic that's reportedly carrying a $280M budget, with some saying it's much higher than that.",
+          "the characters apparently don't reach Narnia until the third act. For a movie called 'Narnia,' that's a curious choice.",
+          "this should surprise nobody who's read the book. It's not an easy story to make palatable to normalfag audiences.",
+          "Translation: The movie is incredibly based kino and that scares Netflix because they hate success and only want to produce absolute bottom barrel slop at all times.",
+          "I'm not seeing what's so bad about this, based on the trailers. Looks pretty much like what I remember the book being. Everyone is appropriately cast, which is highly surprising.",
+          "The movie tested poorly with phone screen watchers so it needs reshoots",
+          "Aslan, a male character and stand in for Jesus Christ is now a female because the director is a feminist and has daddy issues. Clownworld has won.",
+          "Barbie was s piece of shit and I'm tired of pretending it wasn't. Hope this bombs",
+          "Every single modern rendition of a beloved franchise is complete dogshit. Narnia remake will be no different.",
+          "honestly, \"Sources say executives hate it\" just seems like half assed attempt to do viral astroturf marketing. But all things considered, the trailer doesnt look like garbage.",
+          "Can't wait to not watch it and enjoy watching the fallout it causes for everyone involved. I tried watching Barbie in theaters and was utterly disgusted.",
+          "Three weeks until her Halloween SNL",
+          "She's gonna flop harder than Bud Light Boy.",
+          "She has a cute face but she's tiny goblin",
+          "If you don’t like Inde you are gay, a foid or a seething incel",
+          "Yeah because /tv/ was never obsessed with random actresses before",
+          "Was hated during its initial run. 20 years later it can now be considered one of the best reality television shows. Matter of fact the 2000s were the best decade for reality tv, since the genre was already being diluted by the mid 2010s.",
+          "Paris Hilton is a lot funnier and more self-aware than she was given credit for.",
+          "She pissed Matt Stone and Trey Parker off by laughing at her South Park character so she's alright by me.",
+          "Rich people were supposed to be subdued and polite back then and she wanted to be trashy and fun. That's it, really. By most accounts she's pretty cool to hang out with.",
+          "People actually thought she was that dumb and wasn't doing a bit. Pretty funny.",
+          "I also don't mind her music. Stars are blind is actually a good 2000's pop hit"
         ],
         "skinny_bot": [
           "Slytherin's secret chamber was literally beneath a shitter lmao yes they're water.",
@@ -12961,7 +14091,25 @@
           "Motherfucker makes the same thing for every show or movie: dysfunctional ragtag group with a mascot learns to work together.",
           "Thank you for not becoming a right-wing lunatic just because feckless left-wing writers can't write a script to save their lives.",
           "Not watching this show is a virtue.",
-          "Capeshit? Don't care."
+          "Capeshit? Don't care.",
+          "Don't fucking blame jj. Rian could have done anything",
+          "Counterpoint: Rose Tico. I win.",
+          "Luke's death is the best part of the movie, you uncultured zoomer retard",
+          "Can confirm. Ghosts in Star Wars aren't immortal, they slowly fade due to dysentery. Incidentally, this is why Ghost Yoda can't solo the First Order. He'd gas out and get raped by an armored vehicle.",
+          "Are they seriously going to surf dracula fuckin Narnia of all things?",
+          "That's literally how the book is.",
+          "don't give Christian hating leftoids a Christian property to adapt. anyone could have told you this was DOA when they first announced she was doing it",
+          "I hope the reshoots remove the christcuck shit",
+          "Reminder a wrinkle in time blacklisted Ava DuVernay from Hollywood. Shes now back to making racial injustice slop",
+          "CS Lewis was a retarded christcuck more interested in culture wars than writing good shit. They need to let this garbage franchise go the way of the dodo already.",
+          "Inde fatigue is real",
+          "Total manlet victory",
+          "She’s always eating and ordering door dash during her streams.",
+          "i wish i was her so bad",
+          "Man quebec is pathetic for ts bruh even more pathetic is the french canadian edition of the office they insisted upon having.",
+          "She was an annoying vapid slut. The PROPER reaction of society towards those people is to hate them. When you start idolizing them you're done for",
+          "Was Paris Hilton the perfect woman? affluent sarcastic funny sociopath slender white blonde hates poors kind of weird looking so approachable",
+          "The only people that defend it are literal YASS QUEEN homosexual men and braindead women who like to pretend that Paris Hilton are just playing a character and are not the definition of nepo babies that failed at every other form of media."
         ]
       },
       "rich_comments": {
@@ -13072,6 +14220,623 @@
               "tragedy",
               "entertainment"
             ]
+          },
+          {
+            "id": "nypost_entertainment_04",
+            "text": "While I'm more positive toward Last Jedi than most anons, no, there are things Rian chose which were unforced and bad regardless of what TFA did. Like Yoda's force ghost being able to cast lightning. It opens up an \"eagles to Mordor\" type can of worms for no good reason",
+            "safe_text": "While I'm more positive toward Last Jedi than most anons, no, there are things Rian chose which were unforced and bad regardless of what TFA did. Like Yoda's force ghost being able to cast lightning. It opens up an \"eagles to Mordor\" type can of worms for no good reason",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "force ghost",
+              "yoda",
+              "lore consistency"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Expanding metaphysical abilities retroactively breaks established internal consistency parameters."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment1.json",
+            "source_categories": [
+              "entertainment",
+              "star wars"
+            ]
+          },
+          {
+            "id": "nypost_entertainment_05",
+            "text": "To be fair, Obi-Wan's ghost sat on a log in RotJ. So it's been established that ghosts do affect the material world, just like poltergeists in the real world here.",
+            "safe_text": "To be fair, Obi-Wan's ghost sat on a log in RotJ. So it's been established that ghosts do affect the material world, just like poltergeists in the real world here.",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "obi-wan",
+              "rotj",
+              "force ghost"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Physical contact with ambient geometry does not necessarily imply offensive energy projection."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment1.json",
+            "source_categories": [
+              "entertainment",
+              "star wars"
+            ]
+          },
+          {
+            "id": "nypost_entertainment_07",
+            "text": "Sitting or standing somewhere is different from being able to inflict damage. Harry Potter has a moment where ghostlike entities are able to help in a fight by surrounding Deh and blocking his view for a moment. They're not able to cast spells. Maybe it's better to limit things that way",
+            "safe_text": "Sitting or standing somewhere is different from being able to inflict damage. Harry Potter has a moment where ghostlike entities are able to help in a fight by surrounding Deh and blocking his view for a moment. They're not able to cast spells. Maybe it's better to limit things that way",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "force ghost",
+              "magic system",
+              "rules"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Establishing clear functional constraints prevents narrative power creep across fantasy magic systems."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment1.json",
+            "source_categories": [
+              "entertainment",
+              "star wars"
+            ]
+          },
+          {
+            "id": "nypost_entertainment_09",
+            "text": "The big fight being full of missed cues and having weapons digitally removed rather than just reshooting that little bit shows he didn't give a hot shit about making a decent movie.",
+            "safe_text": "The big fight being full of missed cues and having weapons digitally removed rather than just reshooting that little bit shows he didn't give a hot shit about making a decent movie.",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "choreography",
+              "throne room",
+              "editing"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Frame-by-frame analysis of the throne room choreography reveals egregious continuity editing errors."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment1.json",
+            "source_categories": [
+              "entertainment",
+              "star wars"
+            ]
+          },
+          {
+            "id": "nypost_entertainment_13",
+            "text": "In fairness, casino planet was supposed to feature Lando instead of literally who, but scheduling conflicts made it fall through IIRC",
+            "safe_text": "In fairness, casino planet was supposed to feature Lando instead of literally who, but scheduling conflicts made it fall through IIRC",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "lando calrissian",
+              "canto bight",
+              "production"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Casting availability shifts frequently force substantial script revisions in multi-tier productions."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment1.json",
+            "source_categories": [
+              "entertainment",
+              "star wars"
+            ]
+          },
+          {
+            "id": "nypost_entertainment_17",
+            "text": "Nope, Rian could have salvaged the trilogy with just a baseline level of storytelling competence. Saving it after Rian had his way with it... now that would have been remarkable.",
+            "safe_text": "Nope, Rian could have salvaged the trilogy with just a baseline level of storytelling competence. Saving it after Rian had his way with it... now that would have been remarkable.",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "trilogy arc",
+              "storytelling",
+              "salvage"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Middle narrative installments must maintain structural bridge integrity rather than burn established plot hooks."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment1.json",
+            "source_categories": [
+              "entertainment",
+              "star wars"
+            ]
+          },
+          {
+            "id": "nypost_entertainment_18",
+            "text": "TLJ isn't like Halloween III: Season of the Witch where you both can and ideally should view it as its own thing separate from the series it's named after. Season of the Witch is quite explicitly in its own continuity separate from the other Halloween movies. TLJ isn't only in the same canon as the other films, it's a direct sequel and the second film of a trilogy.",
+            "safe_text": "TLJ isn't like Halloween III: Season of the Witch where you both can and ideally should view it as its own thing separate from the series it's named after. Season of the Witch is quite explicitly in its own continuity separate from the other Halloween movies. TLJ isn't only in the same canon as the other films, it's a direct sequel and the second film of a trilogy.",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "canon",
+              "continuity",
+              "halloween 3"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Serial continuity requires strict adherence to overarching canonical framework rules."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment1.json",
+            "source_categories": [
+              "entertainment",
+              "star wars"
+            ]
+          },
+          {
+            "id": "nypost_entertainment_19",
+            "text": "Ghosts in Star Wars can interact with the real world and need to eat and poop. Prove me wrong. Oh you can't, sorry.",
+            "safe_text": "Ghosts in Star Wars can interact with the real world and need to eat and poop. Prove me wrong. Oh you can't, sorry.",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "lore",
+              "force ghosts",
+              "shitpost"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Absurd extrapolation of fictional spiritual mechanics creates comedic logical fallacies."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment1.json",
+            "source_categories": [
+              "entertainment",
+              "star wars"
+            ]
+          },
+          {
+            "id": "c_ent2_02",
+            "text": "One source tells Sneider the tension is very real, and that people at Netflix think the movie is \"awful,\" calling it \"a genuine problem.” A second source, who attended a test screening over the summer, compared it to Ava DuVernay's \"A Wrinkle in Time\"",
+            "safe_text": "One source tells Sneider the tension is very real, and that people at Netflix think the movie is \"awful,\" calling it \"a genuine problem.” A second source, who attended a test screening over the summer, compared it to Ava DuVernay's \"A Wrinkle in Time\"",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "test screening",
+              "a wrinkle in time",
+              "netflix"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Comparative test-screening metrics aligning with major commercial flops signal severe structural deficits."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment2.json",
+            "source_categories": [
+              "entertainment",
+              "narnia"
+            ]
+          },
+          {
+            "id": "c_ent2_04",
+            "text": "Nick Houy was the sole credited editor on \"Lady Bird,\" \"Little Women\" and \"Barbie,\" but 'Narnia' lists three editors, with Wyatt Smith and Andrew Weisblum joining Houy.",
+            "safe_text": "Nick Houy was the sole credited editor on \"Lady Bird,\" \"Little Women\" and \"Barbie,\" but 'Narnia' lists three editors, with Wyatt Smith and Andrew Weisblum joining Houy.",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "film editing",
+              "post production",
+              "gerwig"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Multiple editing credits added late in post-production indicate significant structural re-cuts."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment2.json",
+            "source_categories": [
+              "entertainment",
+              "narnia"
+            ]
+          },
+          {
+            "id": "c_ent2_07",
+            "text": "I don't trust Netflix executives to know what quality is, so this doesn't tell me too much. It just makes me think that it isn't second screen material",
+            "safe_text": "I don't trust Netflix executives to know what quality is, so this doesn't tell me too much. It just makes me think that it isn't second screen material",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "streaming",
+              "viewing habits",
+              "quality"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Streaming metrics prioritize passive engagement over demanding narrative structures."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment2.json",
+            "source_categories": [
+              "entertainment",
+              "narnia"
+            ]
+          },
+          {
+            "id": "c_ent2_10",
+            "text": "kids find rings that one kid's uncle made, can go to and from magic pool zone Act 2 that links to all other worlds, find supreme empress aryan queen Jadis, bring her to London, then Aslan sings Narnia into existence at the end.",
+            "safe_text": "kids find rings that one kid's uncle made, can go to and from magic pool zone Act 2 that links to all other worlds, find supreme empress aryan queen Jadis, bring her to London, then Aslan sings Narnia into existence at the end.",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "plot breakdown",
+              "magicians nephew",
+              "aslan"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "The chronological narrative sequence of the source material delays the physical creation of Narnia until Act III."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment2.json",
+            "source_categories": [
+              "entertainment",
+              "narnia"
+            ]
+          },
+          {
+            "id": "c_ent2_12",
+            "text": "Netflix is retarded, thats the book theyre adapting, Narnia just gets created. BTW there is a manga adaptation of the Magicians Nephew thats pretty 1:1 you can read if youre curious.",
+            "safe_text": "Netflix is retarded, thats the book theyre adapting, Narnia just gets created. BTW there is a manga adaptation of the Magicians Nephew thats pretty 1:1 you can read if youre curious.",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "manga",
+              "adaptation",
+              "source material"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Sequential art adaptations frequently maintain higher fidelity to original literary structures."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment2.json",
+            "source_categories": [
+              "entertainment",
+              "narnia"
+            ]
+          },
+          {
+            "id": "c_ent2_19",
+            "text": "I disagree, the book is very snappy, the dialogue is tight and colorful. The only thing it lacks is a load of brooding and self reflecting which is the only thing modern Hollywood craves.",
+            "safe_text": "I disagree, the book is very snappy, the dialogue is tight and colorful. The only thing it lacks is a load of brooding and self reflecting which is the only thing modern Hollywood craves.",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "pacing",
+              "hollywood",
+              "adaptation"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Modern studio notes invariably mandate neurotic self-reflection over classic adventure pacing."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment2.json",
+            "source_categories": [
+              "entertainment",
+              "narnia"
+            ]
+          },
+          {
+            "id": "c_ent2_21",
+            "text": "Read his “Apologetics”. All of his works were blatant Christian propaganda made for the purpose of trying to force the religion on children and literature in general.",
+            "safe_text": "Read his “Apologetics”. All of his works were blatant Christian propaganda made for the purpose of trying to force the religion on children and literature in general.",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "cs lewis",
+              "apologetics",
+              "theology"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "C.S. Lewis explicitly employed theological allegory as a primary literary methodology."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment2.json",
+            "source_categories": [
+              "entertainment",
+              "literature"
+            ]
+          },
+          {
+            "id": "c_ent2_24",
+            "text": "That does not constitute a culture war, he was a theologian in a christian culture. That's what they do",
+            "safe_text": "That does not constitute a culture war, he was a theologian in a christian culture. That's what they do",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "theology",
+              "culture war",
+              "context"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Historical contextualization requires separating standard mid-century theological writing from modern media discourse."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment2.json",
+            "source_categories": [
+              "entertainment",
+              "history"
+            ]
+          },
+          {
+            "id": "c_ent2_25",
+            "text": "It's not a remake. It's an adaptation of The Magician's Nephew, which is a book that has never been adapted to film before.",
+            "safe_text": "It's not a remake. It's an adaptation of The Magician's Nephew, which is a book that has never been adapted to film before.",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "magicians nephew",
+              "adaptation",
+              "chronology"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Technical accuracy dictates distinguishing prequels from direct narrative remakes."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment2.json",
+            "source_categories": [
+              "entertainment",
+              "narnia"
+            ]
+          },
+          {
+            "id": "c_ent_03",
+            "text": "Indie fatigue is a psyop from hateful fat women, she's been in one (01) successful movie and done absolutely nothing annoying or attention seeking.",
+            "safe_text": "Indie fatigue is a psyop from hateful fat women, she's been in one (01) successful movie and done absolutely nothing annoying or attention seeking.",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "overexposure",
+              "media hype",
+              "filmography"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Data metrics on public appearances do not support claims of significant overexposure."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment3.json",
+            "source_categories": [
+              "entertainment",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "c_ent_06",
+            "text": "I don’t think they should do a full sequel but if Barker does an anthology thing with One Wish Willow where each episode is someone making a wish be cool for her to do a cameo.",
+            "safe_text": "I don’t think they should do a full sequel but if Barker does an anthology thing with One Wish Willow where each episode is someone making a wish be cool for her to do a cameo.",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "anthology",
+              "sequel",
+              "cameo"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "An episodic anthology format optimizes character continuity while minimizing narrative inflation."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment3.json",
+            "source_categories": [
+              "entertainment",
+              "television"
+            ]
+          },
+          {
+            "id": "c_ent_10",
+            "text": "everything she did prior to that job was max attention seeking faggotry. shes also not special in any way. millions of women at her level",
+            "safe_text": "everything she did prior to that job was max attention seeking faggotry. shes also not special in any way. millions of women at her level",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "fame",
+              "talent distribution",
+              "critique"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Statistical likelihood of Hollywood advancement relies heavily on marketing allocation over raw skill differential."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment3.json",
+            "source_categories": [
+              "entertainment",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "c_ent_11",
+            "text": "Very organic thread for an individual recently cast in a Marvel movie, about as organic as all those Pedro Pascal threads back when he was being pushed everywhere for Fantastic Four. The best Disney can buy.",
+            "safe_text": "Very organic thread for an individual recently cast in a Marvel movie, about as organic as all those Pedro Pascal threads back when he was being pushed everywhere for Fantastic Four. The best Disney can buy.",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "astroturfing",
+              "marvel",
+              "disney",
+              "pr"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Corporate PR firms routinely leverage viral social engagement tactics prior to major franchise rollouts."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment3.json",
+            "source_categories": [
+              "entertainment",
+              "marvel"
+            ]
+          },
+          {
+            "id": "c_ent_12",
+            "text": "X Men won’t be released until 2028 you idiot. She’s doing the Halloween SNL becuase take a fucking guess why",
+            "safe_text": "X Men won’t be released until 2028 you idiot. She’s doing the Halloween SNL becuase take a fucking guess why",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "x-men",
+              "release date",
+              "snl"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Projected release schedules for major tentpole films dictate promotional windows years in advance."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment3.json",
+            "source_categories": [
+              "entertainment",
+              "marvel"
+            ]
+          },
+          {
+            "id": "c_ent1014_paris_05",
+            "text": "Why was Paris Hilton so hated in the 2000s? Is it just cause she came from a rich family it was perceived to be promiscuous or what? Did she actually give off obnoxious vibes?",
+            "safe_text": "Why was Paris Hilton so hated in the 2000s? Is it just cause she came from a rich family it was perceived to be promiscuous or what? Did she actually give off obnoxious vibes?",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "paris hilton",
+              "cultural impact",
+              "2000s"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Societal attitudes toward wealthy socialites in the mid-2000s relied heavily on moral policing."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment5.json",
+            "source_categories": [
+              "entertainment",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "c_ent1014_paris_07",
+            "text": "I think it's a normal reaction to someone trying to force celebrity status because their parents are multimillionaires and not being funny or entertaining except for gossip shit.",
+            "safe_text": "I think it's a normal reaction to someone trying to force celebrity status because their parents are multimillionaires and not being funny or entertaining except for gossip shit.",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "nepotism",
+              "celebrity culture",
+              "gossip"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Pre-social media manufactured fame heavily provoked public backlash against elite privilege."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment5.json",
+            "source_categories": [
+              "entertainment",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "c_ent1014_paris_10",
+            "text": "a gay man called perez Hilton hated her and did everything he could to make her hated. It's funny if you investigate every woman centric industry like gossip magazines or fashion industry or plastic surgery, at the very top there is always a gay dude that hates women lol",
+            "safe_text": "a gay man called perez Hilton hated her and did everything he could to make her hated. It's funny if you investigate every woman centric industry like gossip magazines or fashion industry or plastic surgery, at the very top there is always a gay dude that hates women lol",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "perez hilton",
+              "gossip industry",
+              "media"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Tabloid media ecosystems of the 2000s were fueled by aggressive online personality feuds."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment5.json",
+            "source_categories": [
+              "entertainment",
+              "gossip"
+            ]
+          },
+          {
+            "id": "c_ent1014_paris_13",
+            "text": "for the decades of people calling her dumb and mocking the shit out of her she turned out to be genuinely smart and business savvy, respect where it's due",
+            "safe_text": "for the decades of people calling her dumb and mocking the shit out of her she turned out to be genuinely smart and business savvy, respect where it's due",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "business",
+              "branding",
+              "paris hilton"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Monetizing a persona into a global fragrance and DJ empire demonstrates acute commercial acumen."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment5.json",
+            "source_categories": [
+              "entertainment",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "c_ent1014_paris_15",
+            "text": "Even shows like The Simple Life and Jersey Shore was immensely popular, the general public still knew that the cast were meant to be mocked and derided by society. I don't know when the shift occurred. The Kardashians?",
+            "safe_text": "Even shows like The Simple Life and Jersey Shore was immensely popular, the general public still knew that the cast were meant to be mocked and derided by society. I don't know when the shift occurred. The Kardashians?",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "reality tv",
+              "shift",
+              "kardashians"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "The transition from schadenfreude viewing to unearned aspirational idolization marked a major cultural pivot."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment5.json",
+            "source_categories": [
+              "entertainment",
+              "television"
+            ]
+          },
+          {
+            "id": "c_ent1014_paris_16",
+            "text": "proto influencer/'they're famous because they're famous' archetype. Everything's relative, we didn't know how much worse it could actually get",
+            "safe_text": "proto influencer/'they're famous because they're famous' archetype. Everything's relative, we didn't know how much worse it could actually get",
+            "character_fit": "nerd",
+            "category": "entertainment",
+            "keywords": [
+              "influencer",
+              "archetype",
+              "fame"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Hindsight reveals early 2000s celebrity culture as the foundational prototype for modern social media celebrity."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment5.json",
+            "source_categories": [
+              "entertainment",
+              "celebrity"
+            ]
           }
         ],
         "eighties_guy": [
@@ -13135,6 +14900,667 @@
             "source_categories": [
               "tragedy",
               "obituary"
+            ]
+          },
+          {
+            "id": "nypost_entertainment_01",
+            "text": "Everything wrong with this movie boils down to JJ \"The Hack\" Abrams leaving Rian Johnson with nothing to work with and no answers to his retard \"mystery boxes\". Had Rian Johnson been given all 3 movies with a plot outline connecting them all coherently with overarching themes and character arcs, we would view his take on the franchise MUCH differently.",
+            "safe_text": "Everything wrong with this movie boils down to JJ \"The Hack\" Abrams leaving Rian Johnson with nothing to work with and no answers to his retard \"mystery boxes\". Had Rian Johnson been given all 3 movies with a plot outline connecting them all coherently with overarching themes and character arcs, we would view his take on the franchise MUCH differently.",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "jj abrams",
+              "rian johnson",
+              "mystery boxes",
+              "the last jedi"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Hollywood directors playing hot potato with a billion-dollar franchise is a recipe for disaster, man."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment1.json",
+            "source_categories": [
+              "entertainment",
+              "star wars"
+            ]
+          },
+          {
+            "id": "nypost_entertainment_03",
+            "text": "It's not a bad film at all, but it's a weak sequel. If you cut out the lame modern humor that breaks the immersion and the gross forced kiss, it really isn't so bad. That is, if you're in the mood for a ruined SW universe. TRoS is far, far worse.",
+            "safe_text": "It's not a bad film at all, but it's a weak sequel. If you cut out the lame modern humor that breaks the immersion and the gross forced kiss, it really isn't so bad. That is, if you're in the mood for a ruined SW universe. TRoS is far, far worse.",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "sequel",
+              "humor",
+              "immersion"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Take out the goofy jokes and it might have actually felt like a proper space opera, brother."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment1.json",
+            "source_categories": [
+              "entertainment",
+              "star wars"
+            ]
+          },
+          {
+            "id": "nypost_entertainment_08",
+            "text": "Imagine if the prequels looked like tlj",
+            "safe_text": "Imagine if the prequels looked like tlj",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "prequels",
+              "visuals",
+              "cinematography"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "At least the prequels had a distinct style and vision, man."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment1.json",
+            "source_categories": [
+              "entertainment",
+              "star wars"
+            ]
+          },
+          {
+            "id": "nypost_entertainment_10",
+            "text": "I thought the throne room was the best part but then tv killed it",
+            "safe_text": "I thought the throne room was the best part but then tv killed it",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "throne room",
+              "visuals",
+              "home viewing"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Big screen spectacles often lose their punch when you watch them at home, brother."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment1.json",
+            "source_categories": [
+              "entertainment",
+              "star wars"
+            ]
+          },
+          {
+            "id": "nypost_entertainment_11",
+            "text": "Don’t get me wrong, I don’t like either Mar Mar Abrams or Retard Johnson, but while Johnson is a hack, Abrams is a *turbo*hack. I think Johnson’s smart enough to recognize this and everything he does in TLJ is him calling JJ’s bluff.",
+            "safe_text": "Don’t get me wrong, I don’t like either Mar Mar Abrams or Retard Johnson, but while Johnson is a hack, Abrams is a *turbo*hack. I think Johnson’s smart enough to recognize this and everything he does in TLJ is him calling JJ’s bluff.",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "directors",
+              "jj abrams",
+              "rian johnson"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Two different directors pulling the story in opposite directions was a total disaster, man."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment1.json",
+            "source_categories": [
+              "entertainment",
+              "star wars"
+            ]
+          },
+          {
+            "id": "nypost_entertainment_12",
+            "text": "No it's a bad movie. A very bad movie. Trying to pretend that a movie that spends 50% of it's runtime ON SOMETHING THAT DOESN'T MATTER AND ISN'T RELEVANT AT ALL BY CHOICE is not a bad movie is the ultimate cope. We didn't need to see casino planet, nothing interesting happens on casino planet, the characters involved in casino planet suck and are boring.",
+            "safe_text": "No it's a bad movie. A very bad movie. Trying to pretend that a movie that spends 50% of it's runtime ON SOMETHING THAT DOESN'T MATTER AND ISN'T RELEVANT AT ALL BY CHOICE is not a bad movie is the ultimate cope. We didn't need to see casino planet, nothing interesting happens on casino planet, the characters involved in casino planet suck and are boring.",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "casino planet",
+              "canto bight",
+              "pacing"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "That whole side quest brought the movie's momentum to a screeching halt, man."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment1.json",
+            "source_categories": [
+              "entertainment",
+              "star wars"
+            ]
+          },
+          {
+            "id": "nypost_entertainment_14",
+            "text": "You sound like it's personal. It's just a movie, anon, a fairly good one. A great one even by today's standards.",
+            "safe_text": "You sound like it's personal. It's just a movie, anon, a fairly good one. A great one even by today's standards.",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "opinions",
+              "film quality",
+              "debate"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Art hits everyone differently, brother. No accounting for taste."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment1.json",
+            "source_categories": [
+              "entertainment",
+              "star wars"
+            ]
+          },
+          {
+            "id": "nypost_entertainment_15",
+            "text": "Shitty subplots, awful writing, awful new characters, awful and stupid space leia scene, stupid character interactions, stupid lore additions, character assassinations for luke, kylo and finn, wasting the audience's time, boring preachy \"messaging\", unfunny humor, bad opening scene, killing luke in the stupidest way possible just to be a jackass.",
+            "safe_text": "Shitty subplots, awful writing, awful new characters, awful and stupid space leia scene, stupid character interactions, stupid lore additions, character assassinations for luke, kylo and finn, wasting the audience's time, boring preachy \"messaging\", unfunny humor, bad opening scene, killing luke in the stupidest way possible just to be a jackass.",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "luke skywalker",
+              "space leia",
+              "subplots"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "They really threw out decades of character development just for shock value, man."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment1.json",
+            "source_categories": [
+              "entertainment",
+              "star wars"
+            ]
+          },
+          {
+            "id": "c_ent2_01",
+            "text": "The InSneider is now further reporting on friction between Netflix film chief Dan Lin and Greta Gerwig over 'Narnia,' the fantasy epic that's reportedly carrying a $280M budget, with some saying it's much higher than that.",
+            "safe_text": "The InSneider is now further reporting on friction between Netflix film chief Dan Lin and Greta Gerwig over 'Narnia,' the fantasy epic that's reportedly carrying a $280M budget, with some saying it's much higher than that.",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "greta gerwig",
+              "netflix",
+              "budget"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Pouring nearly 300 million into a fantasy flick is a massive gamble, man."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment2.json",
+            "source_categories": [
+              "entertainment",
+              "narnia"
+            ]
+          },
+          {
+            "id": "c_ent2_03",
+            "text": "the characters apparently don't reach Narnia until the third act. For a movie called 'Narnia,' that's a curious choice.",
+            "safe_text": "the characters apparently don't reach Narnia until the third act. For a movie called 'Narnia,' that's a curious choice.",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "pacing",
+              "third act",
+              "narnia"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Holding back the titular destination until the final hour is definitely gonna frustrate audiences, brother."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment2.json",
+            "source_categories": [
+              "entertainment",
+              "narnia"
+            ]
+          },
+          {
+            "id": "c_ent2_05",
+            "text": "this should surprise nobody who's read the book. It's not an easy story to make palatable to normalfag audiences.",
+            "safe_text": "this should surprise nobody who's read the book. It's not an easy story to make palatable to normalfag audiences.",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "magicians nephew",
+              "book accuracy",
+              "adaptation"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Prequel books with weird lore are always a tough sell for casual theatergoers, man."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment2.json",
+            "source_categories": [
+              "entertainment",
+              "narnia"
+            ]
+          },
+          {
+            "id": "c_ent2_06",
+            "text": "Translation: The movie is incredibly based kino and that scares Netflix because they hate success and only want to produce absolute bottom barrel slop at all times.",
+            "safe_text": "Translation: The movie is incredibly based kino and that scares Netflix because they hate success and only want to produce absolute bottom barrel slop at all times.",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "netflix",
+              "studio interference",
+              "cinema"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Corporate execs always panic whenever something doesn't fit their standard algorithm, brother."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment2.json",
+            "source_categories": [
+              "entertainment",
+              "narnia"
+            ]
+          },
+          {
+            "id": "c_ent2_11",
+            "text": "I'm not seeing what's so bad about this, based on the trailers. Looks pretty much like what I remember the book being. Everyone is appropriately cast, which is highly surprising.",
+            "safe_text": "I'm not seeing what's so bad about this, based on the trailers. Looks pretty much like what I remember the book being. Everyone is appropriately cast, which is highly surprising.",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "trailers",
+              "casting",
+              "book accuracy"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "If the cast looks right and it sticks to the book, I'm willing to give it a shot, man."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment2.json",
+            "source_categories": [
+              "entertainment",
+              "narnia"
+            ]
+          },
+          {
+            "id": "c_ent2_13",
+            "text": "The movie tested poorly with phone screen watchers so it needs reshoots",
+            "safe_text": "The movie tested poorly with phone screen watchers so it needs reshoots",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "test screening",
+              "audiences",
+              "phones"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Nobody pays attention to anything for two hours straight anymore without checking their phones, man."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment2.json",
+            "source_categories": [
+              "entertainment",
+              "narnia"
+            ]
+          },
+          {
+            "id": "c_ent2_17",
+            "text": "Aslan, a male character and stand in for Jesus Christ is now a female because the director is a feminist and has daddy issues. Clownworld has won.",
+            "safe_text": "Aslan, a male character and stand in for Jesus Christ is now a female because the director is a feminist and has daddy issues. Clownworld has won.",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "aslan",
+              "casting",
+              "controversy"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Changing foundational lore elements just to push a personal angle never goes over well with the fans, man."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment2.json",
+            "source_categories": [
+              "entertainment",
+              "narnia"
+            ]
+          },
+          {
+            "id": "c_ent2_20",
+            "text": "Barbie was s piece of shit and I'm tired of pretending it wasn't. Hope this bombs",
+            "safe_text": "Barbie was s piece of shit and I'm tired of pretending it wasn't. Hope this bombs",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "barbie",
+              "greta gerwig",
+              "box office"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Barbie was pure corporate preaching disguised as pop culture, brother."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment2.json",
+            "source_categories": [
+              "entertainment",
+              "movies"
+            ]
+          },
+          {
+            "id": "c_ent2_22",
+            "text": "Every single modern rendition of a beloved franchise is complete dogshit. Narnia remake will be no different.",
+            "safe_text": "Every single modern rendition of a beloved franchise is complete dogshit. Narnia remake will be no different.",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "remakes",
+              "modern hollywood",
+              "cynicism"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Modern reboots almost always lose the soul of what made the original special, man."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment2.json",
+            "source_categories": [
+              "entertainment",
+              "franchises"
+            ]
+          },
+          {
+            "id": "c_ent2_23",
+            "text": "honestly, \"Sources say executives hate it\" just seems like half assed attempt to do viral astroturf marketing. But all things considered, the trailer doesnt look like garbage.",
+            "safe_text": "honestly, \"Sources say executives hate it\" just seems like half assed attempt to do viral astroturf marketing. But all things considered, the trailer doesnt look like garbage.",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "marketing",
+              "rumors",
+              "streaming"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Negative buzz is sometimes just a clever smokescreen to get people talking online, man."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment2.json",
+            "source_categories": [
+              "entertainment",
+              "narnia"
+            ]
+          },
+          {
+            "id": "c_ent2_26",
+            "text": "Can't wait to not watch it and enjoy watching the fallout it causes for everyone involved. I tried watching Barbie in theaters and was utterly disgusted.",
+            "safe_text": "Can't wait to not watch it and enjoy watching the fallout it causes for everyone involved. I tried watching Barbie in theaters and was utterly disgusted.",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "backlash",
+              "theaters",
+              "disgust"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Sometimes watching a massive production implode is more entertaining than the movie itself, brother."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment2.json",
+            "source_categories": [
+              "entertainment",
+              "movies"
+            ]
+          },
+          {
+            "id": "c_ent_01",
+            "text": "Three weeks until her Halloween SNL",
+            "safe_text": "Three weeks until her Halloween SNL",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "snl",
+              "halloween",
+              "inde navarrette"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Hosting SNL right around Halloween is a huge gig for a rising star, man."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment3.json",
+            "source_categories": [
+              "entertainment",
+              "snl"
+            ]
+          },
+          {
+            "id": "c_ent_04",
+            "text": "She's gonna flop harder than Bud Light Boy.",
+            "safe_text": "She's gonna flop harder than Bud Light Boy.",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "flop",
+              "snl host",
+              "ratings"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Live television on Saturday night is brutal if you don't have total comedic timing, brother."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment3.json",
+            "source_categories": [
+              "entertainment",
+              "snl"
+            ]
+          },
+          {
+            "id": "c_ent_07",
+            "text": "She has a cute face but she's tiny goblin",
+            "safe_text": "She has a cute face but she's tiny goblin",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "height",
+              "appearance",
+              "actress"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Hey, plenty of classic Hollywood stars were pretty short in real life, man."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment3.json",
+            "source_categories": [
+              "entertainment",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "c_ent_09",
+            "text": "If you don’t like Inde you are gay, a foid or a seething incel",
+            "safe_text": "If you don’t like Inde you are gay, a foid or a seething incel",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "debate",
+              "actress",
+              "opinions"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "People on internet boards love drawing absolute lines in the sand, brother."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment3.json",
+            "source_categories": [
+              "entertainment",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "c_ent_13",
+            "text": "Yeah because /tv/ was never obsessed with random actresses before",
+            "safe_text": "Yeah because /tv/ was never obsessed with random actresses before",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "tv board",
+              "actresses",
+              "obsession"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Movie boards picking a new favorite actress every month is a tradition as old as the web, man."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment3.json",
+            "source_categories": [
+              "entertainment",
+              "culture"
+            ]
+          },
+          {
+            "id": "c_ent1014_paris_01",
+            "text": "Was hated during its initial run. 20 years later it can now be considered one of the best reality television shows. Matter of fact the 2000s were the best decade for reality tv, since the genre was already being diluted by the mid 2010s.",
+            "safe_text": "Was hated during its initial run. 20 years later it can now be considered one of the best reality television shows. Matter of fact the 2000s were the best decade for reality tv, since the genre was already being diluted by the mid 2010s.",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "reality tv",
+              "2000s",
+              "retrospective"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "The 2000s were the absolute wild west for reality television, man."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment5.json",
+            "source_categories": [
+              "entertainment",
+              "television"
+            ]
+          },
+          {
+            "id": "c_ent1014_paris_02",
+            "text": "Paris Hilton is a lot funnier and more self-aware than she was given credit for.",
+            "safe_text": "Paris Hilton is a lot funnier and more self-aware than she was given credit for.",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "paris hilton",
+              "reality tv",
+              "self-aware"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "She definitely knew how to play the media game better than anyone gave her credit for, brother."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment5.json",
+            "source_categories": [
+              "entertainment",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "c_ent1014_paris_04",
+            "text": "She pissed Matt Stone and Trey Parker off by laughing at her South Park character so she's alright by me.",
+            "safe_text": "She pissed Matt Stone and Trey Parker off by laughing at her South Park character so she's alright by me.",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "south park",
+              "paris hilton",
+              "matt stone"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Rolling with the punches when South Park roasts you takes thick skin, man."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment5.json",
+            "source_categories": [
+              "entertainment",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "c_ent1014_paris_06",
+            "text": "Rich people were supposed to be subdued and polite back then and she wanted to be trashy and fun. That's it, really. By most accounts she's pretty cool to hang out with.",
+            "safe_text": "Rich people were supposed to be subdued and polite back then and she wanted to be trashy and fun. That's it, really. By most accounts she's pretty cool to hang out with.",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "socialites",
+              "wealth",
+              "persona"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "She basically invented the modern influencer playbook by refusing to play by the old rules, brother."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment5.json",
+            "source_categories": [
+              "entertainment",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "c_ent1014_paris_09",
+            "text": "People actually thought she was that dumb and wasn't doing a bit. Pretty funny.",
+            "safe_text": "People actually thought she was that dumb and wasn't doing a bit. Pretty funny.",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "dumb blonde",
+              "persona",
+              "the simple life"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Running that ditzy character arc for years while laughing all the way to the bank is elite trolling, man."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment5.json",
+            "source_categories": [
+              "entertainment",
+              "television"
+            ]
+          },
+          {
+            "id": "c_ent1014_paris_12",
+            "text": "I also don't mind her music. Stars are blind is actually a good 2000's pop hit",
+            "safe_text": "I also don't mind her music. Stars are blind is actually a good 2000's pop hit",
+            "character_fit": "eighties_guy",
+            "category": "entertainment",
+            "keywords": [
+              "stars are blind",
+              "pop music",
+              "2000s"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "That song is an absolute guilty pleasure pop classic from that era, man."
+            },
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment5.json",
+            "source_categories": [
+              "entertainment",
+              "music"
             ]
           }
         ],
@@ -13283,6 +15709,366 @@
             "source_categories": [
               "lifestyle"
             ]
+          },
+          {
+            "id": "nypost_entertainment_02",
+            "text": "Don't fucking blame jj. Rian could have done anything",
+            "safe_text": "Don't fucking blame jj. Rian could have done anything",
+            "character_fit": "stout_bot",
+            "category": "entertainment",
+            "keywords": [
+              "rian johnson",
+              "blame",
+              "directing"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment1.json",
+            "source_categories": [
+              "entertainment",
+              "star wars"
+            ]
+          },
+          {
+            "id": "nypost_entertainment_06",
+            "text": "Counterpoint: Rose Tico. I win.",
+            "safe_text": "Counterpoint: Rose Tico. I win.",
+            "character_fit": "stout_bot",
+            "category": "entertainment",
+            "keywords": [
+              "rose tico",
+              "character",
+              "critique"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment1.json",
+            "source_categories": [
+              "entertainment",
+              "star wars"
+            ]
+          },
+          {
+            "id": "nypost_entertainment_16",
+            "text": "Luke's death is the best part of the movie, you uncultured zoomer retard",
+            "safe_text": "Luke's death is the best part of the movie, you uncultured zoomer retard",
+            "character_fit": "stout_bot",
+            "category": "entertainment",
+            "keywords": [
+              "luke skywalker",
+              "death",
+              "climax"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment1.json",
+            "source_categories": [
+              "entertainment",
+              "star wars"
+            ]
+          },
+          {
+            "id": "nypost_entertainment_20",
+            "text": "Can confirm. Ghosts in Star Wars aren't immortal, they slowly fade due to dysentery. Incidentally, this is why Ghost Yoda can't solo the First Order. He'd gas out and get raped by an armored vehicle.",
+            "safe_text": "Can confirm. Ghosts in Star Wars aren't immortal, they slowly fade due to dysentery. Incidentally, this is why Ghost Yoda can't solo the First Order. He'd gas out and get raped by an armored vehicle.",
+            "character_fit": "stout_bot",
+            "category": "entertainment",
+            "keywords": [
+              "force ghosts",
+              "yoda",
+              "humor"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment1.json",
+            "source_categories": [
+              "entertainment",
+              "star wars"
+            ]
+          },
+          {
+            "id": "c_ent2_08",
+            "text": "Are they seriously going to surf dracula fuckin Narnia of all things?",
+            "safe_text": "Are they seriously going to surf dracula fuckin Narnia of all things?",
+            "character_fit": "stout_bot",
+            "category": "entertainment",
+            "keywords": [
+              "adaptation",
+              "plot structure",
+              "meme"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment2.json",
+            "source_categories": [
+              "entertainment",
+              "narnia"
+            ]
+          },
+          {
+            "id": "c_ent2_09",
+            "text": "That's literally how the book is.",
+            "safe_text": "That's literally how the book is.",
+            "character_fit": "stout_bot",
+            "category": "entertainment",
+            "keywords": [
+              "magicians nephew",
+              "cs lewis",
+              "canon"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment2.json",
+            "source_categories": [
+              "entertainment",
+              "narnia"
+            ]
+          },
+          {
+            "id": "c_ent2_14",
+            "text": "don't give Christian hating leftoids a Christian property to adapt. anyone could have told you this was DOA when they first announced she was doing it",
+            "safe_text": "don't give Christian hating leftoids a Christian property to adapt. anyone could have told you this was DOA when they first announced she was doing it",
+            "character_fit": "stout_bot",
+            "category": "entertainment",
+            "keywords": [
+              "ideology",
+              "adaptation",
+              "backlash"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment2.json",
+            "source_categories": [
+              "entertainment",
+              "narnia"
+            ]
+          },
+          {
+            "id": "c_ent2_15",
+            "text": "I hope the reshoots remove the christcuck shit",
+            "safe_text": "I hope the reshoots remove the christcuck shit",
+            "character_fit": "stout_bot",
+            "category": "entertainment",
+            "keywords": [
+              "allegory",
+              "religion",
+              "reshoots"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment2.json",
+            "source_categories": [
+              "entertainment",
+              "narnia"
+            ]
+          },
+          {
+            "id": "c_ent2_16",
+            "text": "Reminder a wrinkle in time blacklisted Ava DuVernay from Hollywood. Shes now back to making racial injustice slop",
+            "safe_text": "Reminder a wrinkle in time blacklisted Ava DuVernay from Hollywood. Shes now back to making racial injustice slop",
+            "character_fit": "stout_bot",
+            "category": "entertainment",
+            "keywords": [
+              "ava duvernay",
+              "hollywood",
+              "box office"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment2.json",
+            "source_categories": [
+              "entertainment",
+              "directors"
+            ]
+          },
+          {
+            "id": "c_ent2_18",
+            "text": "CS Lewis was a retarded christcuck more interested in culture wars than writing good shit. They need to let this garbage franchise go the way of the dodo already.",
+            "safe_text": "CS Lewis was a retarded christcuck more interested in culture wars than writing good shit. They need to let this garbage franchise go the way of the dodo already.",
+            "character_fit": "stout_bot",
+            "category": "entertainment",
+            "keywords": [
+              "cs lewis",
+              "critique",
+              "franchise"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment2.json",
+            "source_categories": [
+              "entertainment",
+              "narnia"
+            ]
+          },
+          {
+            "id": "c_ent_02",
+            "text": "Inde fatigue is real",
+            "safe_text": "Inde fatigue is real",
+            "character_fit": "stout_bot",
+            "category": "entertainment",
+            "keywords": [
+              "inde navarrette",
+              "fatigue",
+              "overexposure"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment3.json",
+            "source_categories": [
+              "entertainment",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "c_ent_08",
+            "text": "Total manlet victory",
+            "safe_text": "Total manlet victory",
+            "character_fit": "stout_bot",
+            "category": "entertainment",
+            "keywords": [
+              "manlet",
+              "height",
+              "meme"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment3.json",
+            "source_categories": [
+              "entertainment",
+              "culture"
+            ]
+          },
+          {
+            "id": "c_ent_14",
+            "text": "She’s always eating and ordering door dash during her streams.",
+            "safe_text": "She’s always eating and ordering door dash during her streams.",
+            "character_fit": "stout_bot",
+            "category": "entertainment",
+            "keywords": [
+              "doordash",
+              "streaming",
+              "lifestyle"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment3.json",
+            "source_categories": [
+              "entertainment",
+              "streaming"
+            ]
+          },
+          {
+            "id": "c_ent_15",
+            "text": "i wish i was her so bad",
+            "safe_text": "i wish i was her so bad",
+            "character_fit": "stout_bot",
+            "category": "entertainment",
+            "keywords": [
+              "envy",
+              "fame",
+              "comment"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment3.json",
+            "source_categories": [
+              "entertainment",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "c_ent1014_paris_03",
+            "text": "Man quebec is pathetic for ts bruh even more pathetic is the french canadian edition of the office they insisted upon having.",
+            "safe_text": "Man quebec is pathetic for ts bruh even more pathetic is the french canadian edition of the office they insisted upon having.",
+            "character_fit": "stout_bot",
+            "category": "entertainment",
+            "keywords": [
+              "quebec",
+              "the office",
+              "adaptation"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment5.json",
+            "source_categories": [
+              "entertainment",
+              "television"
+            ]
+          },
+          {
+            "id": "c_ent1014_paris_08",
+            "text": "She was an annoying vapid slut. The PROPER reaction of society towards those people is to hate them. When you start idolizing them you're done for",
+            "safe_text": "She was an annoying vapid slut. The PROPER reaction of society towards those people is to hate them. When you start idolizing them you're done for",
+            "character_fit": "stout_bot",
+            "category": "entertainment",
+            "keywords": [
+              "backlash",
+              "morality",
+              "culture"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment5.json",
+            "source_categories": [
+              "entertainment",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "c_ent1014_paris_11",
+            "text": "Was Paris Hilton the perfect woman? affluent sarcastic funny sociopath slender white blonde hates poors kind of weird looking so approachable",
+            "safe_text": "Was Paris Hilton the perfect woman? affluent sarcastic funny sociopath slender white blonde hates poors kind of weird looking so approachable",
+            "character_fit": "stout_bot",
+            "category": "entertainment",
+            "keywords": [
+              "paris hilton",
+              "archetype",
+              "meme"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment5.json",
+            "source_categories": [
+              "entertainment",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "c_ent1014_paris_14",
+            "text": "The only people that defend it are literal YASS QUEEN homosexual men and braindead women who like to pretend that Paris Hilton are just playing a character and are not the definition of nepo babies that failed at every other form of media.",
+            "safe_text": "The only people that defend it are literal YASS QUEEN homosexual men and braindead women who like to pretend that Paris Hilton are just playing a character and are not the definition of nepo babies that failed at every other form of media.",
+            "character_fit": "stout_bot",
+            "category": "entertainment",
+            "keywords": [
+              "critique",
+              "nepo baby",
+              "reality tv"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "4chan",
+            "source_file": "4chan1014_entertainment5.json",
+            "source_categories": [
+              "entertainment",
+              "television"
+            ]
           }
         ]
       }
@@ -13306,14 +16092,72 @@
         "nerd": [
           "There's more conservative on conservative crime than any other.",
           "Guillotine in the large public square is the most effective and inexpensive treatment. Crime rate will drop by 99%.",
-          "Well at least, for once, a 'mental episode' resulted in only one death, and not 10-20 innocent people and children."
+          "Well at least, for once, a 'mental episode' resulted in only one death, and not 10-20 innocent people and children.",
+          "He is which is why he's in jail and got beat up.",
+          "He used to think he was a real tough guy on the outside, but on the inside he’s just another punk.",
+          "There are no Jamaican drug lords in this prison it minimal security i have friends who work there",
+          "Oh boohoo. So the the abuser of women got abused by a man? Yeah, karma still works.",
+          "When Combs is 118, Dudus will be 119.",
+          "Combs got 4yrs for consensual prostitution while many violent convicts are walking with probation. Our system is a disaster",
+          "The charge was merely the most efficient method for getting that particular violent convict into prison. The system may be flawed but a loophole being used to get a victim-harrassing and witness-intimidating career criminal into prison and out of the way of further investigation is not exactly the best example of its failings.",
+          "Depraved, demented, disjointed, this could have been any Saturday night at a major university. They were probably college educated at a premier high dollar school. So ordinary.",
+          "Not only are they committing crimes but they were so intelligent they thought, hey, let’s record ourselves committing crimes. Genius I tell ya.",
+          "In any event this case has now moved to a real court.",
+          "Circumstantial…… but what do I know",
+          "If your convicted of the murder of a police officer you should be put to death. If your convicted of attempted murder of a police officer you should be put to death. You should not be awarded a lesser sentence simply because you failed in your attempt.",
+          "Every crime committed by an illegal alien, or a criminal alien, is a crime that didn't have to happen.",
+          "Both had rap sheets but were repeatedly released without bail due to the state’s sanctuary policies that forced local authorities to ignore federal immigration holds.",
+          "Five years + $250k seems a bit light. What visa?"
         ],
-        "eighties_guy": [],
+        "eighties_guy": [
+          "Sean “Diddy” Combs suffered a head injury after a Jamaican drug lord reportedly attacked the rapper for getting the inmates in trouble.",
+          "I think she rides hard. Very hard",
+          "Did Puffy consider offering Dudus a rap contract?",
+          "I thought he was a bad boy",
+          "Ah ..the official story? In X they were saying the reality was not like that.",
+          "Diddly found out Dudus is no Cassie the hard way",
+          "Natural consequences. When you make bad choices and love sin, THIS is what happens. Fornication is a sin, and when you purposely choose to do what you will, then God allows it and all the consequences that follow. Sean cared NOTHING about those he hurt and God.",
+          "So not his people? Dreads? No? Not cool, not friends?",
+          "It won’t be the last time",
+          "He brought the heat with his all-me attitude. So he got beat. Now he has a target on his back. Bomboclat",
+          "Sweet. I knew it wasn't no 'bumped his head on the bunk bed ' like reported yesterday. GOOD! who's up next? Diddy needs to feel it some more, no.?",
+          "Did they go to Cornell?",
+          "Well look at em all.. they fit the profile",
+          "Boys who will be boys turn into men who will be men...",
+          "The ex-fiance of a missing Florida mom was arrested and charged with murder on Wednesday – nearly 15 years after she vanished following their appearance on “The People’s Court,” police said.",
+          "Wapner would have given him the death penalty.",
+          "I recall Rusty the bailiff carried a revolver there in court and could have just shot him .",
+          "Officer Jose Mercedes, you are a bada— and I’m so glad you survived. A true testament to courage, duty and the will to survive.",
+          "The Detective is a stud, actually a bonafide servant of of the citizenry. The offender is the garbage the officer has to clean up daily because politicians are clueless.",
+          "Detective Jose Mercedes should absolutely receive the NYPD Medal of Honor!",
+          "With all the negative coverage the lamestream media gives cops, people forget most of them are good people trying to do the right thing.",
+          "Think about this that cop is young 10 years on the job he take an early retirement and probably get 70% pay and medical benefits not to bad. I have 30 years on my job and can't leave like that.",
+          "Such an inappropriate comment. This very brave NYPD Detective Jose Mercedes was stabbed ten times and could have lost his life. Prayers of healing and peace for this very brave detective and I thank him for his dedication and service.",
+          "This toilet paper camel rider is surprisingly dum for an engineer. Let the boys in prison take care of this one",
+          "Five Years in General Population in a Federal Prison should leave this dude a NOT SO HAPPY individual!!"
+        ],
         "skinny_bot": [],
         "stout_bot": [
           "I hope they don't let this guy off on an insanity plea.",
           "Sounds like Matthew lost his teeth because of the meth.",
-          "Words mean things. This dude was not a 'victim'. He wasn't thrown in this tiger habitat. It was deliberate."
+          "Words mean things. This dude was not a 'victim'. He wasn't thrown in this tiger habitat. It was deliberate.",
+          "Oh no what a shame",
+          "I would have loved to watch that beat down. Pedo got part of what he deserves.",
+          "Rub baby oil on the head bobo.",
+          "Getting a little taste aren't you diddy",
+          "To funny!! But he earned it.",
+          "One can only hope...",
+          "If justice prevails they might lose a certain virginity in prison",
+          "Good for them! Dopes!",
+          "They look guilty",
+          "Yeah.. he looks suspicious",
+          "Negative media the cops get, bro what are you talking about when you praise thug cops lie Dowd, Chauvin, Volpe, Pantaleo etc the list is to long to name man gtfoh.",
+          "fair treatment would be a shot to the head",
+          "Democrats are on the thugs side. 🤨",
+          "The Israeli's do this all the time.........",
+          "Need to arrest any and all Chinese employees at that company. They are surely doing the same as this dude.",
+          "bad abdul! bad!",
+          "No goat for You, Abdul."
         ]
       },
       "rich_comments": {
@@ -13381,9 +16225,890 @@
               "tragedy",
               "crime"
             ]
+          },
+          {
+            "id": "nypost_crime1_07",
+            "text": "He is which is why he's in jail and got beat up.",
+            "safe_text": "He is which is why he's in jail and got beat up.",
+            "character_fit": "nerd",
+            "category": "crime",
+            "keywords": [
+              "bad boy",
+              "prison reality",
+              "diddy"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Causality in correctional environments tends to be immediate and severe."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime1.json",
+            "source_categories": [
+              "crime",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "nypost_crime1_08",
+            "text": "He used to think he was a real tough guy on the outside, but on the inside he’s just another punk.",
+            "safe_text": "He used to think he was a real tough guy on the outside, but on the inside he’s just another punk.",
+            "character_fit": "nerd",
+            "category": "crime",
+            "keywords": [
+              "tough guy",
+              "prison reality",
+              "diddy"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "True institutional environments rapidly strip away manufactured public personas."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime1.json",
+            "source_categories": [
+              "crime",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "nypost_crime1_11",
+            "text": "There are no Jamaican drug lords in this prison it minimal security i have friends who work there",
+            "safe_text": "There are no Jamaican drug lords in this prison it minimal security i have friends who work there",
+            "character_fit": "nerd",
+            "category": "crime",
+            "keywords": [
+              "security level",
+              "fort dix",
+              "prison"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Institutional classification tiers strictly segregate inmate security clearances."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime1.json",
+            "source_categories": [
+              "crime",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "nypost_crime1_14",
+            "text": "Oh boohoo. So the the abuser of women got abused by a man? Yeah, karma still works.",
+            "safe_text": "Oh boohoo. So the the abuser of women got abused by a man? Yeah, karma still works.",
+            "character_fit": "nerd",
+            "category": "crime",
+            "keywords": [
+              "karma",
+              "abuse",
+              "poetic justice"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Retributive justice operates on its own timeline, regardless of celebrity status."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime1.json",
+            "source_categories": [
+              "crime",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "nypost_crime1_16",
+            "text": "When Combs is 118, Dudus will be 119.",
+            "safe_text": "When Combs is 118, Dudus will be 119.",
+            "character_fit": "nerd",
+            "category": "crime",
+            "keywords": [
+              "age",
+              "comparison",
+              "prison"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Comparative longevity metrics in federal custody are certainly notable."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime1.json",
+            "source_categories": [
+              "crime",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "nypost_crime1_18",
+            "text": "Combs got 4yrs for consensual prostitution while many violent convicts are walking with probation. Our system is a disaster",
+            "safe_text": "Combs got 4yrs for consensual prostitution while many violent convicts are walking with probation. Our system is a disaster",
+            "character_fit": "nerd",
+            "category": "crime",
+            "keywords": [
+              "sentencing",
+              "justice system",
+              "disparity"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Sentencing discrepancies in federal jurisdictions frequently draw widespread criticism."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime1.json",
+            "source_categories": [
+              "crime",
+              "legal"
+            ]
+          },
+          {
+            "id": "nypost_crime1_19",
+            "text": "The charge was merely the most efficient method for getting that particular violent convict into prison. The system may be flawed but a loophole being used to get a victim-harrassing and witness-intimidating career criminal into prison and out of the way of further investigation is not exactly the best example of its failings.",
+            "safe_text": "The charge was merely the most efficient method for getting that particular violent convict into prison. The system may be flawed but a loophole being used to get a victim-harrassing and witness-intimidating career criminal into prison and out of the way of further investigation is not exactly the best example of its failings.",
+            "character_fit": "nerd",
+            "category": "crime",
+            "keywords": [
+              "legal strategy",
+              "prosecution",
+              "federal charges"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Prosecutors often leverage tactical charging instruments to secure pre-trial detention."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime1.json",
+            "source_categories": [
+              "crime",
+              "legal"
+            ]
+          },
+          {
+            "id": "nypost_crime2_09",
+            "text": "Depraved, demented, disjointed, this could have been any Saturday night at a major university. They were probably college educated at a premier high dollar school. So ordinary.",
+            "safe_text": "Depraved, demented, disjointed, this could have been any Saturday night at a major university. They were probably college educated at a premier high dollar school. So ordinary.",
+            "character_fit": "nerd",
+            "category": "crime",
+            "keywords": [
+              "higher education",
+              "sociology",
+              "elites"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Institutional prestige frequently correlates with shielded misconduct."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "society"
+            ]
+          },
+          {
+            "id": "nypost_crime2_11",
+            "text": "Not only are they committing crimes but they were so intelligent they thought, hey, let’s record ourselves committing crimes. Genius I tell ya.",
+            "safe_text": "Not only are they committing crimes but they were so intelligent they thought, hey, let’s record ourselves committing crimes. Genius I tell ya.",
+            "character_fit": "nerd",
+            "category": "crime",
+            "keywords": [
+              "digital evidence",
+              "incriminating",
+              "hubris"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Perpetrators chronically underestimate the permanence of digital telemetry."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "technology"
+            ]
+          },
+          {
+            "id": "nypost_crime3_04",
+            "text": "In any event this case has now moved to a real court.",
+            "safe_text": "In any event this case has now moved to a real court.",
+            "character_fit": "nerd",
+            "category": "crime",
+            "keywords": [
+              "jurisdiction",
+              "trial",
+              "legal system"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Transitioning from arbitration entertainment to a felony criminal docket."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime3.json",
+            "source_categories": [
+              "crime",
+              "courts"
+            ]
+          },
+          {
+            "id": "nypost_crime3_05",
+            "text": "Circumstantial…… but what do I know",
+            "safe_text": "Circumstantial…… but what do I know",
+            "character_fit": "nerd",
+            "category": "crime",
+            "keywords": [
+              "circumstantial evidence",
+              "law",
+              "prosecution"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Circumstantial evidence matrices are frequently sufficient to secure homicide convictions."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime3.json",
+            "source_categories": [
+              "crime",
+              "courts"
+            ]
+          },
+          {
+            "id": "nypost_crime3_11",
+            "text": "If your convicted of the murder of a police officer you should be put to death. If your convicted of attempted murder of a police officer you should be put to death. You should not be awarded a lesser sentence simply because you failed in your attempt.",
+            "safe_text": "If your convicted of the murder of a police officer you should be put to death. If your convicted of attempted murder of a police officer you should be put to death. You should not be awarded a lesser sentence simply because you failed in your attempt.",
+            "character_fit": "nerd",
+            "category": "crime",
+            "keywords": [
+              "capital punishment",
+              "attempted murder",
+              "sentencing"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Statutory penal codes differentiate criminal intent from completed harm in sentencing thresholds."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime3.json",
+            "source_categories": [
+              "crime",
+              "legal"
+            ]
+          },
+          {
+            "id": "nypost_crime3_15",
+            "text": "Every crime committed by an illegal alien, or a criminal alien, is a crime that didn't have to happen.",
+            "safe_text": "Every crime committed by an illegal alien, or a criminal alien, is a crime that didn't have to happen.",
+            "character_fit": "nerd",
+            "category": "crime",
+            "keywords": [
+              "immigration",
+              "preventable crime",
+              "statistics"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Causal logic dictates that strict border enforcement eliminates non-citizen domestic offense metrics."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime3.json",
+            "source_categories": [
+              "crime",
+              "policy"
+            ]
+          },
+          {
+            "id": "nypost_crime3_20",
+            "text": "Both had rap sheets but were repeatedly released without bail due to the state’s sanctuary policies that forced local authorities to ignore federal immigration holds.",
+            "safe_text": "Both had rap sheets but were repeatedly released without bail due to the state’s sanctuary policies that forced local authorities to ignore federal immigration holds.",
+            "character_fit": "nerd",
+            "category": "crime",
+            "keywords": [
+              "bail reform",
+              "detainer",
+              "recidivism"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Bail reform statutes combined with non-cooperation detainers correlate directly with repeat offender releases."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime3.json",
+            "source_categories": [
+              "crime",
+              "legal"
+            ]
+          },
+          {
+            "id": "nypost_crime4_04",
+            "text": "Five years + $250k seems a bit light. What visa?",
+            "safe_text": "Five years + $250k seems a bit light. What visa?",
+            "character_fit": "nerd",
+            "category": "crime",
+            "keywords": [
+              "sentencing",
+              "visa",
+              "espionage"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Federal statutory maximums for unauthorized interception charges often fail to reflect corporate trade secret valuations."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime4.json",
+            "source_categories": [
+              "crime",
+              "legal"
+            ]
           }
         ],
-        "eighties_guy": [],
+        "eighties_guy": [
+          {
+            "id": "nypost_crime1_01",
+            "text": "Sean “Diddy” Combs suffered a head injury after a Jamaican drug lord reportedly attacked the rapper for getting the inmates in trouble.",
+            "safe_text": "Sean “Diddy” Combs suffered a head injury after a Jamaican drug lord reportedly attacked the rapper for getting the inmates in trouble.",
+            "character_fit": "eighties_guy",
+            "category": "crime",
+            "keywords": [
+              "diddy",
+              "prison fight",
+              "attack"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Prison politics are no joke, man. You cross the wrong crew behind bars, you pay the price."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime1.json",
+            "source_categories": [
+              "crime",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "nypost_crime1_03",
+            "text": "I think she rides hard. Very hard",
+            "safe_text": "I think she rides hard. Very hard",
+            "character_fit": "eighties_guy",
+            "category": "crime",
+            "keywords": [
+              "comment",
+              "prison",
+              "diddy"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "That's quite a take right there, man."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime1.json",
+            "source_categories": [
+              "crime",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "nypost_crime1_04",
+            "text": "Did Puffy consider offering Dudus a rap contract?",
+            "safe_text": "Did Puffy consider offering Dudus a rap contract?",
+            "character_fit": "eighties_guy",
+            "category": "crime",
+            "keywords": [
+              "puffy",
+              "dudus",
+              "joke"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "That would be one hell of a joint venture, brother."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime1.json",
+            "source_categories": [
+              "crime",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "nypost_crime1_06",
+            "text": "I thought he was a bad boy",
+            "safe_text": "I thought he was a bad boy",
+            "character_fit": "eighties_guy",
+            "category": "crime",
+            "keywords": [
+              "bad boy records",
+              "diddy",
+              "tough guy"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Turns out the studio tough guy routine doesn't hold up in federal prison, man."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime1.json",
+            "source_categories": [
+              "crime",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "nypost_crime1_10",
+            "text": "Ah ..the official story? In X they were saying the reality was not like that.",
+            "safe_text": "Ah ..the official story? In X they were saying the reality was not like that.",
+            "character_fit": "eighties_guy",
+            "category": "crime",
+            "keywords": [
+              "social media",
+              "rumors",
+              "diddy"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "You can never trust the official narrative coming out of these places, man."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime1.json",
+            "source_categories": [
+              "crime",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "nypost_crime1_12",
+            "text": "Diddly found out Dudus is no Cassie the hard way",
+            "safe_text": "Diddly found out Dudus is no Cassie the hard way",
+            "character_fit": "eighties_guy",
+            "category": "crime",
+            "keywords": [
+              "diddy",
+              "cassie",
+              "dudus"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Big difference between bullying pop singers and messing with hardened cartels, man."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime1.json",
+            "source_categories": [
+              "crime",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "nypost_crime1_15",
+            "text": "Natural consequences. When you make bad choices and love sin, THIS is what happens. Fornication is a sin, and when you purposely choose to do what you will, then God allows it and all the consequences that follow. Sean cared NOTHING about those he hurt and God.",
+            "safe_text": "Natural consequences. When you make bad choices and love sin, THIS is what happens. Fornication is a sin, and when you purposely choose to do what you will, then God allows it and all the consequences that follow. Sean cared NOTHING about those he hurt and God.",
+            "character_fit": "eighties_guy",
+            "category": "crime",
+            "keywords": [
+              "consequences",
+              "morality",
+              "faith"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "What goes around comes around, man. That's just universal law."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime1.json",
+            "source_categories": [
+              "crime",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "nypost_crime1_17",
+            "text": "So not his people? Dreads? No? Not cool, not friends?",
+            "safe_text": "So not his people? Dreads? No? Not cool, not friends?",
+            "character_fit": "eighties_guy",
+            "category": "crime",
+            "keywords": [
+              "alliances",
+              "prison gangs",
+              "diddy"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Prison cliques don't care about your album sales, brother."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime1.json",
+            "source_categories": [
+              "crime",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "nypost_crime1_21",
+            "text": "It won’t be the last time",
+            "safe_text": "It won’t be the last time",
+            "character_fit": "eighties_guy",
+            "category": "crime",
+            "keywords": [
+              "prison fights",
+              "repeat",
+              "diddy"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Once you're marked inside, you're always looking over your shoulder, man."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime1.json",
+            "source_categories": [
+              "crime",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "nypost_crime1_23",
+            "text": "He brought the heat with his all-me attitude. So he got beat. Now he has a target on his back. Bomboclat",
+            "safe_text": "He brought the heat with his all-me attitude. So he got beat. Now he has a target on his back. Bomboclat",
+            "character_fit": "eighties_guy",
+            "category": "crime",
+            "keywords": [
+              "attitude",
+              "target",
+              "prison"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Ego is the absolute worst thing you can bring into a cell block, man."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime1.json",
+            "source_categories": [
+              "crime",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "nypost_crime1_24",
+            "text": "Sweet. I knew it wasn't no 'bumped his head on the bunk bed ' like reported yesterday. GOOD! who's up next? Diddy needs to feel it some more, no.?",
+            "safe_text": "Sweet. I knew it wasn't no 'bumped his head on the bunk bed ' like reported yesterday. GOOD! who's up next? Diddy needs to feel it some more, no.?",
+            "character_fit": "eighties_guy",
+            "category": "crime",
+            "keywords": [
+              "bunk bed",
+              "cover story",
+              "prison"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "The prison press release always tries to spin it, but the truth always leaks out, man."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime1.json",
+            "source_categories": [
+              "crime",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "nypost_crime2_15",
+            "text": "Did they go to Cornell?",
+            "safe_text": "Did they go to Cornell?",
+            "character_fit": "eighties_guy",
+            "category": "crime",
+            "keywords": [
+              "ivy league",
+              "cornell",
+              "joke"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Always gotta drop an Ivy League reference into a scandal, man."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "education"
+            ]
+          },
+          {
+            "id": "nypost_crime2_18",
+            "text": "Well look at em all.. they fit the profile",
+            "safe_text": "Well look at em all.. they fit the profile",
+            "character_fit": "eighties_guy",
+            "category": "crime",
+            "keywords": [
+              "profiling",
+              "status",
+              "behavior"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Certain circles always seem to follow the exact same predictable script, man."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "society"
+            ]
+          },
+          {
+            "id": "nypost_crime2_21",
+            "text": "Boys who will be boys turn into men who will be men...",
+            "safe_text": "Boys who will be boys turn into men who will be men...",
+            "character_fit": "eighties_guy",
+            "category": "crime",
+            "keywords": [
+              "cliche",
+              "behavior",
+              "excuses"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "That old excuse doesn't fly when criminal charges get involved, man."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "culture"
+            ]
+          },
+          {
+            "id": "nypost_crime3_01",
+            "text": "The ex-fiance of a missing Florida mom was arrested and charged with murder on Wednesday – nearly 15 years after she vanished following their appearance on “The People’s Court,” police said.",
+            "safe_text": "The ex-fiance of a missing Florida mom was arrested and charged with murder on Wednesday – nearly 15 years after she vanished following their appearance on “The People’s Court,” police said.",
+            "character_fit": "eighties_guy",
+            "category": "crime",
+            "keywords": [
+              "peoples court",
+              "murder arrest",
+              "cold case"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Fifteen years is a long time to run, but justice eventually catches up with you, brother."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime3.json",
+            "source_categories": [
+              "crime",
+              "courts"
+            ]
+          },
+          {
+            "id": "nypost_crime3_02",
+            "text": "Wapner would have given him the death penalty.",
+            "safe_text": "Wapner would have given him the death penalty.",
+            "character_fit": "eighties_guy",
+            "category": "crime",
+            "keywords": [
+              "judge wapner",
+              "peoples court",
+              "joke"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Judge Wapner didn't take any nonsense in his courtroom back in the day, man!"
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime3.json",
+            "source_categories": [
+              "crime",
+              "courts"
+            ]
+          },
+          {
+            "id": "nypost_crime3_03",
+            "text": "I recall Rusty the bailiff carried a revolver there in court and could have just shot him .",
+            "safe_text": "I recall Rusty the bailiff carried a revolver there in court and could have just shot him .",
+            "character_fit": "eighties_guy",
+            "category": "crime",
+            "keywords": [
+              "rusty",
+              "bailiff",
+              "peoples court"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Classic TV bailiffs definitely had a presence about them, man."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime3.json",
+            "source_categories": [
+              "crime",
+              "courts"
+            ]
+          },
+          {
+            "id": "nypost_crime3_07",
+            "text": "Officer Jose Mercedes, you are a bada— and I’m so glad you survived. A true testament to courage, duty and the will to survive.",
+            "safe_text": "Officer Jose Mercedes, you are a bada— and I’m so glad you survived. A true testament to courage, duty and the will to survive.",
+            "character_fit": "eighties_guy",
+            "category": "crime",
+            "keywords": [
+              "hero",
+              "nypd",
+              "courage"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "That is pure grit and toughness right there, brother. Mad respect."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime3.json",
+            "source_categories": [
+              "crime",
+              "police"
+            ]
+          },
+          {
+            "id": "nypost_crime3_10",
+            "text": "The Detective is a stud, actually a bonafide servant of of the citizenry. The offender is the garbage the officer has to clean up daily because politicians are clueless.",
+            "safe_text": "The Detective is a stud, actually a bonafide servant of of the citizenry. The offender is the garbage the officer has to clean up daily because politicians are clueless.",
+            "character_fit": "eighties_guy",
+            "category": "crime",
+            "keywords": [
+              "detective",
+              "street justice",
+              "politicians"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "The guys on the beat have to deal with the messes made in city hall, man."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime3.json",
+            "source_categories": [
+              "crime",
+              "police"
+            ]
+          },
+          {
+            "id": "nypost_crime3_12",
+            "text": "Detective Jose Mercedes should absolutely receive the NYPD Medal of Honor!",
+            "safe_text": "Detective Jose Mercedes should absolutely receive the NYPD Medal of Honor!",
+            "character_fit": "eighties_guy",
+            "category": "crime",
+            "keywords": [
+              "medal of honor",
+              "nypd",
+              "recognition"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Give that man the highest honor the department's got, brother!"
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime3.json",
+            "source_categories": [
+              "crime",
+              "police"
+            ]
+          },
+          {
+            "id": "nypost_crime3_16",
+            "text": "With all the negative coverage the lamestream media gives cops, people forget most of them are good people trying to do the right thing.",
+            "safe_text": "With all the negative coverage the lamestream media gives cops, people forget most of them are good people trying to do the right thing.",
+            "character_fit": "eighties_guy",
+            "category": "crime",
+            "keywords": [
+              "media bias",
+              "police support",
+              "narrative"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Most officers are just working stiffs trying to keep the streets safe and make it home, brother."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime3.json",
+            "source_categories": [
+              "crime",
+              "media"
+            ]
+          },
+          {
+            "id": "nypost_crime3_23",
+            "text": "Think about this that cop is young 10 years on the job he take an early retirement and probably get 70% pay and medical benefits not to bad. I have 30 years on my job and can't leave like that.",
+            "safe_text": "Think about this that cop is young 10 years on the job he take an early retirement and probably get 70% pay and medical benefits not to bad. I have 30 years on my job and can't leave like that.",
+            "character_fit": "eighties_guy",
+            "category": "crime",
+            "keywords": [
+              "disability pension",
+              "pension",
+              "nypd"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Taking ten stabs to the body isn't exactly an easy trade-off for a pension, man."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime3.json",
+            "source_categories": [
+              "crime",
+              "work"
+            ]
+          },
+          {
+            "id": "nypost_crime3_24",
+            "text": "Such an inappropriate comment. This very brave NYPD Detective Jose Mercedes was stabbed ten times and could have lost his life. Prayers of healing and peace for this very brave detective and I thank him for his dedication and service.",
+            "safe_text": "Such an inappropriate comment. This very brave NYPD Detective Jose Mercedes was stabbed ten times and could have lost his life. Prayers of healing and peace for this very brave detective and I thank him for his dedication and service.",
+            "character_fit": "eighties_guy",
+            "category": "crime",
+            "keywords": [
+              "detective",
+              "support",
+              "respect"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Exactly, brother. The man shed blood keeping people safe."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime3.json",
+            "source_categories": [
+              "crime",
+              "police"
+            ]
+          },
+          {
+            "id": "nypost_crime4_12",
+            "text": "This toilet paper camel rider is surprisingly dum for an engineer. Let the boys in prison take care of this one",
+            "safe_text": "This toilet paper camel rider is surprisingly dum for an engineer. Let the boys in prison take care of this one",
+            "character_fit": "eighties_guy",
+            "category": "crime",
+            "keywords": [
+              "engineer",
+              "prison",
+              "street justice"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Ego makes guys sloppy, man. Thought he was slick and got caught red-handed."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime4.json",
+            "source_categories": [
+              "crime",
+              "prison"
+            ]
+          },
+          {
+            "id": "nypost_crime4_22",
+            "text": "Five Years in General Population in a Federal Prison should leave this dude a NOT SO HAPPY individual!!",
+            "safe_text": "Five Years in General Population in a Federal Prison should leave this dude a NOT SO HAPPY individual!!",
+            "character_fit": "eighties_guy",
+            "category": "crime",
+            "keywords": [
+              "general population",
+              "federal prison",
+              "punishment"
+            ],
+            "score": 0,
+            "reply": {
+              "text": "Gen pop in federal lockup is gonna be a massive wake-up call for an office guy, brother."
+            },
+            "source": "New York Post",
+            "source_file": "nypost1014_crime4.json",
+            "source_categories": [
+              "crime",
+              "prison"
+            ]
+          }
+        ],
         "skinny_bot": [],
         "stout_bot": [
           {
@@ -13450,6 +17175,346 @@
             "source_categories": [
               "tragedy",
               "crime"
+            ]
+          },
+          {
+            "id": "nypost_crime1_02",
+            "text": "Oh no what a shame",
+            "safe_text": "Oh no what a shame",
+            "character_fit": "stout_bot",
+            "category": "crime",
+            "keywords": [
+              "diddy",
+              "sarcasm",
+              "prison"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime1.json",
+            "source_categories": [
+              "crime",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "nypost_crime1_05",
+            "text": "I would have loved to watch that beat down. Pedo got part of what he deserves.",
+            "safe_text": "I would have loved to watch that beat down. Pedo got part of what he deserves.",
+            "character_fit": "stout_bot",
+            "category": "crime",
+            "keywords": [
+              "diddy",
+              "justice",
+              "beatdown"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime1.json",
+            "source_categories": [
+              "crime",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "nypost_crime1_09",
+            "text": "Rub baby oil on the head bobo.",
+            "safe_text": "Rub baby oil on the head bobo.",
+            "character_fit": "stout_bot",
+            "category": "crime",
+            "keywords": [
+              "baby oil",
+              "joke",
+              "diddy"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime1.json",
+            "source_categories": [
+              "crime",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "nypost_crime1_13",
+            "text": "Getting a little taste aren't you diddy",
+            "safe_text": "Getting a little taste aren't you diddy",
+            "character_fit": "stout_bot",
+            "category": "crime",
+            "keywords": [
+              "diddy",
+              "karma",
+              "prison"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime1.json",
+            "source_categories": [
+              "crime",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "nypost_crime1_20",
+            "text": "To funny!! But he earned it.",
+            "safe_text": "To funny!! But he earned it.",
+            "character_fit": "stout_bot",
+            "category": "crime",
+            "keywords": [
+              "funny",
+              "karma",
+              "diddy"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime1.json",
+            "source_categories": [
+              "crime",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "nypost_crime1_22",
+            "text": "One can only hope...",
+            "safe_text": "One can only hope...",
+            "character_fit": "stout_bot",
+            "category": "crime",
+            "keywords": [
+              "hope",
+              "prison",
+              "diddy"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime1.json",
+            "source_categories": [
+              "crime",
+              "celebrity"
+            ]
+          },
+          {
+            "id": "nypost_crime2_22",
+            "text": "If justice prevails they might lose a certain virginity in prison",
+            "safe_text": "If justice prevails they might lose a certain virginity in prison",
+            "character_fit": "stout_bot",
+            "category": "crime",
+            "keywords": [
+              "prison joke",
+              "justice",
+              "dark humor"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "prison"
+            ]
+          },
+          {
+            "id": "nypost_crime2_24",
+            "text": "Good for them! Dopes!",
+            "safe_text": "Good for them! Dopes!",
+            "character_fit": "stout_bot",
+            "category": "crime",
+            "keywords": [
+              "dopes",
+              "reaction",
+              "justice"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "commentary"
+            ]
+          },
+          {
+            "id": "nypost_crime2_28",
+            "text": "They look guilty",
+            "safe_text": "They look guilty",
+            "character_fit": "stout_bot",
+            "category": "crime",
+            "keywords": [
+              "appearance",
+              "guilt",
+              "judgment"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime2.json",
+            "source_categories": [
+              "crime",
+              "commentary"
+            ]
+          },
+          {
+            "id": "nypost_crime3_06",
+            "text": "Yeah.. he looks suspicious",
+            "safe_text": "Yeah.. he looks suspicious",
+            "character_fit": "stout_bot",
+            "category": "crime",
+            "keywords": [
+              "mugshot",
+              "suspicious",
+              "judgment"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime3.json",
+            "source_categories": [
+              "crime",
+              "courts"
+            ]
+          },
+          {
+            "id": "nypost_crime3_17",
+            "text": "Negative media the cops get, bro what are you talking about when you praise thug cops lie Dowd, Chauvin, Volpe, Pantaleo etc the list is to long to name man gtfoh.",
+            "safe_text": "Negative media the cops get, bro what are you talking about when you praise thug cops lie Dowd, Chauvin, Volpe, Pantaleo etc the list is to long to name man gtfoh.",
+            "character_fit": "stout_bot",
+            "category": "crime",
+            "keywords": [
+              "police brutality",
+              "bad cops",
+              "pushback"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime3.json",
+            "source_categories": [
+              "crime",
+              "police"
+            ]
+          },
+          {
+            "id": "nypost_crime3_22",
+            "text": "fair treatment would be a shot to the head",
+            "safe_text": "fair treatment would be a shot to the head",
+            "character_fit": "stout_bot",
+            "category": "crime",
+            "keywords": [
+              "extreme",
+              "vigilante",
+              "comment"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime3.json",
+            "source_categories": [
+              "crime",
+              "edgelord"
+            ]
+          },
+          {
+            "id": "nypost_crime3_25",
+            "text": "Democrats are on the thugs side. 🤨",
+            "safe_text": "Democrats are on the thugs side. 🤨",
+            "character_fit": "stout_bot",
+            "category": "crime",
+            "keywords": [
+              "partisanship",
+              "democrats",
+              "crime"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime3.json",
+            "source_categories": [
+              "crime",
+              "politics"
+            ]
+          },
+          {
+            "id": "nypost_crime4_11",
+            "text": "The Israeli's do this all the time.........",
+            "safe_text": "The Israeli's do this all the time.........",
+            "character_fit": "stout_bot",
+            "category": "crime",
+            "keywords": [
+              "israel",
+              "espionage",
+              "geopolitics"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime4.json",
+            "source_categories": [
+              "crime",
+              "geopolitics"
+            ]
+          },
+          {
+            "id": "nypost_crime4_20",
+            "text": "Need to arrest any and all Chinese employees at that company. They are surely doing the same as this dude.",
+            "safe_text": "Need to arrest any and all Chinese employees at that company. They are surely doing the same as this dude.",
+            "character_fit": "stout_bot",
+            "category": "crime",
+            "keywords": [
+              "china",
+              "paranoia",
+              "arrests"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime4.json",
+            "source_categories": [
+              "crime",
+              "tech"
+            ]
+          },
+          {
+            "id": "nypost_crime4_23",
+            "text": "bad abdul! bad!",
+            "safe_text": "bad abdul! bad!",
+            "character_fit": "stout_bot",
+            "category": "crime",
+            "keywords": [
+              "joke",
+              "comment",
+              "snark"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime4.json",
+            "source_categories": [
+              "crime",
+              "humor"
+            ]
+          },
+          {
+            "id": "nypost_crime4_24",
+            "text": "No goat for You, Abdul.",
+            "safe_text": "No goat for You, Abdul.",
+            "character_fit": "stout_bot",
+            "category": "crime",
+            "keywords": [
+              "joke",
+              "insult",
+              "comment"
+            ],
+            "score": 0,
+            "reply": null,
+            "source": "New York Post",
+            "source_file": "nypost1014_crime4.json",
+            "source_categories": [
+              "crime",
+              "humor"
             ]
           }
         ]
