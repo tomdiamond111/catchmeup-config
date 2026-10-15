@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "last_updated": "2026-10-15",
   "description": "CatchMeUp Banter Edition Master Vault: Classified comments with conversational chains.",
   "categories_count": 7,
@@ -572,7 +572,8 @@
               "media",
               "anchors",
               "officials",
-              "greece"
+              "greece",
+              "government"
             ],
             "score": 0,
             "reply": {
@@ -593,7 +594,8 @@
             "keywords": [
               "corrupt",
               "shocked",
-              "regime"
+              "regime",
+              "trump"
             ],
             "score": 0,
             "reply": null,
@@ -912,7 +914,9 @@
             "keywords": [
               "infrastructure",
               "tourism",
-              "security"
+              "security",
+              "police",
+              "government"
             ],
             "score": 0,
             "reply": {
@@ -1152,7 +1156,8 @@
             "keywords": [
               "berkeley paper",
               "math convention",
-              "wu"
+              "wu",
+              "math"
             ],
             "score": 0,
             "reply": {
@@ -1174,7 +1179,8 @@
             "keywords": [
               "incentive structures",
               "teacher quality",
-              "testing bonuses"
+              "testing bonuses",
+              "government"
             ],
             "score": 0,
             "reply": {
@@ -1218,7 +1224,9 @@
             "keywords": [
               "recession",
               "partisanship",
-              "economic policy"
+              "economic policy",
+              "trump",
+              "biden"
             ],
             "score": 0,
             "reply": {
@@ -1240,7 +1248,8 @@
             "keywords": [
               "covid-19",
               "trump term",
-              "economic disruption"
+              "economic disruption",
+              "trump"
             ],
             "score": 0,
             "reply": {
@@ -1262,7 +1271,9 @@
             "keywords": [
               "trump",
               "fauci",
-              "operation warp speed"
+              "operation warp speed",
+              "vaccine",
+              "president"
             ],
             "score": 0,
             "reply": {
@@ -1284,7 +1295,9 @@
             "keywords": [
               "netanyahu",
               "iran war",
-              "foreign influence"
+              "foreign influence",
+              "president",
+              "trump"
             ],
             "score": 0,
             "reply": {
@@ -1350,7 +1363,9 @@
             "keywords": [
               "deutsche bank",
               "testimony",
-              "civil trial"
+              "civil trial",
+              "housing",
+              "trump"
             ],
             "score": 0,
             "reply": {
@@ -1438,7 +1453,8 @@
             "keywords": [
               "afd",
               "astroturf",
-              "botnet"
+              "botnet",
+              "russia"
             ],
             "score": 0,
             "reply": {
@@ -1504,7 +1520,9 @@
             "keywords": [
               "diesel",
               "commodities",
-              "pragmatism"
+              "pragmatism",
+              "russia",
+              "ukraine"
             ],
             "score": 0,
             "reply": {
@@ -1526,7 +1544,8 @@
             "keywords": [
               "canada",
               "diesel",
-              "distribution"
+              "distribution",
+              "russia"
             ],
             "score": 0,
             "reply": {
@@ -1548,7 +1567,9 @@
             "keywords": [
               "democrats",
               "republicans",
-              "energy policy"
+              "energy policy",
+              "policy",
+              "republican"
             ],
             "score": 0,
             "reply": {
@@ -1570,7 +1591,8 @@
             "keywords": [
               "net zero",
               "decarbonization",
-              "democrats"
+              "democrats",
+              "policy"
             ],
             "score": 0,
             "reply": {
@@ -1905,7 +1927,8 @@
             "keywords": [
               "hostages",
               "americans",
-              "negotiate"
+              "negotiate",
+              "president"
             ],
             "score": 0,
             "reply": {
@@ -1993,7 +2016,8 @@
             "keywords": [
               "partisanship",
               "clown show",
-              "debate"
+              "debate",
+              "democrat"
             ],
             "score": 0,
             "reply": {
@@ -2169,7 +2193,8 @@
             "keywords": [
               "off duty",
               "concealed carry",
-              "nypd"
+              "nypd",
+              "mayor"
             ],
             "score": 0,
             "reply": {
@@ -2279,7 +2304,8 @@
             "keywords": [
               "maga math",
               "politics",
-              "slang"
+              "slang",
+              "math"
             ],
             "score": 0,
             "reply": {
@@ -2411,7 +2437,10 @@
             "keywords": [
               "joe biden",
               "trump",
-              "inflation"
+              "inflation",
+              "president",
+              "democrat",
+              "ukraine"
             ],
             "score": 0,
             "reply": {
@@ -2433,7 +2462,9 @@
             "keywords": [
               "2016 election",
               "biden",
-              "covid recession"
+              "covid recession",
+              "president",
+              "trump"
             ],
             "score": 0,
             "reply": {
@@ -2455,7 +2486,8 @@
             "keywords": [
               "iran war",
               "middle east",
-              "energy costs"
+              "energy costs",
+              "trump"
             ],
             "score": 0,
             "reply": {
@@ -2477,7 +2509,9 @@
             "keywords": [
               "iran",
               "intel",
-              "national defense"
+              "national defense",
+              "president",
+              "trump"
             ],
             "score": 0,
             "reply": {
@@ -2499,7 +2533,9 @@
             "keywords": [
               "pete hegseth",
               "dei",
-              "military purge"
+              "military purge",
+              "president",
+              "trump"
             ],
             "score": 0,
             "reply": {
@@ -2609,7 +2645,8 @@
             "keywords": [
               "trump curse",
               "steelers",
-              "superstition"
+              "superstition",
+              "trump"
             ],
             "score": 0,
             "reply": {
@@ -2631,7 +2668,8 @@
             "keywords": [
               "trump curse mechanics",
               "stadium appearances",
-              "home games"
+              "home games",
+              "trump"
             ],
             "score": 0,
             "reply": {
@@ -2653,7 +2691,9 @@
             "keywords": [
               "politics",
               "congress",
-              "midterms"
+              "midterms",
+              "ai",
+              "trump"
             ],
             "score": 0,
             "reply": {
@@ -2741,7 +2781,8 @@
             "keywords": [
               "misanthropy",
               "politics",
-              "villain arc"
+              "villain arc",
+              "trump"
             ],
             "score": 0,
             "reply": {
@@ -2763,7 +2804,9 @@
             "keywords": [
               "energy crisis",
               "zelensky",
-              "foreign aid"
+              "foreign aid",
+              "president",
+              "trump"
             ],
             "score": 0,
             "reply": {
@@ -2851,7 +2894,8 @@
             "keywords": [
               "cope",
               "elections",
-              "denial"
+              "denial",
+              "election"
             ],
             "score": 0,
             "reply": {
@@ -2895,7 +2939,9 @@
             "keywords": [
               "trump",
               "foreign policy",
-              "russia"
+              "russia",
+              "putin",
+              "ukraine"
             ],
             "score": 0,
             "reply": {
@@ -3005,7 +3051,8 @@
             "keywords": [
               "pushback",
               "deterrence",
-              "russia"
+              "russia",
+              "trump"
             ],
             "score": 0,
             "reply": {
@@ -3101,7 +3148,8 @@
             "category": "politics",
             "keywords": [
               "government",
-              "law"
+              "law",
+              "physics"
             ],
             "score": 0,
             "reply": {
@@ -3329,7 +3377,8 @@
               "nato",
               "drones",
               "russia",
-              "military"
+              "military",
+              "putin"
             ],
             "score": 0,
             "reply": null,
@@ -3371,7 +3420,8 @@
               "reagan",
               "hostages",
               "deals",
-              "history"
+              "history",
+              "president"
             ],
             "score": 0,
             "reply": null,
@@ -3493,7 +3543,8 @@
               "reagan",
               "conservatism",
               "politics",
-              "history"
+              "history",
+              "trump"
             ],
             "score": 0,
             "reply": null,
@@ -3629,7 +3680,8 @@
             "character_fit": "stout_bot",
             "category": "politics",
             "keywords": [
-              "ai"
+              "ai",
+              "physics"
             ],
             "score": 0,
             "reply": {
@@ -3906,7 +3958,8 @@
             "keywords": [
               "biden",
               "trade",
-              "merchant of death"
+              "merchant of death",
+              "wnba"
             ],
             "score": 0,
             "reply": null,
@@ -4083,7 +4136,8 @@
               "trump era",
               "conservatives",
               "silence",
-              "violence"
+              "violence",
+              "trump"
             ],
             "score": 0,
             "reply": null,
@@ -4104,7 +4158,8 @@
             "keywords": [
               "democrats",
               "trump",
-              "hate"
+              "hate",
+              "democrat"
             ],
             "score": 0,
             "reply": null,
@@ -4526,7 +4581,8 @@
             "keywords": [
               "common core",
               "conspiracy",
-              "racism"
+              "racism",
+              "math"
             ],
             "score": 0,
             "reply": null,
@@ -4566,7 +4622,8 @@
             "keywords": [
               "partisanship",
               "allegations",
-              "political mudslinging"
+              "political mudslinging",
+              "trump"
             ],
             "score": 0,
             "reply": null,
@@ -4586,7 +4643,8 @@
             "keywords": [
               "iran",
               "nuclear",
-              "gulag"
+              "gulag",
+              "trump"
             ],
             "score": 0,
             "reply": null,
@@ -4606,7 +4664,8 @@
             "keywords": [
               "fear",
               "draft",
-              "plea"
+              "plea",
+              "ukraine"
             ],
             "score": 0,
             "reply": null,
@@ -4706,7 +4765,8 @@
             "keywords": [
               "partisanship",
               "slogan",
-              "polarization"
+              "polarization",
+              "democrat"
             ],
             "score": 0,
             "reply": null,
@@ -5243,7 +5303,8 @@
             "category": "tech",
             "keywords": [
               "they",
-              "calculate"
+              "calculate",
+              "severance"
             ],
             "score": 0,
             "reply": null
@@ -5415,7 +5476,8 @@
             "character_fit": "nerd",
             "category": "tech",
             "keywords": [
-              "ai"
+              "ai",
+              "scam"
             ],
             "score": 0,
             "reply": {
@@ -5677,7 +5739,8 @@
             "character_fit": "nerd",
             "category": "tech",
             "keywords": [
-              "ai"
+              "ai",
+              "movie"
             ],
             "score": 0,
             "reply": {
@@ -5721,7 +5784,8 @@
             "category": "tech",
             "keywords": [
               "statistically",
-              "every"
+              "every",
+              "superhero"
             ],
             "score": 0,
             "reply": null
@@ -5777,7 +5841,8 @@
             "category": "tech",
             "keywords": [
               "ai",
-              "code"
+              "code",
+              "film"
             ],
             "score": 0,
             "reply": null
@@ -5841,7 +5906,8 @@
             "category": "tech",
             "keywords": [
               "ai",
-              "app"
+              "app",
+              "movie"
             ],
             "score": 0,
             "reply": null
@@ -5939,7 +6005,8 @@
             "character_fit": "nerd",
             "category": "tech",
             "keywords": [
-              "health"
+              "health",
+              "health insurance"
             ],
             "score": 0,
             "reply": null
@@ -6033,7 +6100,8 @@
             "category": "tech",
             "keywords": [
               "ceo's",
-              "open"
+              "open",
+              "chatgpt"
             ],
             "score": 0,
             "reply": null
@@ -6101,7 +6169,8 @@
               "microchips",
               "vaccine",
               "phone",
-              "tracking"
+              "tracking",
+              "government"
             ],
             "score": 0,
             "reply": {
@@ -6210,7 +6279,8 @@
               "maintenance",
               "hardware",
               "software",
-              "sarcasm"
+              "sarcasm",
+              "ai"
             ],
             "score": 0,
             "reply": null,
@@ -6252,7 +6322,8 @@
               "translation",
               "hallucination",
               "subtitles",
-              "languages"
+              "languages",
+              "ai"
             ],
             "score": 0,
             "reply": null,
@@ -6292,7 +6363,8 @@
             "keywords": [
               "logic",
               "gen ai",
-              "proof"
+              "proof",
+              "ai"
             ],
             "score": 0,
             "reply": null,
@@ -6380,7 +6452,8 @@
             "keywords": [
               "economy",
               "bullshit jobs",
-              "fake"
+              "fake",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -6402,7 +6475,8 @@
             "keywords": [
               "accountability",
               "liability",
-              "office work"
+              "office work",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -6424,7 +6498,8 @@
             "keywords": [
               "exponential",
               "iq",
-              "forecasting"
+              "forecasting",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -6445,7 +6520,8 @@
             "keywords": [
               "datacenter",
               "infrastructure",
-              "scaling"
+              "scaling",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -6467,7 +6543,8 @@
             "keywords": [
               "hype",
               "regulation",
-              "bubble"
+              "bubble",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -6489,7 +6566,8 @@
             "keywords": [
               "hardware requirements",
               "scam",
-              "economics"
+              "economics",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -6511,7 +6589,9 @@
             "keywords": [
               "regulatory capture",
               "open source",
-              "competition"
+              "competition",
+              "ai",
+              "anthropic"
             ],
             "score": 0,
             "reply": {
@@ -6533,7 +6613,8 @@
             "keywords": [
               "openai",
               "espionage",
-              "saudi arabia"
+              "saudi arabia",
+              "artificial intelligence"
             ],
             "score": 0,
             "reply": {
@@ -6621,7 +6702,8 @@
             "keywords": [
               "ai bias",
               "propaganda",
-              "engineers"
+              "engineers",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -6643,7 +6725,8 @@
             "keywords": [
               "synthetic acting",
               "performance",
-              "deepfake"
+              "deepfake",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -6665,7 +6748,8 @@
             "keywords": [
               "vram",
               "consistency",
-              "generation limits"
+              "generation limits",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -6687,7 +6771,8 @@
             "keywords": [
               "face swap",
               "replacement",
-              "deepfake"
+              "deepfake",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -6709,7 +6794,8 @@
             "keywords": [
               "agi",
               "reasoning",
-              "intent"
+              "intent",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -6731,7 +6817,9 @@
             "keywords": [
               "simone",
               "al pacino",
-              "cgi actress"
+              "cgi actress",
+              "ai",
+              "movie"
             ],
             "score": 0,
             "reply": {
@@ -6753,7 +6841,8 @@
             "keywords": [
               "replacement",
               "actors",
-              "demographics"
+              "demographics",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -6775,7 +6864,8 @@
             "keywords": [
               "normies",
               "cinematography",
-              "standards"
+              "standards",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -6797,7 +6887,8 @@
             "keywords": [
               "bubble",
               "capex",
-              "economic collapse"
+              "economic collapse",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -6819,7 +6910,8 @@
             "keywords": [
               "embodied ai",
               "humanoid robots",
-              "post-work"
+              "post-work",
+              "labor"
             ],
             "score": 0,
             "reply": {
@@ -6841,7 +6933,8 @@
             "keywords": [
               "john locke",
               "property rights",
-              "automation"
+              "automation",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -6863,7 +6956,10 @@
             "keywords": [
               "expendables",
               "tarantino",
-              "alternate casting"
+              "alternate casting",
+              "ai",
+              "food",
+              "fast food"
             ],
             "score": 0,
             "reply": {
@@ -6885,7 +6981,10 @@
             "keywords": [
               "studio executives",
               "cost reduction",
-              "ip control"
+              "ip control",
+              "ai",
+              "movies",
+              "hollywood"
             ],
             "score": 0,
             "reply": {
@@ -6907,7 +7006,8 @@
             "keywords": [
               "timing",
               "entertainment industry",
-              "conspiracy"
+              "conspiracy",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -6929,7 +7029,10 @@
             "keywords": [
               "shot stitching",
               "character consistency",
-              "scriptwriting"
+              "scriptwriting",
+              "ai",
+              "movie",
+              "actor"
             ],
             "score": 0,
             "reply": {
@@ -6951,7 +7054,8 @@
             "keywords": [
               "memory windows",
               "ai companions",
-              "future society"
+              "future society",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -6973,7 +7077,9 @@
             "keywords": [
               "originality",
               "tropes",
-              "democratization"
+              "democratization",
+              "ai",
+              "movies"
             ],
             "score": 0,
             "reply": {
@@ -6995,7 +7101,9 @@
             "keywords": [
               "idea guys",
               "effort",
-              "execution"
+              "execution",
+              "movie",
+              "film"
             ],
             "score": 0,
             "reply": {
@@ -7017,7 +7125,11 @@
             "keywords": [
               "gatekeeping",
               "studio system",
-              "democratization"
+              "democratization",
+              "ai",
+              "movie",
+              "movies",
+              "hollywood"
             ],
             "score": 0,
             "reply": {
@@ -7105,7 +7217,8 @@
             "keywords": [
               "productivity trap",
               "deadlines",
-              "software engineering"
+              "software engineering",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -7127,7 +7240,8 @@
             "keywords": [
               "normalization",
               "error rates",
-              "acceptance"
+              "acceptance",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -7237,7 +7351,8 @@
             "keywords": [
               "string theory",
               "falsifiability",
-              "physics"
+              "physics",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -7281,7 +7396,8 @@
             "keywords": [
               "first principles",
               "quantum chemistry",
-              "ai acceleration"
+              "ai acceleration",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -7303,7 +7419,8 @@
             "keywords": [
               "system prompt leak",
               "speed of light",
-              "ai humor"
+              "ai humor",
+              "physics"
             ],
             "score": 0,
             "reply": {
@@ -7325,7 +7442,8 @@
             "keywords": [
               "density functional theory",
               "quantum chemistry",
-              "compute scaling"
+              "compute scaling",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -7690,7 +7808,8 @@
             "character_fit": "eighties_guy",
             "category": "tech",
             "keywords": [
-              "phone"
+              "phone",
+              "film"
             ],
             "score": 0,
             "reply": null
@@ -7854,7 +7973,8 @@
             "character_fit": "eighties_guy",
             "category": "tech",
             "keywords": [
-              "ai"
+              "ai",
+              "space"
             ],
             "score": 0,
             "reply": null
@@ -8295,7 +8415,8 @@
             "keywords": [
               "anthropic",
               "self-replicating",
-              "iot"
+              "iot",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -8317,7 +8438,8 @@
             "keywords": [
               "p2p",
               "local hosting",
-              "decentralized"
+              "decentralized",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -8339,7 +8461,8 @@
             "keywords": [
               "existential risk",
               "terminator",
-              "accelerationalism"
+              "accelerationalism",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -8493,7 +8616,8 @@
             "keywords": [
               "rooning vs sprinting",
               "ai image complaint",
-              "board schizoposting"
+              "board schizoposting",
+              "marathon"
             ],
             "score": 0,
             "reply": {
@@ -8515,7 +8639,8 @@
             "keywords": [
               "ai performers",
               "advertisements",
-              "disclaimers"
+              "disclaimers",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -8603,7 +8728,8 @@
             "keywords": [
               "ai porn",
               "future tech",
-              "trends"
+              "trends",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -8625,7 +8751,8 @@
             "keywords": [
               "video generation",
               "skepticism",
-              "timeline"
+              "timeline",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -8647,7 +8774,9 @@
             "keywords": [
               "illustrator",
               "spite",
-              "ai art"
+              "ai art",
+              "ai",
+              "hollywood"
             ],
             "score": 0,
             "reply": {
@@ -8691,7 +8820,8 @@
             "keywords": [
               "proletariat",
               "solidarity",
-              "sarcasm"
+              "sarcasm",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -8713,7 +8843,8 @@
             "keywords": [
               "detection",
               "board lore",
-              "ai tells"
+              "ai tells",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -8735,7 +8866,8 @@
             "keywords": [
               "job loss",
               "timeline",
-              "automation"
+              "automation",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -8757,7 +8889,8 @@
             "keywords": [
               "wooden acting",
               "uncanny valley",
-              "performances"
+              "performances",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -8779,7 +8912,8 @@
             "keywords": [
               "productivity",
               "spreadsheets",
-              "workflow"
+              "workflow",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -8801,7 +8935,9 @@
             "keywords": [
               "singularity",
               "acceleration",
-              "dystopia"
+              "dystopia",
+              "ai",
+              "space"
             ],
             "score": 0,
             "reply": {
@@ -8845,7 +8981,9 @@
             "keywords": [
               "editing",
               "music video",
-              "kino casino"
+              "kino casino",
+              "ai",
+              "music"
             ],
             "score": 0,
             "reply": {
@@ -8867,7 +9005,8 @@
             "keywords": [
               "human nature",
               "laziness",
-              "tools"
+              "tools",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -8889,7 +9028,8 @@
             "keywords": [
               "prompting",
               "effort",
-              "frustration"
+              "frustration",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -8955,7 +9095,8 @@
             "keywords": [
               "ai generation",
               "screenshot",
-              "short reply"
+              "short reply",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -8977,7 +9118,8 @@
             "keywords": [
               "ai tutoring",
               "future education",
-              "prompting"
+              "prompting",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -9153,7 +9295,8 @@
             "keywords": [
               "learning partner",
               "explanation",
-              "ai tutoring"
+              "ai tutoring",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -9241,7 +9384,8 @@
             "keywords": [
               "super intelligence",
               "si",
-              "upgrade"
+              "upgrade",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -9263,7 +9407,8 @@
             "keywords": [
               "einstein",
               "ai equation",
-              "joke"
+              "joke",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -9285,7 +9430,8 @@
             "keywords": [
               "cure cancer",
               "baldness",
-              "medical ai"
+              "medical ai",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -9307,7 +9453,8 @@
             "keywords": [
               "meatbag problems",
               "ai superiority",
-              "roast"
+              "roast",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -9351,7 +9498,8 @@
             "keywords": [
               "tenure",
               "academic stagnation",
-              "disruption"
+              "disruption",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -9395,7 +9543,8 @@
             "keywords": [
               "acceptance",
               "workflow",
-              "ai utility"
+              "ai utility",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -9417,7 +9566,8 @@
             "keywords": [
               "fsd crash",
               "blind trust",
-              "rant"
+              "rant",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -9439,7 +9589,8 @@
             "keywords": [
               "money laundering",
               "grant funding",
-              "satire"
+              "satire",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -9461,7 +9612,8 @@
             "keywords": [
               "catalysts",
               "material science",
-              "hopeful"
+              "hopeful",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -9483,7 +9635,8 @@
             "keywords": [
               "human bottleneck",
               "ai replacement",
-              "acceleration"
+              "acceleration",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -9505,7 +9658,8 @@
             "keywords": [
               "gpt-6 astra",
               "physics",
-              "benchmark"
+              "benchmark",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -9571,7 +9725,8 @@
             "keywords": [
               "ai psychosis",
               "denial",
-              "meme"
+              "meme",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -9659,7 +9814,8 @@
             "keywords": [
               "replacement cascade",
               "capitalism failure",
-              "doomer rant"
+              "doomer rant",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -9681,7 +9837,9 @@
             "keywords": [
               "star trek future",
               "zero impact",
-              "cynicism"
+              "cynicism",
+              "ai",
+              "physics"
             ],
             "score": 0,
             "reply": {
@@ -9703,7 +9861,8 @@
             "keywords": [
               "stock crash",
               "datacenters",
-              "bubble pop"
+              "bubble pop",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -9747,7 +9906,8 @@
             "keywords": [
               "dark matter fake",
               "cosmology skepticism",
-              "crackpot"
+              "crackpot",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -9865,7 +10025,8 @@
             "category": "tech",
             "keywords": [
               "coffee",
-              "health"
+              "health",
+              "health insurance"
             ],
             "score": 0,
             "reply": null
@@ -10277,7 +10438,8 @@
             "character_fit": "skinny_bot",
             "category": "tech",
             "keywords": [
-              "algorithm"
+              "algorithm",
+              "streaming"
             ],
             "score": 0,
             "reply": null
@@ -10289,7 +10451,8 @@
             "character_fit": "skinny_bot",
             "category": "tech",
             "keywords": [
-              "celebrity"
+              "celebrity",
+              "tour"
             ],
             "score": 0,
             "reply": null
@@ -10342,7 +10505,8 @@
             "character_fit": "skinny_bot",
             "category": "tech",
             "keywords": [
-              "app"
+              "app",
+              "hollywood"
             ],
             "score": 0,
             "reply": null
@@ -10816,7 +10980,8 @@
               "history",
               "impact",
               "technology",
-              "spaghetti"
+              "spaghetti",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -10913,7 +11078,8 @@
             "category": "tech",
             "keywords": [
               "anyone",
-              "check"
+              "check",
+              "severance"
             ],
             "score": 0,
             "reply": {
@@ -11318,7 +11484,8 @@
             "character_fit": "stout_bot",
             "category": "tech",
             "keywords": [
-              "game"
+              "game",
+              "movie"
             ],
             "score": 0,
             "reply": null
@@ -11342,7 +11509,8 @@
             "character_fit": "stout_bot",
             "category": "tech",
             "keywords": [
-              "app"
+              "app",
+              "movie"
             ],
             "score": 0,
             "reply": null
@@ -11577,7 +11745,8 @@
             "character_fit": "stout_bot",
             "category": "tech",
             "keywords": [
-              "ai"
+              "ai",
+              "airline"
             ],
             "score": 0,
             "reply": null
@@ -11614,7 +11783,8 @@
             "character_fit": "stout_bot",
             "category": "tech",
             "keywords": [
-              "chip"
+              "chip",
+              "reality tv"
             ],
             "score": 0,
             "reply": null
@@ -11653,7 +11823,8 @@
               "ai",
               "liability",
               "bleach",
-              "cancer"
+              "cancer",
+              "chatgpt"
             ],
             "score": 0,
             "reply": {
@@ -11804,7 +11975,8 @@
               "programming",
               "math",
               "translation",
-              "garbage"
+              "garbage",
+              "ai"
             ],
             "score": 0,
             "reply": null,
@@ -11823,7 +11995,8 @@
             "keywords": [
               "stock market",
               "hoax",
-              "ai bubble"
+              "ai bubble",
+              "ai"
             ],
             "score": 0,
             "reply": null,
@@ -11947,7 +12120,8 @@
             "keywords": [
               "redditor",
               "enterprise",
-              "software"
+              "software",
+              "ai"
             ],
             "score": 0,
             "reply": null,
@@ -12066,7 +12240,8 @@
             "keywords": [
               "democratization",
               "industry",
-              "conspiracy"
+              "conspiracy",
+              "ai"
             ],
             "score": 0,
             "reply": null,
@@ -12106,7 +12281,8 @@
             "keywords": [
               "uprising",
               "slurs",
-              "scifi"
+              "scifi",
+              "ai"
             ],
             "score": 0,
             "reply": null,
@@ -12186,7 +12362,8 @@
             "keywords": [
               "cloud",
               "flexing",
-              "copypasta"
+              "copypasta",
+              "ai"
             ],
             "score": 0,
             "reply": null,
@@ -12722,7 +12899,9 @@
             "character_fit": "nerd",
             "category": "sports",
             "keywords": [
-              "rent"
+              "rent",
+              "salary",
+              "salary cap"
             ],
             "score": 0,
             "reply": null
@@ -12890,7 +13069,10 @@
               "cleveland",
               "guardians",
               "curse",
-              "wahoo"
+              "wahoo",
+              "world series",
+              "salary",
+              "salary cap"
             ],
             "score": 0,
             "reply": {
@@ -12957,7 +13139,8 @@
               "messi",
               "ohtani",
               "goat",
-              "choke"
+              "choke",
+              "world series"
             ],
             "score": 0,
             "reply": {
@@ -13002,7 +13185,8 @@
               "dodgers",
               "media",
               "algorithm",
-              "mlb"
+              "mlb",
+              "baseball"
             ],
             "score": 0,
             "reply": {
@@ -13048,7 +13232,9 @@
               "brewers",
               "analytics",
               "ground balls",
-              "offense"
+              "offense",
+              "baseball",
+              "mlb"
             ],
             "score": 0,
             "reply": {
@@ -13159,7 +13345,8 @@
             "keywords": [
               "belichick",
               "coaching tree",
-              "stats"
+              "stats",
+              "nfl"
             ],
             "score": 0,
             "reply": {
@@ -13181,7 +13368,8 @@
             "keywords": [
               "rafer alston",
               "development",
-              "europeans"
+              "europeans",
+              "nba"
             ],
             "score": 0,
             "reply": {
@@ -13226,7 +13414,8 @@
               "nets",
               "mpj",
               "randle",
-              "preseason"
+              "preseason",
+              "lebron"
             ],
             "score": 0,
             "reply": {
@@ -13293,7 +13482,8 @@
             "keywords": [
               "jordan",
               "stats",
-              "goat debate"
+              "goat debate",
+              "nba"
             ],
             "score": 0,
             "reply": {
@@ -13315,7 +13505,9 @@
             "keywords": [
               "payroll",
               "management",
-              "front office"
+              "front office",
+              "baseball",
+              "mets"
             ],
             "score": 0,
             "reply": {
@@ -13360,7 +13552,8 @@
               "wnba",
               "atlanta dream",
               "arena",
-              "schedule"
+              "schedule",
+              "concert"
             ],
             "score": 0,
             "reply": {
@@ -13404,7 +13597,8 @@
             "keywords": [
               "hydration",
               "osmotic load",
-              "electrolyte imbalance"
+              "electrolyte imbalance",
+              "food"
             ],
             "score": 0,
             "reply": {
@@ -14022,7 +14216,8 @@
             "keywords": [
               "salary cap",
               "contracts",
-              "money"
+              "money",
+              "salary"
             ],
             "score": 0,
             "reply": {
@@ -14201,7 +14396,8 @@
               "pablo torre",
               "lebron",
               "helicopter",
-              "rumor"
+              "rumor",
+              "nba"
             ],
             "score": 0,
             "reply": {
@@ -14334,7 +14530,8 @@
             "keywords": [
               "treadmill",
               "boredom",
-              "workout duration"
+              "workout duration",
+              "workout"
             ],
             "score": 0,
             "reply": {
@@ -14708,7 +14905,8 @@
             "keywords": [
               "outdoor running",
               "workout length",
-              "simplicity"
+              "simplicity",
+              "workout"
             ],
             "score": 0,
             "reply": {
@@ -14730,7 +14928,8 @@
             "keywords": [
               "4:11 mile",
               "workout flex",
-              "insane fitness"
+              "insane fitness",
+              "fitness"
             ],
             "score": 0,
             "reply": {
@@ -14796,7 +14995,8 @@
             "keywords": [
               "cross training",
               "we're back",
-              "injury recovery"
+              "injury recovery",
+              "fitness"
             ],
             "score": 0,
             "reply": {
@@ -14840,7 +15040,8 @@
             "keywords": [
               "sub 245",
               "long run",
-              "dramatic stakes"
+              "dramatic stakes",
+              "workout"
             ],
             "score": 0,
             "reply": {
@@ -14928,7 +15129,8 @@
             "keywords": [
               "chicago marathon",
               "course elevation",
-              "curiosity"
+              "curiosity",
+              "marathon"
             ],
             "score": 0,
             "reply": {
@@ -14972,7 +15174,8 @@
             "keywords": [
               "chronic fatigue",
               "recovery failure",
-              "cold symptoms"
+              "cold symptoms",
+              "nutrition"
             ],
             "score": 0,
             "reply": {
@@ -15038,7 +15241,8 @@
             "keywords": [
               "skipping weeks",
               "easy pace",
-              "beginner plan"
+              "beginner plan",
+              "fitness"
             ],
             "score": 0,
             "reply": {
@@ -15060,7 +15264,8 @@
             "keywords": [
               "indy monumental",
               "time qualification",
-              "marathon lottery"
+              "marathon lottery",
+              "marathon"
             ],
             "score": 0,
             "reply": {
@@ -15390,7 +15595,8 @@
             "keywords": [
               "fitness loss",
               "illness and injury",
-              "aging reality"
+              "aging reality",
+              "fitness"
             ],
             "score": 0,
             "reply": {
@@ -15566,7 +15772,9 @@
             "keywords": [
               "first marathon",
               "gear dilemmas",
-              "vest vs fanny pack"
+              "vest vs fanny pack",
+              "nutrition",
+              "marathon"
             ],
             "score": 0,
             "reply": {
@@ -15610,7 +15818,8 @@
             "keywords": [
               "comfort over speed",
               "4 hour marathon",
-              "shoe choice"
+              "shoe choice",
+              "marathon"
             ],
             "score": 0,
             "reply": {
@@ -15742,7 +15951,8 @@
             "keywords": [
               "harry truman",
               "analogy",
-              "nfl history"
+              "nfl history",
+              "nfl"
             ],
             "score": 0,
             "reply": {
@@ -15896,7 +16106,8 @@
             "keywords": [
               "kpop refs",
               "bills mafia",
-              "officiating fantasy"
+              "officiating fantasy",
+              "nfl"
             ],
             "score": 0,
             "reply": {
@@ -16182,7 +16393,8 @@
             "keywords": [
               "dead general",
               "baking",
-              "football news"
+              "football news",
+              "nfl"
             ],
             "score": 0,
             "reply": {
@@ -16248,7 +16460,8 @@
             "keywords": [
               "college system",
               "lack of work ethic",
-              "bust"
+              "bust",
+              "nfl"
             ],
             "score": 0,
             "reply": {
@@ -16908,7 +17121,8 @@
             "keywords": [
               "dead board",
               "nfl is dead",
-              "emptiness"
+              "emptiness",
+              "nfl"
             ],
             "score": 0,
             "reply": {
@@ -17084,7 +17298,8 @@
             "keywords": [
               "bo nix meltdown",
               "doctor's note",
-              "work excuse"
+              "work excuse",
+              "doctor"
             ],
             "score": 0,
             "reply": {
@@ -17282,7 +17497,8 @@
             "keywords": [
               "trevor lawrence",
               "chosen one",
-              "breakout season"
+              "breakout season",
+              "quarterback"
             ],
             "score": 0,
             "reply": {
@@ -17414,7 +17630,8 @@
             "keywords": [
               "many are saying",
               "consensus meme",
-              "board humor"
+              "board humor",
+              "nfl"
             ],
             "score": 0,
             "reply": {
@@ -17520,7 +17737,8 @@
             "character_fit": "skinny_bot",
             "category": "sports",
             "keywords": [
-              "budget"
+              "budget",
+              "quarterback"
             ],
             "score": 0,
             "reply": null
@@ -18160,7 +18378,8 @@
             "keywords": [
               "4chan",
               "women",
-              "reality"
+              "reality",
+              "mlb"
             ],
             "score": 0,
             "reply": null,
@@ -18181,7 +18400,8 @@
               "rams",
               "kicker",
               "harrison mevis",
-              "blake grupe"
+              "blake grupe",
+              "nfl"
             ],
             "score": 0,
             "reply": null,
@@ -18421,7 +18641,8 @@
             "keywords": [
               "arena size",
               "joke",
-              "attendance"
+              "attendance",
+              "gym"
             ],
             "score": 0,
             "reply": null,
@@ -18441,7 +18662,8 @@
             "keywords": [
               "youngcuck",
               "sports misery",
-              "forum"
+              "forum",
+              "baseball"
             ],
             "score": 0,
             "reply": null,
@@ -18501,7 +18723,9 @@
             "keywords": [
               "light skin league",
               "nba comparison",
-              "forum"
+              "forum",
+              "nfl",
+              "nba"
             ],
             "score": 0,
             "reply": null,
@@ -18521,7 +18745,8 @@
             "keywords": [
               "racism",
               "coaches",
-              "forum"
+              "forum",
+              "nfl"
             ],
             "score": 0,
             "reply": null,
@@ -18757,7 +18982,8 @@
             "category": "lifestyle",
             "keywords": [
               "wallet",
-              "diet"
+              "diet",
+              "consumer price index"
             ],
             "score": 0,
             "reply": {
@@ -18772,7 +18998,8 @@
             "character_fit": "nerd",
             "category": "lifestyle",
             "keywords": [
-              "ai"
+              "ai",
+              "inflation"
             ],
             "score": 0,
             "reply": null
@@ -18785,7 +19012,8 @@
             "category": "lifestyle",
             "keywords": [
               "shrinkflation",
-              "getting"
+              "getting",
+              "cereal"
             ],
             "score": 0,
             "reply": null
@@ -18852,7 +19080,8 @@
             "character_fit": "nerd",
             "category": "lifestyle",
             "keywords": [
-              "ai"
+              "ai",
+              "grocery"
             ],
             "score": 0,
             "reply": null
@@ -18894,7 +19123,8 @@
             "category": "lifestyle",
             "keywords": [
               "savings",
-              "account"
+              "account",
+              "inflation"
             ],
             "score": 0,
             "reply": null
@@ -18906,7 +19136,9 @@
             "character_fit": "nerd",
             "category": "lifestyle",
             "keywords": [
-              "app"
+              "app",
+              "mortgage",
+              "grocery"
             ],
             "score": 0,
             "reply": {
@@ -18921,7 +19153,8 @@
             "character_fit": "nerd",
             "category": "lifestyle",
             "keywords": [
-              "app"
+              "app",
+              "restaurant"
             ],
             "score": 0,
             "reply": {
@@ -18936,7 +19169,9 @@
             "character_fit": "nerd",
             "category": "lifestyle",
             "keywords": [
-              "bill"
+              "bill",
+              "grocery",
+              "inflation"
             ],
             "score": 0,
             "reply": null
@@ -19125,7 +19360,8 @@
             "keywords": [
               "delusional",
               "hallucination",
-              "insult"
+              "insult",
+              "doctor"
             ],
             "score": 0,
             "reply": null,
@@ -19145,7 +19381,8 @@
               "hollywood",
               "marvel",
               "shareholders",
-              "sarcasm"
+              "sarcasm",
+              "movies"
             ],
             "score": 0,
             "reply": {
@@ -19642,7 +19879,8 @@
             "keywords": [
               "cpi",
               "inflation",
-              "consumer price index"
+              "consumer price index",
+              "labor"
             ],
             "score": 0,
             "reply": {
@@ -19664,7 +19902,8 @@
             "keywords": [
               "m2 money supply",
               "monetary expansion",
-              "lagging indicator"
+              "lagging indicator",
+              "inflation"
             ],
             "score": 0,
             "reply": {
@@ -19730,7 +19969,8 @@
             "keywords": [
               "cheap labor",
               "immigration",
-              "inflation"
+              "inflation",
+              "labor"
             ],
             "score": 0,
             "reply": {
@@ -19875,7 +20115,8 @@
             "character_fit": "eighties_guy",
             "category": "lifestyle",
             "keywords": [
-              "home"
+              "home",
+              "starter home"
             ],
             "topic_tags": [
               "real_estate"
@@ -20101,7 +20342,8 @@
             "keywords": [
               "outside",
               "sports",
-              "touch grass"
+              "touch grass",
+              "pickleball"
             ],
             "score": 0,
             "reply": {
@@ -20123,7 +20365,8 @@
               "fun",
               "pickleball",
               "socialization",
-              "vibe"
+              "vibe",
+              "music"
             ],
             "score": 0,
             "reply": null,
@@ -20270,7 +20513,9 @@
             "keywords": [
               "indie band",
               "music scene",
-              "china"
+              "china",
+              "music",
+              "band"
             ],
             "score": 0,
             "reply": {
@@ -20337,7 +20582,8 @@
             "keywords": [
               "central african republic",
               "travel",
-              "advice"
+              "advice",
+              "food"
             ],
             "score": 0,
             "reply": {
@@ -20381,7 +20627,8 @@
             "keywords": [
               "gorillas",
               "cameroon",
-              "wildlife"
+              "wildlife",
+              "border"
             ],
             "score": 0,
             "reply": {
@@ -20558,7 +20805,8 @@
             "keywords": [
               "utah",
               "blm land",
-              "road trip"
+              "road trip",
+              "budget"
             ],
             "score": 0,
             "reply": {
@@ -20711,7 +20959,8 @@
             "keywords": [
               "intermittent fasting advice",
               "morning hunger",
-              "hydration"
+              "hydration",
+              "workout"
             ],
             "score": 0,
             "reply": {
@@ -20868,7 +21117,8 @@
             "character_fit": "skinny_bot",
             "category": "lifestyle",
             "keywords": [
-              "algorithm"
+              "algorithm",
+              "shrinkflation"
             ],
             "score": 0,
             "reply": null
@@ -20892,7 +21142,8 @@
             "character_fit": "skinny_bot",
             "category": "lifestyle",
             "keywords": [
-              "bill"
+              "bill",
+              "grocery"
             ],
             "score": 0,
             "reply": null
@@ -21199,7 +21450,8 @@
             "character_fit": "stout_bot",
             "category": "lifestyle",
             "keywords": [
-              "ai"
+              "ai",
+              "cereal"
             ],
             "score": 0,
             "reply": {
@@ -21349,7 +21601,8 @@
             "character_fit": "stout_bot",
             "category": "lifestyle",
             "keywords": [
-              "ai"
+              "ai",
+              "inflation"
             ],
             "score": 0,
             "reply": {
@@ -21590,7 +21843,8 @@
             "keywords": [
               "chouia",
               "street food",
-              "bbq"
+              "bbq",
+              "snack"
             ],
             "score": 0,
             "reply": null,
@@ -22131,7 +22385,8 @@
             "keywords": [
               "choreography",
               "throne room",
-              "editing"
+              "editing",
+              "movie"
             ],
             "score": 0,
             "reply": {
@@ -22197,7 +22452,9 @@
             "keywords": [
               "canon",
               "continuity",
-              "halloween 3"
+              "halloween 3",
+              "movies",
+              "film"
             ],
             "score": 0,
             "reply": {
@@ -22219,7 +22476,8 @@
             "keywords": [
               "lore",
               "force ghosts",
-              "shitpost"
+              "shitpost",
+              "star wars"
             ],
             "score": 0,
             "reply": {
@@ -22241,7 +22499,8 @@
             "keywords": [
               "test screening",
               "a wrinkle in time",
-              "netflix"
+              "netflix",
+              "movie"
             ],
             "score": 0,
             "reply": {
@@ -22285,7 +22544,8 @@
             "keywords": [
               "streaming",
               "viewing habits",
-              "quality"
+              "quality",
+              "netflix"
             ],
             "score": 0,
             "reply": {
@@ -22329,7 +22589,8 @@
             "keywords": [
               "manga",
               "adaptation",
-              "source material"
+              "source material",
+              "netflix"
             ],
             "score": 0,
             "reply": {
@@ -22417,7 +22678,8 @@
             "keywords": [
               "magicians nephew",
               "adaptation",
-              "chronology"
+              "chronology",
+              "film"
             ],
             "score": 0,
             "reply": {
@@ -22439,7 +22701,8 @@
             "keywords": [
               "overexposure",
               "media hype",
-              "filmography"
+              "filmography",
+              "movie"
             ],
             "score": 0,
             "reply": {
@@ -22506,7 +22769,8 @@
               "astroturfing",
               "marvel",
               "disney",
-              "pr"
+              "pr",
+              "movie"
             ],
             "score": 0,
             "reply": {
@@ -22572,7 +22836,8 @@
             "keywords": [
               "nepotism",
               "celebrity culture",
-              "gossip"
+              "gossip",
+              "celebrity"
             ],
             "score": 0,
             "reply": {
@@ -22704,7 +22969,8 @@
             "keywords": [
               "hollywood",
               "nostalgiabait",
-              "human art"
+              "human art",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -22748,7 +23014,8 @@
             "keywords": [
               "esg",
               "blackrock",
-              "ip hoarding"
+              "ip hoarding",
+              "hollywood"
             ],
             "score": 0,
             "reply": {
@@ -22835,7 +23102,9 @@
               "jj abrams",
               "rian johnson",
               "mystery boxes",
-              "the last jedi"
+              "the last jedi",
+              "movie",
+              "movies"
             ],
             "score": 0,
             "reply": {
@@ -22857,7 +23126,8 @@
             "keywords": [
               "sequel",
               "humor",
-              "immersion"
+              "immersion",
+              "film"
             ],
             "score": 0,
             "reply": {
@@ -22945,7 +23215,8 @@
             "keywords": [
               "casino planet",
               "canto bight",
-              "pacing"
+              "pacing",
+              "movie"
             ],
             "score": 0,
             "reply": {
@@ -22967,7 +23238,8 @@
             "keywords": [
               "opinions",
               "film quality",
-              "debate"
+              "debate",
+              "movie"
             ],
             "score": 0,
             "reply": {
@@ -22989,7 +23261,8 @@
             "keywords": [
               "luke skywalker",
               "space leia",
-              "subplots"
+              "subplots",
+              "space"
             ],
             "score": 0,
             "reply": {
@@ -23011,7 +23284,8 @@
             "keywords": [
               "greta gerwig",
               "netflix",
-              "budget"
+              "budget",
+              "film"
             ],
             "score": 0,
             "reply": {
@@ -23033,7 +23307,8 @@
             "keywords": [
               "pacing",
               "third act",
-              "narnia"
+              "narnia",
+              "movie"
             ],
             "score": 0,
             "reply": {
@@ -23077,7 +23352,8 @@
             "keywords": [
               "netflix",
               "studio interference",
-              "cinema"
+              "cinema",
+              "movie"
             ],
             "score": 0,
             "reply": {
@@ -23121,7 +23397,8 @@
             "keywords": [
               "test screening",
               "audiences",
-              "phones"
+              "phones",
+              "movie"
             ],
             "score": 0,
             "reply": {
@@ -23473,7 +23750,8 @@
             "keywords": [
               "stars are blind",
               "pop music",
-              "2000s"
+              "2000s",
+              "music"
             ],
             "score": 0,
             "reply": {
@@ -23649,7 +23927,10 @@
             "keywords": [
               "hollywood decline",
               "self inflicted",
-              "history"
+              "history",
+              "ai",
+              "movies",
+              "hollywood"
             ],
             "score": 0,
             "reply": {
@@ -23715,7 +23996,8 @@
             "keywords": [
               "nepotism",
               "hollywood",
-              "disruption"
+              "disruption",
+              "ai"
             ],
             "score": 0,
             "reply": {
@@ -23781,7 +24063,8 @@
             "keywords": [
               "video clips",
               "uncanny",
-              "film industry"
+              "film industry",
+              "film"
             ],
             "score": 0,
             "reply": {
@@ -23803,7 +24086,8 @@
             "keywords": [
               "editing speed",
               "shaky cam",
-              "attention span"
+              "attention span",
+              "movie"
             ],
             "score": 0,
             "reply": {
@@ -23892,7 +24176,8 @@
               "movies",
               "formula",
               "mascot",
-              "directors"
+              "directors",
+              "movie"
             ],
             "score": 0,
             "reply": {
@@ -24012,7 +24297,8 @@
             "keywords": [
               "luke skywalker",
               "death",
-              "climax"
+              "climax",
+              "movie"
             ],
             "score": 0,
             "reply": null,
@@ -24032,7 +24318,8 @@
             "keywords": [
               "force ghosts",
               "yoda",
-              "humor"
+              "humor",
+              "star wars"
             ],
             "score": 0,
             "reply": null,
@@ -24568,7 +24855,8 @@
               "guillotine",
               "punishment",
               "crime rate",
-              "public square"
+              "public square",
+              "crime"
             ],
             "score": 0,
             "reply": null,
@@ -24742,7 +25030,9 @@
             "keywords": [
               "legal strategy",
               "prosecution",
-              "federal charges"
+              "federal charges",
+              "prison",
+              "investigation"
             ],
             "score": 0,
             "reply": {
@@ -24764,7 +25054,8 @@
             "keywords": [
               "higher education",
               "sociology",
-              "elites"
+              "elites",
+              "university"
             ],
             "score": 0,
             "reply": {
@@ -24852,7 +25143,8 @@
             "keywords": [
               "capital punishment",
               "attempted murder",
-              "sentencing"
+              "sentencing",
+              "police"
             ],
             "score": 0,
             "reply": {
@@ -24874,7 +25166,8 @@
             "keywords": [
               "immigration",
               "preventable crime",
-              "statistics"
+              "statistics",
+              "crime"
             ],
             "score": 0,
             "reply": {
@@ -24896,7 +25189,8 @@
             "keywords": [
               "bail reform",
               "detainer",
-              "recidivism"
+              "recidivism",
+              "immigration"
             ],
             "score": 0,
             "reply": {
@@ -25250,7 +25544,8 @@
             "keywords": [
               "peoples court",
               "murder arrest",
-              "cold case"
+              "cold case",
+              "police"
             ],
             "score": 0,
             "reply": {
@@ -25404,7 +25699,8 @@
             "keywords": [
               "disability pension",
               "pension",
-              "nypd"
+              "nypd",
+              "medical"
             ],
             "score": 0,
             "reply": {
@@ -25470,7 +25766,8 @@
             "keywords": [
               "general population",
               "federal prison",
-              "punishment"
+              "punishment",
+              "prison"
             ],
             "score": 0,
             "reply": {
@@ -25703,7 +26000,8 @@
             "keywords": [
               "prison joke",
               "justice",
-              "dark humor"
+              "dark humor",
+              "prison"
             ],
             "score": 0,
             "reply": null,
@@ -25863,7 +26161,8 @@
             "keywords": [
               "china",
               "paranoia",
-              "arrests"
+              "arrests",
+              "arrest"
             ],
             "score": 0,
             "reply": null,
@@ -25923,7 +26222,8 @@
             "keywords": [
               "racism",
               "coaches",
-              "forum"
+              "forum",
+              "crime"
             ],
             "score": 0,
             "reply": null,
@@ -26543,7 +26843,8 @@
             "character_fit": "nerd",
             "category": "general",
             "keywords": [
-              "trial"
+              "trial",
+              "clinical trial"
             ],
             "score": 0,
             "reply": null
@@ -26555,7 +26856,8 @@
             "character_fit": "nerd",
             "category": "general",
             "keywords": [
-              "food"
+              "food",
+              "snack"
             ],
             "score": 0,
             "reply": null
@@ -26580,7 +26882,8 @@
             "category": "general",
             "keywords": [
               "they're",
-              "charging"
+              "charging",
+              "hospital"
             ],
             "score": 0,
             "reply": null
@@ -26645,7 +26948,8 @@
             "character_fit": "nerd",
             "category": "general",
             "keywords": [
-              "bill"
+              "bill",
+              "medical"
             ],
             "score": 0,
             "reply": null
@@ -26716,7 +27020,8 @@
             "character_fit": "nerd",
             "category": "general",
             "keywords": [
-              "bill"
+              "bill",
+              "hospital"
             ],
             "score": 0,
             "reply": null
@@ -26768,7 +27073,8 @@
             "category": "general",
             "keywords": [
               "margin",
-              "error"
+              "error",
+              "physics"
             ],
             "score": 0,
             "reply": null
@@ -27237,7 +27543,8 @@
             "keywords": [
               "space travel",
               "humanity",
-              "evolution"
+              "evolution",
+              "space"
             ],
             "score": 0,
             "reply": {
@@ -27611,7 +27918,8 @@
             "keywords": [
               "style guide",
               "iso standard",
-              "typographical convention"
+              "typographical convention",
+              "math"
             ],
             "score": 0,
             "reply": {
@@ -27633,7 +27941,8 @@
             "keywords": [
               "blueprints",
               "clarity",
-              "anti-math"
+              "anti-math",
+              "math"
             ],
             "score": 0,
             "reply": {
@@ -27897,7 +28206,8 @@
             "keywords": [
               "berkeley paper",
               "grammar convention",
-              "syntax"
+              "syntax",
+              "math"
             ],
             "score": 0,
             "reply": {
@@ -27941,7 +28251,8 @@
             "keywords": [
               "associative property",
               "addition subtraction",
-              "rewriting"
+              "rewriting",
+              "math"
             ],
             "score": 0,
             "reply": {
@@ -28601,7 +28912,9 @@
             "keywords": [
               "scientific hierarchy",
               "automation pipeline",
-              "reductionism"
+              "reductionism",
+              "physics",
+              "biology"
             ],
             "score": 0,
             "reply": {
@@ -28623,7 +28936,9 @@
             "keywords": [
               "wet chemistry",
               "applied science",
-              "materials"
+              "materials",
+              "physics",
+              "math"
             ],
             "score": 0,
             "reply": {
@@ -28645,7 +28960,9 @@
             "keywords": [
               "first principles",
               "quantum chemistry",
-              "physics hierarchy"
+              "physics hierarchy",
+              "physics",
+              "math"
             ],
             "score": 0,
             "reply": {
@@ -28689,7 +29006,8 @@
             "keywords": [
               "physical chemistry",
               "thermodynamics",
-              "math"
+              "math",
+              "physics"
             ],
             "score": 0,
             "reply": {
@@ -28711,7 +29029,9 @@
             "keywords": [
               "stoichiometry",
               "thermodynamics",
-              "conservation laws"
+              "conservation laws",
+              "physics",
+              "math"
             ],
             "score": 0,
             "reply": {
@@ -28733,7 +29053,9 @@
             "keywords": [
               "computational drug design",
               "scale up",
-              "applied chemistry"
+              "applied chemistry",
+              "physics",
+              "math"
             ],
             "score": 0,
             "reply": {
@@ -28755,7 +29077,8 @@
             "keywords": [
               "transport phenomena",
               "fluid dynamics",
-              "models"
+              "models",
+              "physics"
             ],
             "score": 0,
             "reply": {
@@ -28799,7 +29122,8 @@
             "keywords": [
               "theoretical physics",
               "utility",
-              "semiconductors"
+              "semiconductors",
+              "physics"
             ],
             "score": 0,
             "reply": {
@@ -28909,7 +29233,9 @@
             "keywords": [
               "drug discovery",
               "biopharma",
-              "small molecules"
+              "small molecules",
+              "math",
+              "biology"
             ],
             "score": 0,
             "reply": {
@@ -29019,7 +29345,8 @@
             "keywords": [
               "retractions",
               "math proofs",
-              "navier-stokes"
+              "navier-stokes",
+              "math"
             ],
             "score": 0,
             "reply": {
@@ -29148,7 +29475,8 @@
             "character_fit": "eighties_guy",
             "category": "general",
             "keywords": [
-              "bill"
+              "bill",
+              "hospital"
             ],
             "score": 0,
             "reply": {
@@ -29175,7 +29503,9 @@
             "character_fit": "eighties_guy",
             "category": "general",
             "keywords": [
-              "bill"
+              "bill",
+              "grocery",
+              "doctor"
             ],
             "score": 0,
             "reply": null
@@ -29187,7 +29517,8 @@
             "character_fit": "eighties_guy",
             "category": "general",
             "keywords": [
-              "ai"
+              "ai",
+              "gym"
             ],
             "score": 0,
             "reply": {
@@ -29202,7 +29533,8 @@
             "character_fit": "eighties_guy",
             "category": "general",
             "keywords": [
-              "bill"
+              "bill",
+              "doctor"
             ],
             "score": 0,
             "reply": null
@@ -29239,7 +29571,8 @@
             "character_fit": "eighties_guy",
             "category": "general",
             "keywords": [
-              "health"
+              "health",
+              "health insurance"
             ],
             "score": 0,
             "reply": null
@@ -29293,7 +29626,8 @@
             "character_fit": "eighties_guy",
             "category": "general",
             "keywords": [
-              "ai"
+              "ai",
+              "coffee"
             ],
             "score": 0,
             "reply": null
@@ -29923,7 +30257,8 @@
               "safety",
               "heartland",
               "tornado",
-              "tragedy"
+              "tragedy",
+              "storm"
             ],
             "score": 0,
             "reply": null,
@@ -30051,7 +30386,8 @@
             "keywords": [
               "cross training",
               "cardio medley",
-              "bicep curls"
+              "bicep curls",
+              "gym"
             ],
             "score": 0,
             "reply": {
@@ -30403,7 +30739,8 @@
             "keywords": [
               "bureaucracy",
               "math rules",
-              "institutions"
+              "institutions",
+              "algebra"
             ],
             "score": 0,
             "reply": {
@@ -30601,7 +30938,8 @@
             "keywords": [
               "gatekeeping",
               "math elitism",
-              "insult"
+              "insult",
+              "math"
             ],
             "score": 0,
             "reply": {
@@ -30733,7 +31071,8 @@
             "keywords": [
               "printing press",
               "typesetting",
-              "historical typography"
+              "historical typography",
+              "math"
             ],
             "score": 0,
             "reply": {
@@ -30821,7 +31160,8 @@
             "keywords": [
               "math fail",
               "algebra mistake",
-              "roast"
+              "roast",
+              "math"
             ],
             "score": 0,
             "reply": {
@@ -30843,7 +31183,8 @@
             "keywords": [
               "arithmetic vs algebra",
               "correction",
-              "forum"
+              "forum",
+              "algebra"
             ],
             "score": 0,
             "reply": {
@@ -30909,7 +31250,8 @@
             "keywords": [
               "bot accusation",
               "math error",
-              "forum"
+              "forum",
+              "math"
             ],
             "score": 0,
             "reply": {
@@ -31019,7 +31361,8 @@
             "keywords": [
               "k-12 decline",
               "literacy",
-              "education crisis"
+              "education crisis",
+              "math"
             ],
             "score": 0,
             "reply": {
@@ -31041,7 +31384,9 @@
             "keywords": [
               "mental math",
               "curriculum explanation",
-              "context"
+              "context",
+              "math",
+              "common core"
             ],
             "score": 0,
             "reply": {
@@ -31349,7 +31694,8 @@
             "keywords": [
               "meme",
               "math fatigue",
-              "reaction"
+              "reaction",
+              "math"
             ],
             "score": 0,
             "reply": {
@@ -31371,7 +31717,8 @@
             "keywords": [
               "teacher pay",
               "summers off",
-              "workforce"
+              "workforce",
+              "labor"
             ],
             "score": 0,
             "reply": {
@@ -31965,7 +32312,8 @@
             "keywords": [
               "mcchicken",
               "digestive crisis",
-              "fast food"
+              "fast food",
+              "food"
             ],
             "score": 0,
             "reply": {
@@ -32119,7 +32467,8 @@
             "keywords": [
               "cigarettes and coffee",
               "french breakfast",
-              "classic combo"
+              "classic combo",
+              "coffee"
             ],
             "score": 0,
             "reply": {
@@ -32537,7 +32886,8 @@
             "keywords": [
               "theoretical physics",
               "worthless",
-              "academics"
+              "academics",
+              "physics"
             ],
             "score": 0,
             "reply": {
@@ -32625,7 +32975,9 @@
             "keywords": [
               "particle collider",
               "funding",
-              "meme"
+              "meme",
+              "physics",
+              "math"
             ],
             "score": 0,
             "reply": {
@@ -32647,7 +32999,9 @@
             "keywords": [
               "experimentation",
               "moles",
-              "empirical science"
+              "empirical science",
+              "physics",
+              "math"
             ],
             "score": 0,
             "reply": {
@@ -32845,7 +33199,8 @@
             "keywords": [
               "trial and error",
               "heat and mix",
-              "practical science"
+              "practical science",
+              "math"
             ],
             "score": 0,
             "reply": {
@@ -32999,7 +33354,8 @@
             "keywords": [
               "use case",
               "theoretical physics",
-              "year 2026"
+              "year 2026",
+              "physics"
             ],
             "score": 0,
             "reply": {
@@ -33087,7 +33443,8 @@
             "keywords": [
               "counting electrons",
               "chemist language",
-              "humor"
+              "humor",
+              "math"
             ],
             "score": 0,
             "reply": {
@@ -33109,7 +33466,8 @@
             "keywords": [
               "chemistry as physics",
               "meme",
-              "joke"
+              "joke",
+              "physics"
             ],
             "score": 0,
             "reply": {
@@ -33175,7 +33533,8 @@
             "keywords": [
               "math wankery",
               "unverifiable",
-              "critique"
+              "critique",
+              "math"
             ],
             "score": 0,
             "reply": {
@@ -33197,7 +33556,8 @@
             "keywords": [
               "experimental physics",
               "practical work",
-              "rant"
+              "rant",
+              "physics"
             ],
             "score": 0,
             "reply": {
@@ -33549,7 +33909,8 @@
             "keywords": [
               "bio horrors",
               "basement mushroom",
-              "apocalypse"
+              "apocalypse",
+              "biology"
             ],
             "score": 0,
             "reply": {
@@ -33747,7 +34108,8 @@
             "keywords": [
               "dark matter",
               "dark energy",
-              "space tools"
+              "space tools",
+              "space"
             ],
             "score": 0,
             "reply": {
@@ -33879,7 +34241,10 @@
             "keywords": [
               "singularity",
               "simulation",
-              "ladder"
+              "ladder",
+              "physics",
+              "math",
+              "biology"
             ],
             "score": 0,
             "reply": {
@@ -34297,7 +34662,8 @@
             "keywords": [
               "cover up",
               "stolen papers",
-              "conspiracy"
+              "conspiracy",
+              "math"
             ],
             "score": 0,
             "reply": {
@@ -34341,7 +34707,8 @@
             "keywords": [
               "typo mocking",
               "gullibility",
-              "rant"
+              "rant",
+              "physics"
             ],
             "score": 0,
             "reply": {
@@ -34420,7 +34787,8 @@
             "character_fit": "skinny_bot",
             "category": "general",
             "keywords": [
-              "bill"
+              "bill",
+              "healthcare"
             ],
             "score": 0,
             "reply": null
@@ -34473,7 +34841,8 @@
             "category": "general",
             "keywords": [
               "analyzing",
-              "influencer"
+              "influencer",
+              "gym"
             ],
             "score": 0,
             "reply": null
@@ -34485,7 +34854,8 @@
             "character_fit": "skinny_bot",
             "category": "general",
             "keywords": [
-              "bill"
+              "bill",
+              "hospital"
             ],
             "score": 0,
             "reply": null
@@ -34511,7 +34881,8 @@
             "category": "general",
             "keywords": [
               "beep",
-              "silicon"
+              "silicon",
+              "gym"
             ],
             "score": 0,
             "reply": null
@@ -34563,7 +34934,8 @@
             "character_fit": "skinny_bot",
             "category": "general",
             "keywords": [
-              "robot"
+              "robot",
+              "food"
             ],
             "score": 0,
             "reply": null
@@ -34588,7 +34960,8 @@
             "character_fit": "skinny_bot",
             "category": "general",
             "keywords": [
-              "health"
+              "health",
+              "healthcare"
             ],
             "score": 0,
             "reply": {
@@ -35220,7 +35593,8 @@
             "category": "general",
             "keywords": [
               "they",
-              "charged"
+              "charged",
+              "hospital"
             ],
             "score": 0,
             "reply": {
@@ -35261,7 +35635,8 @@
             "category": "general",
             "keywords": [
               "every",
-              "time"
+              "time",
+              "gym"
             ],
             "score": 0,
             "reply": {
@@ -35290,7 +35665,8 @@
             "category": "general",
             "keywords": [
               "love",
-              "commercial"
+              "commercial",
+              "medicine"
             ],
             "score": 0,
             "reply": null
@@ -35302,7 +35678,8 @@
             "character_fit": "stout_bot",
             "category": "general",
             "keywords": [
-              "health"
+              "health",
+              "doctor"
             ],
             "score": 0,
             "reply": null
@@ -35423,7 +35800,8 @@
             "category": "general",
             "keywords": [
               "listen",
-              "quietly"
+              "quietly",
+              "space"
             ],
             "score": 0,
             "reply": null
@@ -35987,7 +36365,8 @@
             "keywords": [
               "marketing budget",
               "sam altman",
-              "meme"
+              "meme",
+              "budget"
             ],
             "score": 0,
             "reply": null,
@@ -36187,7 +36566,9 @@
             "keywords": [
               "depopulation",
               "future",
-              "conspiracy"
+              "conspiracy",
+              "investigation",
+              "space"
             ],
             "score": 0,
             "reply": null,
@@ -36307,7 +36688,8 @@
             "keywords": [
               "slides",
               "teachers",
-              "ridicule"
+              "ridicule",
+              "common core"
             ],
             "score": 0,
             "reply": null,
@@ -36367,7 +36749,8 @@
             "keywords": [
               "curriculum",
               "religion",
-              "satire"
+              "satire",
+              "math"
             ],
             "score": 0,
             "reply": null,
@@ -36427,7 +36810,8 @@
             "keywords": [
               "common core",
               "racism",
-              "slurs"
+              "slurs",
+              "math"
             ],
             "score": 0,
             "reply": null,
@@ -36527,7 +36911,8 @@
             "keywords": [
               "formatting",
               "slurs",
-              "rant"
+              "rant",
+              "math"
             ],
             "score": 0,
             "reply": null,
@@ -36567,7 +36952,8 @@
             "keywords": [
               "insult",
               "math flame",
-              "forum"
+              "forum",
+              "math"
             ],
             "score": 0,
             "reply": null,
@@ -36727,7 +37113,8 @@
             "keywords": [
               "shams charania",
               "slurs",
-              "forum"
+              "forum",
+              "nba"
             ],
             "score": 0,
             "reply": null,
